@@ -90,8 +90,18 @@ def sayfa_uret(o, head, header, footer, url_map, idx):
     B = esc(gorunum_basligi(o))
 
     if o.get('gorseller'):
+        g0 = o['gorseller'][0]
         med = ('<div class="product-detail-image" id="main-img-box"><img src="%s" alt="%s"></div>'
-               % (esc(o['gorseller'][0]['url']), B))
+               % (esc(g0['url']), B))
+        if len(o['gorseller']) > 1:
+            etiketler = ['Ön yüz', 'Arka yüz', 'Ek görsel 3', 'Ek görsel 4', 'Ek görsel 5']
+            thumbs = []
+            for gi, g in enumerate(o['gorseller'][:5]):
+                et = g.get('kaynak') == 'kitap-tarama' and 'Kitap taraması (s.%s)' % ((o.get('kitap') or {}).get('sayfa') or '?') \
+                     or (etiketler[gi] if gi < len(etiketler) else '')
+                thumbs.append('<div class="thumb%s" data-full="%s" title="%s"><img src="%s" alt="%s"></div>'
+                              % (' active' if gi == 0 else '', esc(g['url']), esc(et), esc(g['url']), esc(et)))
+            med += '<div class="thumb-row">%s</div>' % ''.join(thumbs)
         if setli:
             med += ('<p style="font-size:.7rem;color:var(--muted-text);text-align:center;margin:.4rem 0 0">'
                     'Grup fotoğrafı: set üyeleri birlikte görüntülenir.</p>')

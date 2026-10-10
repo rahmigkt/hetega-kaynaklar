@@ -55,6 +55,7 @@ Hat şu adımlardan oluşur:
 | 7c | `sergi_sayfa.py` | envanter + sergi tanımı | `/sergiler/<slug>/` sayfaları + dizin |
 | 8 | `sergi_motoru.py` | envanter + sergi tanımı | çözümlenmiş sergi |
 | H1 | `hakem_arayuzu.py` | envanter + kitap blokları | `/calisma/hakemleme/` — 226 kayıt için karar arayüzü |
+| G1 | `gorsel_isle.py` | cilt PDF'leri + envanter | `kutuphane/ciltN/sXXX.jpg` + nesnelere görsel bağlama (ofset otomatik) |
 | H2 | `hakem_uygula.py` | `hakem_kararlari.json` | kararlar envantere işlenir |
 
 Site kazıntısını tazelemek için (`ara-veri/site_products.json`) `hetega-website`
@@ -107,6 +108,23 @@ python3 uretim/hakem_uygula.py                                        # envanter
 
 Kararlar `hakem` iziyle kayda yazılır (idempotent), kapsam dışına alınanlar
 `yayin.durum='kapsam_disi'` + `kayit_tipi` alır ve site üretiminde elenir.
+
+## Görsel bağlama (kitap PDF'lerinden)
+
+```bash
+pip install pymupdf
+python3 uretim/gorsel_isle.py --pdf /yol/cilt2.pdf --cilt II --dogrula "16:planetaryum,43:nişangâh"
+```
+
+* **Ofset otomatik**: basılı sayfa no ≠ PDF fiziksel sayfa; metin katmanından
+  kalibrasyon bulunur (`--ofset N` ile elle de verilebilir), `--dogrula` ile
+  anahtar kelimelerden teyit edilir.
+* Yalnızca **nesnesi olan sayfalar** render edilir (150 dpi, ≤1500 px, JPEG ~%82).
+* Aynı sayfada birden çok nesne varsa (set kayıtları) görsel hepsine
+  `sayfa_paylasimli` güven etiketiyle bağlanır.
+* Mevcut `katalog3` görselleri korunur; tarama **eklenir** (thumb-row'da arka yüz).
+* Tüm atamalar `envanter/gorsel_baglama.json`'a yazılır — elle override denetimi buradan.
+* PDF'ler teliflidir: `hetega-gorseller` (private) reposunda tutulur, bu depoya konmaz.
 
 ## Sergi motoru
 
