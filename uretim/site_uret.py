@@ -47,6 +47,15 @@ def slugify(s, maxlen=58):
     return s[:maxlen].rstrip('-') or 'nesne'
 
 def esc(s): return html.escape(s or '', quote=True)
+
+SUFIX_RE = re.compile(r'\(\d{1,3}/\d{1,3}\)\s*\Z')
+def gorunum_basligi(o):
+    """Set üyelerinde '(n/m)' soneki — başlıkta zaten varsa yinelemez."""
+    b = o.get('baslik') or ''
+    st = o.get('set') or {}
+    if st.get('uye_sayisi', 0) > 1 and st.get('uye_sira') and not SUFIX_RE.search(b):
+        return '%s (%d/%d)' % (b, st['uye_sira'], st['uye_sayisi'])
+    return b
 def nrm(s): return re.sub(r'\s+', ' ', s or '').strip()
 
 def blok_koy(t, icerik):
@@ -78,11 +87,7 @@ def sayfa_uret(o, head, header, footer, url_map, idx):
     krumb = ' / '.join(x for x in ['Envanter', esc(o['koleksiyon']),
                esc(h.get('alt_bolum') or ''), esc(h.get('alt_baslik') or '')] if x)
     setli = bool(o.get('set') and o['set'].get('uye_sayisi', 0) > 1)
-    if setli and o['yayin'].get('_set_baslik_eki'):
-        baslik = o['baslik'] + ' (%d/%d)' % (o['set'].get('uye_sira', 0), o['set']['uye_sayisi'])
-    else:
-        baslik = o['baslik']
-    B = esc(baslik)
+    B = esc(gorunum_basligi(o))
 
     if o.get('gorseller'):
         med = ('<div class="product-detail-image" id="main-img-box"><img src="%s" alt="%s"></div>'
@@ -237,8 +242,6 @@ def main():
     # ---- üretilecekler ----
     hazir = [o for o in N if o['yayin']['durum'] == 'eklenmeye_hazır']
     bolunecek = [o for o in N if o['yayin']['durum'] == 'set_üyesi_bölünecek']
-    for o in bolunecek:
-        o['yayin']['_set_baslik_eki'] = True
     hedefler = sorted(hazir + bolunecek, key=lambda o: (o['prefiks'], o['id']))
     print('hazır: %d | set üyesi bölünecek: %d' % (len(hazir), len(bolunecek)))
 
@@ -256,10 +259,7 @@ def main():
         if sl_mevcut and os.path.exists(os.path.join(pdir, sl_mevcut, 'index.html')):
             continue
         n += 1
-        ad = o['baslik']
-        if o.get('set') and o['set'].get('uye_sayisi', 0) > 1 and o['set'].get('uye_sira'):
-            ad = '%s (%d/%d)' % (ad, o['set']['uye_sira'], o['set']['uye_sayisi'])
-        sl = 'k3-%d-%s' % (n, slugify(ad))
+        sl = 'k3-%d-%s' % (n, slugify(gorunum_basligi(o)))
         url = '/products/' + sl
         icerik = sayfa_uret(o, head, header, footer, url_map, idx)
         d = os.path.join(pdir, sl)
@@ -319,9 +319,7 @@ def main():
     ipath = os.path.join(pdir, 'index.html')
     t = open(ipath, encoding='utf-8').read()
     kartlar = ''.join(kart(o['yayin']['url'],
-                           o['baslik'] + (' (%d/%d)' % (o['set']['uye_sira'], o['set']['uye_sayisi'])
-                                          if o.get('set') and o['set'].get('uye_sayisi', 0) > 1
-                                          and o['set'].get('uye_sira', 0) > 0 else ''),
+                           gorunum_basligi(o),
                            '%s · %s s.%s' % (o['envanter_gosterim'], o['hiyerarsi'].get('cilt') or '',
                                              (o.get('kitap') or {}).get('sayfa') or ''),
                            (o.get('gorseller') or [{}])[0].get('url'))
@@ -352,7 +350,7 @@ def main():
             continue
         tt = open(tp, encoding='utf-8').read()
         tt = re.sub(re.escape(M_BAS) + r'.*?' + re.escape(M_BIT), '', tt, flags=re.S)
-        kartlar2 = ''.join(kart(o['yayin']['url'], o['baslik'], o['envanter_gosterim'],
+        kartlar2 = ''.join(kart(o['yayin']['url'], gorunum_basligi(o), o['envanter_gosterim'],
                                 (o.get('gorseller') or [{}])[0].get('url')) for o in nes)
         pos2 = tt.rfind('</a></section>')
         if pos2 > 0:
@@ -375,7 +373,7 @@ def main():
         footer_k = tt[tt.index('<footer'):]
         kabuk = re.sub(r'<title>.*?</title>', '<title>Antik Objeler — Tüm Eserler — HETEGA</title>',
                        kabuk, count=1, flags=re.S)
-        kartlar3 = ''.join(kart(o['yayin']['url'], o['baslik'], o['envanter_gosterim'],
+        kartlar3 = ''.join(kart(o['yayin']['url'], gorunum_basligi(o), o['envanter_gosterim'],
                                 (o.get('gorseller') or [{}])[0].get('url')) for o in antikler)
         sayfa = kabuk + (
             '<nav aria-label="breadcrumb" style="padding:1.5rem 4.5vw 0;font-size:.75rem;'
@@ -409,8 +407,6 @@ def main():
     open(spath, 'w', encoding='utf-8').write(st)
 
     # ---- envanter + manifest kaydet ----
-    for o in N:
-        o['yayin'].pop('_set_baslik_eki', None)
     json.dump(env, open(ENVF, 'w'), ensure_ascii=False, indent=1)
     json.dump({'uretim_tarihi': bugun, 'sayfa_sayisi': len(yeni_manifest),
                'hedef': HEDEF, 'sayfalar': yeni_manifest},
