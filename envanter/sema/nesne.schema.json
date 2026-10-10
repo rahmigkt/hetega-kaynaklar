@@ -1,0 +1,143 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://hetega.com/schemas/nesne.json",
+  "title": "HETEGA Müze Nesnesi",
+  "description": "Prof. Dr. Fuat Sezgin, 'İslam'da Bilim ve Teknik' (Cilt I-V) esas alınarak oluşturulmuş kanonik müze nesnesi kaydı. Birincil anahtar `id` = kanonik envanter numarasıdır.",
+  "type": "object",
+  "required": ["id", "koleksiyon", "baslik", "dogrulama", "yayin"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Kanonik envanter numarası: <HARF><2 hane grup>.<2 hane sıra>. Alt-öğe '-N', sonek varyantı harfle biter. Numarasız site kayıtları 'SITE-<slug>' alır.",
+      "pattern": "^([A-JK][0-9]{2}\\.[0-9]{2}(-[0-9]{1,2})?[A-Z]?|[A-JK][0-9]{1,4}(-[0-9]{1,2})?|SITE-.+)$"
+    },
+    "envanter_no": { "type": ["string", "null"] },
+    "envanter_gosterim": { "type": "string", "description": "İnsana gösterim: 'A 4.16'" },
+    "prefiks": { "type": "string", "enum": ["A","B","C","D","E","F","G","H","J","K",""] },
+    "koleksiyon": { "type": "string" },
+
+    "hiyerarsi": {
+      "type": "object",
+      "description": "Kitabın kendi bölüm yapısı — sergi motorunun birincil sıralama ekseni.",
+      "properties": {
+        "cilt":      { "type": "string", "description": "'Cilt II'" },
+        "bolum":     { "type": "string", "description": "'Astronomi', 'Tıp', 'Kimya'…" },
+        "alt_bolum": { "type": "string", "description": "'Rasathaneler', 'Usturlaplar'…" },
+        "alt_baslik":{ "type": "string", "description": "'Merâğa Rasathanesi Aletleri'…" }
+      }
+    },
+
+    "baslik":          { "type": "string", "minLength": 1 },
+    "baslik_kaynagi":  { "type": "string", "enum": ["site", "kitap", "insan", ""] },
+    "baslik_kalite":   { "type": "string", "enum": ["yayın", "iyi", "üstbaşlık", "tahmin", "yok", "insan", ""] },
+    "baslik_kitap":    { "type": "string", "description": "Kitaptan okunan başlık sitedekinden farklıysa burada saklanır." },
+
+    "kisa_aciklama":   { "type": "string" },
+    "aciklama":        { "type": "string" },
+    "islev":           { "type": "string" },
+    "ozellikler":      { "type": "string" },
+
+    "bilgin":          { "type": "string", "description": "Ham 'Yapımcı / Bilgin' değeri" },
+    "bilgin_id":       { "type": ["string", "null"], "description": "alimler.json'daki kanonik kimlik" },
+    "bilgin_kanonik":  { "type": "string" },
+    "bilgin_tur":      { "type": "string", "enum": ["kişi","kurum","yazma_eser","mulkiyet","anonim_gelenek","model_atolyesi","avrupa_uretici","ocr_copu","belirsiz","bos"] },
+    "bilgin_kaynagi":  { "type": "string", "enum": ["site", "kitap", "insan", ""] },
+    "eser":            { "type": "string", "description": "Nesnenin dayandığı yazma eser" },
+    "eser_kalite":     { "type": "string", "enum": ["olası", "şüpheli", "insan", ""] },
+    "donem":           { "type": "string" },
+    "mense":           { "type": "string" },
+    "orijinal":        { "type": "string", "description": "Orijinalin bulunduğu yer / 'Orijinal yok (model)'" },
+
+    "teknik": {
+      "type": "object",
+      "properties": {
+        "malzeme":  { "type": "array", "items": { "type": "string" } },
+        "boyutlar": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+
+    "kitap": {
+      "type": ["object", "null"],
+      "description": "Kitap otoritesi. null ise nesne kitapta doğrulanamamıştır.",
+      "properties": {
+        "cilt":           { "type": "string", "enum": ["I","II","III","IV","V"] },
+        "sayfa":          { "type": ["integer", "null"] },
+        "ham_envanter":   { "type": "string", "description": "Kitapta yazıldığı biçim: 'H 9.01 ila H 9.14'" },
+        "ust_baslik":     { "type": "string" },
+        "fig_no":         { "type": "string" },
+        "satir":          { "type": "integer", "description": "OCR metnindeki satır — hakemleme için" },
+        "onek_cikarim":   { "type": "boolean", "description": "true ise harf OCR'da düşmüş, bölüm önekinden tamamlandı" }
+      }
+    },
+
+    "gorseller": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url"],
+        "properties": {
+          "url":            { "type": "string" },
+          "kaynak":         { "type": "string", "enum": ["katalog3", "katalog2", "kutuphane-sayfa", "envanter-foto", "kapak", "ingilizce-pdf", "katalog3-boşta", "katalog2-boşta"] },
+          "etiket":         { "type": "string" },
+          "atama_guveni":   { "type": "string", "enum": ["kesin", "sayfa_kesin", "sayfa_aralik_tek", "oneri", ""] }
+        }
+      }
+    },
+
+    "set": {
+      "type": ["object", "null"],
+      "description": "Nesne bir setin üyesiyse (kitapta 'H 8.01-26' gibi tek künyede geçen gruplar).",
+      "properties": {
+        "ham":          { "type": "string" },
+        "kaynak":       { "type": "string", "enum": ["kitap", "site"] },
+        "baslik":       { "type": "string" },
+        "uye_sayisi":   { "type": "integer" },
+        "uye_sira":     { "type": "integer" },
+        "uyeler":       { "type": "array", "items": { "type": "string" } },
+        "set_sayfasi":  { "type": "string" }
+      }
+    },
+
+    "yayin": {
+      "type": "object",
+      "required": ["durum"],
+      "properties": {
+        "durum": {
+          "type": "string",
+          "enum": ["yayında", "yayında_doğrulanmadı", "yayında_numarasız",
+                   "eklenmeye_hazır", "eksik_baslik_bekliyor", "set_üyesi_bölünecek", "yayından_kaldırıldı"]
+        },
+        "url":                { "type": "string" },
+        "slug":               { "type": "string" },
+        "bolunecegi_set":     { "type": "string" }
+      }
+    },
+
+    "dogrulama": {
+      "type": "object",
+      "required": ["kitapta", "sitede"],
+      "properties": {
+        "kitapta": { "type": "boolean" },
+        "sitede":  { "type": "boolean" },
+        "bayraklar": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["sitede_yok", "kitapta_doğrulanamadı", "başlık_kitaptan_farklı",
+                     "başlık_yok", "kategori_uyuşmuyor", "sayfa_uyuşmuyor", "cilt_uyuşmuyor",
+                     "numara_şüpheli", "numara_otomatik_atandı", "envanter_no_yok",
+                     "kitapta_mükerrer_blok", "sitede_mükerrer_numara",
+                     "set_üyesi_bölünecek", "görsel_sayfa_eşleşmesiyle_atandı"]
+          }
+        },
+        "notlar": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+
+    "sergi_etiketleri": {
+      "type": "array",
+      "description": "Sergi motorunun sorguladığı düz etiketler: 'bolum:astronomi', 'bilgin:tycho-brahe', 'set:h8-01-26'.",
+      "items": { "type": "string", "pattern": "^[a-z]+:[a-z0-9-]+$" }
+    }
+  }
+}

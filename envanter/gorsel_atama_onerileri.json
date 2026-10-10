@@ -1,0 +1,110 @@
+[
+ {
+  "envanter_no": "B03.07",
+  "baslik": "Birinci Model Eduard Farre (Barselona) tarafından imal edilm",
+  "cilt": "II",
+  "sayfa": 169,
+  "M": 158,
+  "onenen_gorsel": "/kutuphane/katalog3/k117-158.jpg",
+  "katalog2_muadili": "/kutuphane/katalog2/k117-158.jpg",
+  "guven": "sayfa_aralik_tek",
+  "ayni_sayfadaki_rakip": 0,
+  "not": "envanter.json'a YAZILMADI — insan onayı bekliyor. Figür 158, II s.169 civarı. Görsel içerik olarak doğrulanmalı."
+ },
+ {
+  "envanter_no": "B03.07",
+  "baslik": "Birinci Model Eduard Farre (Barselona) tarafından imal edilm",
+  "cilt": "II",
+  "sayfa": 169,
+  "M": 190,
+  "onenen_gorsel": "/kutuphane/katalog3/k133-190.jpg",
+  "katalog2_muadili": "/kutuphane/katalog2/k133-190.jpg",
+  "guven": "sayfa_aralik_tek",
+  "ayni_sayfadaki_rakip": 0,
+  "not": "envanter.json'a YAZILMADI — insan onayı bekliyor. Figür 190, II s.169 civarı. Görsel içerik olarak doğrulanmalı."
+ },
+ {
+  "envanter_no": "C01.12",
+  "baslik": "PUSULA",
+  "cilt": "III",
+  "sayfa": 71,
+  "M": 219,
+  "onenen_gorsel": "/kutuphane/katalog3/k160-219.jpg",
+  "katalog2_muadili": "/kutuphane/katalog2/k160-219.jpg",
+  "guven": "sayfa_aralik_tek",
+  "ayni_sayfadaki_rakip": 1,
+  "not": "envanter.json'a YAZILMADI — insan onayı bekliyor. Figür 219, III s.71 civarı. Görsel içerik olarak doğrulanmalı."
+ },
+ {
+  "envanter_no": "C01.18B",
+  "baslik": "PUSULA",
+  "cilt": "III",
+  "sayfa": 77,
+  "M": 225,
+  "onenen_gorsel": "/kutuphane/katalog3/k165-225.jpg",
+  "katalog2_muadili": "/kutuphane/katalog2/k165-225.jpg",
+  "guven": "sayfa_aralik_tek",
+  "ayni_sayfadaki_rakip": 1,
+  "not": "envanter.json'a YAZILMADI — insan onayı bekliyor. Figür 225, III s.77 civarı. Görsel içerik olarak doğrulanmalı."
+ },
+ {
+  "envanter_no": "C01.18B",
+  "baslik": "PUSULA",
+  "cilt": "III",
+  "sayfa": 77,
+  "M": 227,
+  "onenen_gorsel": "/kutuphane/katalog3/k166-227.jpg",
+  "katalog2_muadili": "/kutuphane/katalog2/k166-227.jpg",
+  "guven": "sayfa_aralik_tek",
+  "ayni_sayfadaki_rakip": 1,
+  "not": "envanter.json'a YAZILMADI — insan onayı bekliyor. Figür 227, III s.77 civarı. Görsel içerik olarak doğrulanmalı."
+ },
+ {
+  "envanter_no": "D01.05",
+  "baslik": "Tesviye Aletleri",
+  "cilt": "III",
+  "sayfa": 140,
+  "M": 268,
+  "onenen_gorsel": "/kutuphane/katalog3/k196-268.jpg",
+  "katalog2_muadili": "/kutuphane/katalog2/k196-268.jpg",
+  "guven": "sayfa_aralik_tek",
+  "ayni_sayfadaki_rakip": 0,
+  "not": "envanter.json'a YAZILMADI — insan onayı bekliyor. Figür 268, III s.140 civarı. Görsel içerik olarak doğrulanmalı."
+ },
+ {
+  "envanter_no": "K01.63",
+  "baslik": "LABORATUVAR ALETLERİ",
+  "cilt": "IV",
+  "sayfa": 111,
+  "M": 352,
+  "onenen_gorsel": "/kutuphane/katalog3/k276-352.jpg",
+  "katalog2_muadili": "/kutuphane/katalog2/k276-352.jpg",
+  "guven": "sayfa_aralik_tek",
+  "ayni_sayfadaki_rakip": 0,
+  "not": "envanter.json'a YAZILMADI — insan onayı bekliyor. Figür 352, IV s.111 civarı. Görsel içerik olarak doğrulanmalı."
+ },
+ {
+  "envanter_no": "K01.01-1",
+  "baslik": "LABORATUVAR ALETLERİ",
+  "cilt": "IV",
+  "sayfa": 115,
+  "M": 354,
+  "onenen_gorsel": "/kutuphane/katalog3/k277-354.jpg",
+  "katalog2_muadili": "/kutuphane/katalog2/k277-354.jpg",
+  "guven": "sayfa_aralik_tek",
+  "ayni_sayfadaki_rakip": 0,
+  "not": "envanter.json'a YAZILMADI — insan onayı bekliyor. Figür 354, IV s.115 civarı. Görsel içerik olarak doğrulanmalı."
+ },
+ {
+  "envanter_no": "B01.08",
+  "baslik": "TEKNİK",
+  "cilt": "V",
+  "sayfa": 54,
+  "M": 463,
+  "onenen_gorsel": "/kutuphane/katalog3/k385-463.jpg",
+  "katalog2_muadili": "/kutuphane/katalog2/k385-463.jpg",
+  "guven": "sayfa_aralik_tek",
+  "ayni_sayfadaki_rakip": 0,
+  "not": "envanter.json'a YAZILMADI — insan onayı bekliyor. Figür 463, V s.54 civarı. Görsel içerik olarak doğrulanmalı."
+ }
+]

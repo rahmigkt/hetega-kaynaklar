@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Kitap OCR metinleri — TELİF NEDENİYLE DEPOYA KONMAZ
+kaynak-metinler/ocr/
+*.djvu.txt
+*_djvu.txt
+
+# Yerel çalışma dosyaları
+.DS_Store
+*.tmp

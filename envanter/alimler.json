@@ -1,0 +1,2177 @@
+{
+ "alimler": [
+  {
+   "id": "zehravi",
+   "tur": "kişi",
+   "ad": "Ebü’l-Kāsım ez-Zehrâvî",
+   "donem": "4./10. yy",
+   "alan": "Tıp · cerrahi",
+   "varyantlar": [
+    "zehravi",
+    "zehrav",
+    "abulcasis",
+    "albucasis"
+   ],
+   "nesneler": [
+    "H01.01",
+    "H01.03",
+    "H01.04",
+    "H01.06-1",
+    "H01.08",
+    "H01.10",
+    "H02.01",
+    "H02.03",
+    "H02.07",
+    "H02.12",
+    "H03.03",
+    "H03.05",
+    "H03.06",
+    "H03.08",
+    "H03.11",
+    "H03.12",
+    "H03.14",
+    "H03.16",
+    "H03.18",
+    "H04.01",
+    "H04.02",
+    "H04.03",
+    "H04.04",
+    "H04.06",
+    "H04.13",
+    "H05.01",
+    "H05.02A",
+    "H05.06",
+    "H05.07",
+    "H06.01",
+    "H06.02",
+    "H06.03",
+    "H06.04",
+    "H06.05",
+    "H06.07",
+    "H07.01",
+    "H07.05",
+    "H09.01",
+    "H09.15",
+    "H09.17",
+    "H09.19",
+    "H09.22",
+    "K01.01",
+    "K01.02",
+    "SITE-k3-275-cerrahi-aletler-levhasi-yazma-cizimleri"
+   ]
+  },
+  {
+   "id": "razi",
+   "tur": "kişi",
+   "ad": "Ebû Bekr er-Râzî (Rhazes)",
+   "donem": "ö. 313/925",
+   "alan": "Kimya · tıp",
+   "varyantlar": [
+    "ebubekirrazi",
+    "erhazi",
+    "errazi",
+    "razi"
+   ],
+   "nesneler": [
+    "K01.29",
+    "K01.30",
+    "K01.33",
+    "K01.34",
+    "K01.35",
+    "K01.36",
+    "K01.38",
+    "K01.39",
+    "K01.47",
+    "K01.49",
+    "K01.50",
+    "K01.52",
+    "K01.56",
+    "K01.57",
+    "K01.59B",
+    "K01.62",
+    "K01.64",
+    "K01.68",
+    "K01.69"
+   ]
+  },
+  {
+   "id": "biruni",
+   "tur": "kişi",
+   "ad": "Ebû Reyhân el-Bîrûnî",
+   "donem": "362-440/973-1048",
+   "alan": "Astronomi · coğrafya",
+   "varyantlar": [
+    "biruni",
+    "el biruni",
+    "birouni"
+   ],
+   "nesneler": [
+    "A01.08",
+    "A01.09",
+    "B03.05",
+    "B03.15",
+    "D01.19",
+    "D01.32",
+    "D01.34",
+    "SITE-k3-214-egik-uclu-pergel-ve-ucayak",
+    "SITE-k3-49-trampet-biciminde-usturlap",
+    "SITE-k3-50-mersin-agaci-formunda-usturlap",
+    "SITE-k3-51-yengec-biciminde-usturlap",
+    "SITE-k3-52-cetvel-biciminde-usturlap",
+    "SITE-k3-53-gemi-biciminde-usturlap",
+    "SITE-k3-54-hac-biciminde-usturlap",
+    "SITE-k3-55-spiral-biciminde-usturlap"
+   ]
+  },
+  {
+   "id": "urdi",
+   "tur": "kişi",
+   "ad": "Müʾeyyededdîn el-ʿUrḍî",
+   "donem": "ö. 660/1262",
+   "alan": "Astronomi · alet yapımı",
+   "varyantlar": [
+    "el urdi",
+    "el uri",
+    "urdi",
+    "muyyededin"
+   ],
+   "nesneler": [
+    "A01.03",
+    "A04.07",
+    "A04.11",
+    "A04.15",
+    "A04.16",
+    "A04.17",
+    "A04.18",
+    "A04.26",
+    "A04.27",
+    "A04.28",
+    "A04.29",
+    "A04.30",
+    "D01.08"
+   ]
+  },
+  {
+   "id": "takiyyeddin",
+   "tur": "kişi",
+   "ad": "Taḳıyyeddîn el-Mıṣrî (Râṣıd)",
+   "donem": "932-993/1526-1585",
+   "alan": "Astronomi · saat",
+   "varyantlar": [
+    "takiyyeddin",
+    "taqiyyuddin",
+    "takıyyeddin",
+    "rasıd"
+   ],
+   "nesneler": [
+    "A04.01",
+    "A04.09",
+    "A04.13",
+    "B03.12",
+    "E01.11",
+    "E01.12",
+    "E01.13",
+    "E01.22",
+    "E01.25",
+    "E01.26",
+    "E01.27",
+    "SITE-k3-195-ta-iyyeddin-in-yayli-saati-iki-model",
+    "SITE-k3-23-vii-kirisli-alet"
+   ]
+  },
+  {
+   "id": "heysem",
+   "tur": "kişi",
+   "ad": "İbnü’l-Heysem (Alhazen)",
+   "donem": "354-432/965-1040",
+   "alan": "Optik · astronomi",
+   "varyantlar": [
+    "ibn el heysem",
+    "elhazen",
+    "alhazen",
+    "ibn al haytham",
+    "heysem"
+   ],
+   "nesneler": [
+    "D01.11",
+    "D01.20",
+    "E02.01",
+    "E02.03",
+    "E02.04",
+    "E02.05",
+    "E02.06",
+    "E02.07",
+    "SITE-k3-104-meridyen-yonunu-belirleme-aleti"
+   ]
+  },
+  {
+   "id": "cezairi",
+   "tur": "kişi",
+   "ad": "İbn er-Rezzâz el-Cezerî",
+   "donem": "ö. 602/1206 sonrası",
+   "alan": "Mekanik · otomat",
+   "varyantlar": [
+    "el cezeri",
+    "cezeri",
+    "ibn er rezzaz"
+   ],
+   "nesneler": [
+    "B01.06",
+    "B01.07",
+    "B01.10",
+    "B03.10",
+    "D01.12",
+    "E01.02",
+    "E01.08",
+    "E01.10",
+    "H03.01"
+   ]
+  },
+  {
+   "id": "halife-halebi",
+   "tur": "kişi",
+   "ad": "Ḫalīfe b. Ebî el-Mehâsin el-Halebî",
+   "donem": "7./13. yy",
+   "alan": "Tıp · cerrahi",
+   "varyantlar": [
+    "halife b ebi el mehasin",
+    "el kafi",
+    "khalifa",
+    "halife"
+   ],
+   "nesneler": [
+    "H02.04",
+    "H02.06",
+    "H02.09",
+    "H02.14",
+    "H02.16",
+    "H02.17",
+    "H02.19"
+   ]
+  },
+  {
+   "id": "tycho",
+   "tur": "kişi",
+   "ad": "Tycho Brahe",
+   "donem": "1546-1601",
+   "alan": "Astronomi · rasathane",
+   "varyantlar": [
+    "tycho brahe",
+    "tycho"
+   ],
+   "nesneler": [
+    "A04.02",
+    "A04.04",
+    "A04.06",
+    "A04.08",
+    "A04.10",
+    "A04.12",
+    "A04.14"
+   ]
+  },
+  {
+   "id": "kasi",
+   "tur": "kişi",
+   "ad": "Ġıyâseddîn Cemşîd el-Kâşî",
+   "donem": "ö. 832/1429",
+   "alan": "Astronomi · matematik",
+   "varyantlar": [
+    "giyaseddin",
+    "el kasi",
+    "alkashi",
+    "kasi"
+   ],
+   "nesneler": [
+    "A06.05",
+    "A06.12",
+    "A06.13",
+    "K01.70",
+    "SITE-k3-33-el-kasi-nin-listeledigi-semerkant-aletleri-8-alet"
+   ]
+  },
+  {
+   "id": "marrakusi",
+   "tur": "kişi",
+   "ad": "Ebû ʿAlî el-Ḥasan b. ʿAlî el-Marrâkuşî",
+   "donem": "7./13. yy",
+   "alan": "Astronomi · mîkât",
+   "varyantlar": [
+    "el marrakuşi",
+    "marrakuşi"
+   ],
+   "nesneler": [
+    "A01.10",
+    "B02.06",
+    "B02.07",
+    "D01.28",
+    "D01.29"
+   ]
+  },
+  {
+   "id": "benumusa",
+   "tur": "kişi",
+   "ad": "Benū Mūsā kardeşler",
+   "donem": "3./9. yy",
+   "alan": "Mekanik · geometri",
+   "varyantlar": [
+    "benū musa",
+    "benumusab",
+    "benumusa",
+    "banu musa"
+   ],
+   "nesneler": [
+    "E01.03",
+    "E01.05",
+    "E01.09",
+    "E01.16",
+    "E01.28"
+   ]
+  },
+  {
+   "id": "hazini",
+   "tur": "kişi",
+   "ad": "ʿAbdurrahmân el-Ḫâzinî",
+   "donem": "6./12. yy",
+   "alan": "Fizik · terazi",
+   "varyantlar": [
+    "el hazini",
+    "hazini",
+    "abdurrahman el hazini"
+   ],
+   "nesneler": [
+    "A04.24",
+    "B01.11",
+    "D01.24",
+    "E01.01"
+   ]
+  },
+  {
+   "id": "zerkal",
+   "tur": "kişi",
+   "ad": "İbrâhîm b. Yahyâ ez-Zerḳālî (Arzachel)",
+   "donem": "421-480/1029-1087",
+   "alan": "Astronomi · usturlap",
+   "varyantlar": [
+    "ez zerkali",
+    "zerkal",
+    "arzachel"
+   ],
+   "nesneler": [
+    "A02.02",
+    "A03.02",
+    "A03.07",
+    "A06.02"
+   ]
+  },
+  {
+   "id": "munster",
+   "tur": "kişi",
+   "ad": "Sebastian Münster",
+   "donem": "1488-1552",
+   "alan": "Astronomi · alet",
+   "varyantlar": [
+    "sebastian munster",
+    "munster"
+   ],
+   "nesneler": [
+    "A06.07",
+    "A06.08",
+    "A06.09",
+    "A06.10"
+   ]
+  },
+  {
+   "id": "ibn-sina",
+   "tur": "kişi",
+   "ad": "Ebû ʿAlî İbn Sînâ (Avicenna)",
+   "donem": "360-428/980-1037",
+   "alan": "Tıp · felsefe",
+   "varyantlar": [
+    "ibn sina",
+    "avicenna",
+    "ebu ali ibn sina"
+   ],
+   "nesneler": [
+    "A05.06",
+    "D01.27",
+    "E02.02"
+   ]
+  },
+  {
+   "id": "hucendi",
+   "tur": "kişi",
+   "ad": "Ebû Maḥmûd Ḥâmid b. el-Hıḍr el-Ḫucendî",
+   "donem": "4./10. yy",
+   "alan": "Astronomi",
+   "varyantlar": [
+    "el hucendi",
+    "hucendi"
+   ],
+   "nesneler": [
+    "A01.06",
+    "A02.28",
+    "A05.03"
+   ]
+  },
+  {
+   "id": "samuel-magribi",
+   "tur": "kişi",
+   "ad": "es-Semuʾel b. Yahyâ el-Maġribî",
+   "donem": "6./12. yy",
+   "alan": "Matematik · astronomi",
+   "varyantlar": [
+    "es samuel",
+    "samuel",
+    "el magribi"
+   ],
+   "nesneler": [
+    "A04.33",
+    "A04.34",
+    "A04.35"
+   ]
+  },
+  {
+   "id": "ibn-luyun",
+   "tur": "kişi",
+   "ad": "Ebû ʿOsmân Saʿîd b. Aḥmed İbn Luyûn",
+   "donem": "ö. 749/1349",
+   "alan": "Astronomi · mîkât",
+   "varyantlar": [
+    "ibn luyun",
+    "ibn luy",
+    "luyun",
+    "ebu osman said"
+   ],
+   "nesneler": [
+    "D01.06",
+    "D01.07",
+    "SITE-k3-199-insaat-iscileri-terazisi-mizan-ve-ub-al"
+   ]
+  },
+  {
+   "id": "mizzi",
+   "tur": "kişi",
+   "ad": "Muḥammed b. Ahmed el-Mizzî",
+   "donem": "7-8./13-14. yy",
+   "alan": "Astronomi · mîkât",
+   "varyantlar": [
+    "el mizzi",
+    "muhallibi",
+    "zeyneddin"
+   ],
+   "nesneler": [
+    "A02.21",
+    "A03.03",
+    "B02.02"
+   ]
+  },
+  {
+   "id": "hamairi",
+   "tur": "kişi",
+   "ad": "Muḥammed b. Futūḥ el-Ḫamāʾirī",
+   "donem": "6./12. yy",
+   "alan": "Usturlap yapımı",
+   "varyantlar": [
+    "el hamairi",
+    "hamairi",
+    "futuh"
+   ],
+   "nesneler": [
+    "A02.30",
+    "A02.31",
+    "A02.34"
+   ]
+  },
+  {
+   "id": "tarsusi",
+   "tur": "kişi",
+   "ad": "Murḍā eṭ-Ṭarsūsī",
+   "donem": "6./12. yy",
+   "alan": "Savaş tekniği",
+   "varyantlar": [
+    "et tarsusi",
+    "tarsusi",
+    "murda"
+   ],
+   "nesneler": [
+    "G01.18",
+    "G01.19",
+    "SITE-k3-399-buyuk-bocurgatli-ok-yayi"
+   ]
+  },
+  {
+   "id": "zerdkas",
+   "tur": "kişi",
+   "ad": "İbn Erenbuġā ez-Zerdkāş",
+   "donem": "8./14. yy",
+   "alan": "Savaş tekniği · okçuluk",
+   "varyantlar": [
+    "ez zerdkas",
+    "zerdkas",
+    "ibn erenbuga"
+   ],
+   "nesneler": [
+    "G01.01",
+    "G01.02",
+    "G02.22"
+   ]
+  },
+  {
+   "id": "el-melik-el-esref",
+   "tur": "kişi",
+   "ad": "el-Melik el-Eşref ʿÖmer b. Yūsuf (Resûlî)",
+   "donem": "ö. 694/1295",
+   "alan": "Himaye · rasathane",
+   "varyantlar": [
+    "el melik el eşref",
+    "yemen resuli",
+    "yemen sultanı"
+   ],
+   "nesneler": [
+    "A02.07",
+    "B02.03",
+    "C01.04"
+   ]
+  },
+  {
+   "id": "jaisingh",
+   "tur": "kişi",
+   "ad": "Savai Jai Singh II",
+   "donem": "1688-1743",
+   "alan": "Astronomi · rasathane",
+   "varyantlar": [
+    "jai singh savai",
+    "jai singh",
+    "jaisingh"
+   ],
+   "nesneler": [
+    "A05.01",
+    "A05.02",
+    "SITE-k3-35-samra-yantra-jaipur"
+   ]
+  },
+  {
+   "id": "osorius",
+   "tur": "kişi",
+   "ad": "Hieronimus Osorius",
+   "donem": "1506-1580",
+   "alan": "Denizcilik · tarih",
+   "varyantlar": [
+    "osorius"
+   ],
+   "nesneler": [
+    "C01.02",
+    "C01.03",
+    "C01.09"
+   ]
+  },
+  {
+   "id": "hazin-ebucafer",
+   "tur": "kişi",
+   "ad": "Ebû Caʿfer el-Ḫâzin",
+   "donem": "ö. ~360/971",
+   "alan": "Astronomi · matematik",
+   "varyantlar": [
+    "ebu cafer el hazin",
+    "hazin"
+   ],
+   "nesneler": [
+    "A06.01",
+    "SITE-k3-209-nikomedes-pergeli-arap-islam-gelenegi"
+   ]
+  },
+  {
+   "id": "muradi",
+   "tur": "kişi",
+   "ad": "Muḥammed (veya Aḥmed) b. Ḫalef el-Murādî",
+   "donem": "5./11. yy",
+   "alan": "Mekanik",
+   "varyantlar": [
+    "el muradi",
+    "muradi",
+    "b halef"
+   ],
+   "nesneler": [
+    "A02.14",
+    "B01.09"
+   ]
+  },
+  {
+   "id": "nastulus",
+   "tur": "kişi",
+   "ad": "Nasṭūlus",
+   "donem": "3-4./9-10. yy",
+   "alan": "Usturlap yapımı",
+   "varyantlar": [
+    "nastulus",
+    "nastulus"
+   ],
+   "nesneler": [
+    "A02.25",
+    "A02.26"
+   ]
+  },
+  {
+   "id": "ibn-macid",
+   "tur": "kişi",
+   "ad": "İbn Mācid",
+   "donem": "826-906/1432-1500",
+   "alan": "Denizcilik",
+   "varyantlar": [
+    "ibn macid",
+    "ibn majid",
+    "macid"
+   ],
+   "nesneler": [
+    "C01.08",
+    "C01.23"
+   ]
+  },
+  {
+   "id": "kindi-mimar",
+   "tur": "kişi",
+   "ad": "Mimar Sinan",
+   "donem": "895-996/1490-1588",
+   "alan": "Mimari",
+   "varyantlar": [
+    "mimar sinan"
+   ],
+   "nesneler": [
+    "F1",
+    "F2"
+   ]
+  },
+  {
+   "id": "arsimed",
+   "tur": "kişi",
+   "ad": "Arşimet",
+   "donem": "MÖ 287-212",
+   "alan": "Mekanik (miras)",
+   "varyantlar": [
+    "arşimet",
+    "arsimet",
+    "archimedes"
+   ],
+   "nesneler": [
+    "B01.02",
+    "D01.23"
+   ]
+  },
+  {
+   "id": "peregrinus",
+   "tur": "kişi",
+   "ad": "Petrus Peregrinus de Maricourt",
+   "donem": "13. yy",
+   "alan": "Manyetizma",
+   "varyantlar": [
+    "petrus peregrinus",
+    "peregrinus"
+   ],
+   "nesneler": [
+    "C01.05",
+    "C01.06"
+   ]
+  },
+  {
+   "id": "tusî-serefeddin",
+   "tur": "kişi",
+   "ad": "Şerefeddîn el-Muẓaffer eṭ-Ṭûsî",
+   "donem": "6./12. yy",
+   "alan": "Astronomi · usturlap",
+   "varyantlar": [
+    "serefeddin el muzaffer",
+    "serafeddin",
+    "eṭ tusi",
+    "et tusi"
+   ],
+   "nesneler": [
+    "A01.14"
+   ]
+  },
+  {
+   "id": "sirazî",
+   "tur": "kişi",
+   "ad": "Ḳuṭbeddîn eş-Şîrâzî",
+   "donem": "634-710/1236-1311",
+   "alan": "Astronomi · optik",
+   "varyantlar": [
+    "kutbeddin es sirazi",
+    "kutbeddin eş şirazi",
+    "sirazi"
+   ],
+   "nesneler": [
+    "D01.04"
+   ]
+  },
+  {
+   "id": "uluk-bey",
+   "tur": "kişi",
+   "ad": "Uluğ Bey",
+   "donem": "794-853/1394-1449",
+   "alan": "Astronomi · rasathane",
+   "varyantlar": [
+    "uluğ bey",
+    "ulug bey"
+   ],
+   "nesneler": [
+    "A05.04"
+   ]
+  },
+  {
+   "id": "suff",
+   "tur": "kişi",
+   "ad": "ʿAbdurrahmân es-Sûfî (Azophi)",
+   "donem": "291-376/903-986",
+   "alan": "Astronomi · yıldız kataloğu",
+   "varyantlar": [
+    "es suff",
+    "suffi",
+    "azophi",
+    "abdurrahman b ömer"
+   ],
+   "nesneler": [
+    "A01.02"
+   ]
+  },
+  {
+   "id": "siczi",
+   "tur": "kişi",
+   "ad": "Ebû Saʿîd Ahmed b. Muḥammed es-Siczî",
+   "donem": "4./10. yy",
+   "alan": "Astronomi · matematik",
+   "varyantlar": [
+    "es siczi",
+    "siczi"
+   ],
+   "nesneler": [
+    "A01.05"
+   ]
+  },
+  {
+   "id": "ibn-es-satir",
+   "tur": "kişi",
+   "ad": "ʿAlî b. İbrâhîm İbn eş-Şâṭır",
+   "donem": "704-776/1304-1375",
+   "alan": "Astronomi · mîkât",
+   "varyantlar": [
+    "ibn eş şatir",
+    "ibn es satir",
+    "eş şatir"
+   ],
+   "nesneler": [
+    "A04.36"
+   ]
+  },
+  {
+   "id": "ibn-yunis",
+   "tur": "kişi",
+   "ad": "ʿAlî b. ʿAbdurrahmân İbn Yûnis",
+   "donem": "ö. 399/1009",
+   "alan": "Astronomi",
+   "varyantlar": [
+    "ibn yunis",
+    "ibn yunus"
+   ],
+   "nesneler": [
+    "B03.03"
+   ]
+  },
+  {
+   "id": "mardinî",
+   "tur": "kişi",
+   "ad": "Cemâleddîn ʿAbdullâh b. Halîl el-Mâridînî",
+   "donem": "825-906/1423-1500",
+   "alan": "Astronomi · mîkât",
+   "varyantlar": [
+    "el maridini",
+    "mardini"
+   ],
+   "nesneler": [
+    "A03.01"
+   ]
+  },
+  {
+   "id": "kindî",
+   "tur": "kişi",
+   "ad": "Yaʿḳūb b. İsḥāḳ el-Kindî",
+   "donem": "ö. ~252/866",
+   "alan": "Felsefe · optik · kimya",
+   "varyantlar": [
+    "el kindi",
+    "yakub b ishak"
+   ],
+   "nesneler": [
+    "A04.23"
+   ]
+  },
+  {
+   "id": "idrisî",
+   "tur": "kişi",
+   "ad": "Muḥammed b. Muḥammed eş-Şerîf el-İdrīsî",
+   "donem": "493-560/1100-1166",
+   "alan": "Coğrafya",
+   "varyantlar": [
+    "el idrisi",
+    "idrisi",
+    "eş şerif"
+   ],
+   "nesneler": [
+    "A01.15"
+   ]
+  },
+  {
+   "id": "neccar",
+   "tur": "kişi",
+   "ad": "ʿAbdurrahmân b. Sinân en-Neccâr",
+   "donem": "?",
+   "alan": "Alet yapımı",
+   "varyantlar": [
+    "en neccar",
+    "abdurrahman b sinan"
+   ],
+   "nesneler": [
+    "A02.24"
+   ]
+  },
+  {
+   "id": "hazimi",
+   "tur": "kişi",
+   "ad": "Muḥammed b. Aḥmed el-Hâzimî",
+   "donem": "?",
+   "alan": "Astronomi",
+   "varyantlar": [
+    "el hazimi",
+    "hazimi"
+   ],
+   "nesneler": [
+    "B03.02"
+   ]
+  },
+  {
+   "id": "isfehani",
+   "tur": "kişi",
+   "ad": "Muḥammed b. Ebî Bekr el-İṣfehānī",
+   "donem": "7./13. yy",
+   "alan": "Astronomi · usturlap",
+   "varyantlar": [
+    "el isfehani",
+    "isfehani",
+    "muhammed b ebi bekr"
+   ],
+   "nesneler": [
+    "SITE-k3-118-el-i-fehani-nin-mekanik-astronomik-takvimi"
+   ]
+  },
+  {
+   "id": "asturlabi-sehl",
+   "tur": "kişi",
+   "ad": "es-Sehl el-Uṣṭurlābî en-Nīsābūrī",
+   "donem": "?",
+   "alan": "Usturlap yapımı",
+   "varyantlar": [
+    "es sehl el usturlabi",
+    "nisaburi"
+   ],
+   "nesneler": [
+    "A02.17"
+   ]
+  },
+  {
+   "id": "vasiti",
+   "tur": "kişi",
+   "ad": "Ebû er-Rebîʿ Aḥmed b. ʿAlî el-Vâsiṭî",
+   "donem": "?",
+   "alan": "Alet yapımı",
+   "varyantlar": [
+    "ebu er rabi",
+    "el vasiti",
+    "vasiti"
+   ],
+   "nesneler": [
+    "A02.27"
+   ]
+  },
+  {
+   "id": "ibn-es-serrac",
+   "tur": "kişi",
+   "ad": "Aḥmed b. es-Serrâc",
+   "donem": "8./14. yy",
+   "alan": "Astronomi · alet",
+   "varyantlar": [
+    "es serrac",
+    "ahmed b es serrac"
+   ],
+   "nesneler": [
+    "A02.01"
+   ]
+  },
+  {
+   "id": "nakkas",
+   "tur": "kişi",
+   "ad": "Aḥmed b. Muḥammed en-Naḳḳāş",
+   "donem": "?",
+   "alan": "Alet yapımı",
+   "varyantlar": [
+    "en nakkas",
+    "nakkaş"
+   ],
+   "nesneler": [
+    "A02.13"
+   ]
+  },
+  {
+   "id": "raqqam",
+   "tur": "kişi",
+   "ad": "Ebû ʿAbdullāh Muḥammed b. İbrâhîm er-Raḳḳām",
+   "donem": "?",
+   "alan": "Astronomi",
+   "varyantlar": [
+    "er rakkam",
+    "rakkam",
+    "ibn ibrahim"
+   ],
+   "nesneler": [
+    "B02.13"
+   ]
+  },
+  {
+   "id": "umeyye",
+   "tur": "kişi",
+   "ad": "Ebû ʿAṣalt Ümeyye b. ʿAbdulʿazīz",
+   "donem": "?",
+   "alan": "Astronomi",
+   "varyantlar": [
+    "ebu asalt",
+    "umeyye b abdulaziz"
+   ],
+   "nesneler": [
+    "A06.03"
+   ]
+  },
+  {
+   "id": "huzeyl",
+   "tur": "kişi",
+   "ad": "Muḥammed b. Muḥammed b. Huzeyl",
+   "donem": "?",
+   "alan": "Astronomi",
+   "varyantlar": [
+    "huzeyl",
+    "b muhammed huzeyl"
+   ],
+   "nesneler": [
+    "A02.03"
+   ]
+  },
+  {
+   "id": "saffar",
+   "tur": "kişi",
+   "ad": "Şemseddîn Muḥammed eṣ-Ṣaffār",
+   "donem": "ö. 826/1423",
+   "alan": "Astronomi · usturlap",
+   "varyantlar": [
+    "şemseddin muhammed saffar",
+    "es saffar",
+    "saffar"
+   ],
+   "nesneler": [
+    "A03.33"
+   ]
+  },
+  {
+   "id": "dimaski",
+   "tur": "kişi",
+   "ad": "Şemseddîn ed-Dımaşḳī",
+   "donem": "7-8./13-14. yy",
+   "alan": "Coğrafya · kozmografya",
+   "varyantlar": [
+    "ed dımaşki",
+    "dimaski",
+    "nuhbet ed dehr"
+   ],
+   "nesneler": [
+    "K01.65"
+   ]
+  },
+  {
+   "id": "kuhi",
+   "tur": "kişi",
+   "ad": "Ebû Sehl el-Kūhī",
+   "donem": "ö. ~390/1000",
+   "alan": "Matematik · geometri",
+   "varyantlar": [
+    "ebu sehl el kuhi",
+    "el kuhi"
+   ],
+   "nesneler": [
+    "D01.13"
+   ]
+  },
+  {
+   "id": "cebair",
+   "tur": "kişi",
+   "ad": "Câbir b. Aflaḥ",
+   "donem": "6./12. yy",
+   "alan": "Astronomi",
+   "varyantlar": [
+    "câbir b eflah",
+    "cabir b aflah",
+    "aflah"
+   ],
+   "nesneler": [
+    "A04.20"
+   ]
+  },
+  {
+   "id": "rammah",
+   "tur": "kişi",
+   "ad": "Necmeddîn Ḥasan er-Rammāḥ",
+   "donem": "ö. 693/1294",
+   "alan": "Savaş tekniği",
+   "varyantlar": [
+    "er remmah",
+    "rammah",
+    "necmeddin hasan"
+   ],
+   "nesneler": [
+    "G02.07"
+   ]
+  },
+  {
+   "id": "piri-reis",
+   "tur": "kişi",
+   "ad": "Pîrî Reʾīs",
+   "donem": "~1470-1554",
+   "alan": "Denizcilik · haritacılık",
+   "varyantlar": [
+    "piri reis",
+    "piri re is"
+   ],
+   "nesneler": [
+    "C03.11"
+   ]
+  },
+  {
+   "id": "sidi-ali-reis",
+   "tur": "kişi",
+   "ad": "Sîdî ʿAlî Reʾīs",
+   "donem": "1498-1563",
+   "alan": "Denizcilik · astronomi",
+   "varyantlar": [
+    "sidi ali reis",
+    "sidî ali reis"
+   ],
+   "nesneler": [
+    "A04.37"
+   ]
+  },
+  {
+   "id": "mumin",
+   "tur": "kişi",
+   "ad": "Halife el-Meʾmûn",
+   "donem": "170-218/786-833",
+   "alan": "Himaye · rasathane",
+   "varyantlar": [
+    "halife el me mun",
+    "me mun",
+    "memun"
+   ],
+   "nesneler": [
+    "A01.01"
+   ]
+  },
+  {
+   "id": "nureddin-zengi",
+   "tur": "kişi",
+   "ad": "Nūreddīn Maḥmūd b. Zengī",
+   "donem": "511-569/1118-1174",
+   "alan": "Himaye · hastane",
+   "varyantlar": [
+    "nureddin mahmud",
+    "emir nureddin",
+    "zengi"
+   ],
+   "nesneler": [
+    "F7"
+   ]
+  },
+  {
+   "id": "lagari",
+   "tur": "kişi",
+   "ad": "Lāgarī Ḥasan Çelebî",
+   "donem": "11./17. yy",
+   "alan": "Havacılık",
+   "varyantlar": [
+    "lagari hasan",
+    "lagar hasan çelebi"
+   ],
+   "nesneler": [
+    "G01.13"
+   ]
+  },
+  {
+   "id": "ibn-hatib",
+   "tur": "kişi",
+   "ad": "Lisâneddîn İbn el-Ḫaṭīb",
+   "donem": "713-776/1313-1374",
+   "alan": "Tıp · tarih",
+   "varyantlar": [
+    "lisaneddin ibn el hatib",
+    "ibn el hatib"
+   ],
+   "nesneler": [
+    "B03.09"
+   ]
+  },
+  {
+   "id": "harezmi",
+   "tur": "kişi",
+   "ad": "Muḥammed b. Mūsâ el-Ḫârizmî",
+   "donem": "ö. ~232/847 sonrası",
+   "alan": "Matematik · astronomi",
+   "varyantlar": [
+    "el harezmi",
+    "harezmi",
+    "harizmi"
+   ],
+   "nesneler": [
+    "B02.08"
+   ]
+  },
+  {
+   "id": "ptoleme",
+   "tur": "kişi",
+   "ad": "Batlamyus (Ptoleme)",
+   "donem": "~100-170",
+   "alan": "Astronomi (miras)",
+   "varyantlar": [
+    "ptoleme",
+    "batlamyus",
+    "ptolemy"
+   ],
+   "nesneler": [
+    "A04.05"
+   ]
+  },
+  {
+   "id": "vinci",
+   "tur": "kişi",
+   "ad": "Leonardo da Vinci",
+   "donem": "1452-1519",
+   "alan": "Mekanik · mühendislik",
+   "varyantlar": [
+    "leonardo da vinci",
+    "vinci"
+   ],
+   "nesneler": [
+    "G01.21"
+   ]
+  },
+  {
+   "id": "schoner",
+   "tur": "kişi",
+   "ad": "Johannes Schöner",
+   "donem": "1477-1547",
+   "alan": "Astronomi · alet",
+   "varyantlar": [
+    "johannes schoner",
+    "schoner"
+   ],
+   "nesneler": [
+    "A06.06"
+   ]
+  },
+  {
+   "id": "nunes",
+   "tur": "kişi",
+   "ad": "Pedro Nunes",
+   "donem": "1502-1578",
+   "alan": "Denizcilik · matematik",
+   "varyantlar": [
+    "pedro nunes",
+    "nunes"
+   ],
+   "nesneler": [
+    "B02.15"
+   ]
+  },
+  {
+   "id": "davis",
+   "tur": "kişi",
+   "ad": "John Davis",
+   "donem": "~1550-1605",
+   "alan": "Denizcilik · alet",
+   "varyantlar": [
+    "john davis"
+   ],
+   "nesneler": [
+    "C02.07"
+   ]
+  },
+  {
+   "id": "ribeiro",
+   "tur": "kişi",
+   "ad": "Diogo Ribeiro",
+   "donem": "ö. 1533",
+   "alan": "Kartografya",
+   "varyantlar": [
+    "diogo ribeiro",
+    "ribeiro"
+   ],
+   "nesneler": [
+    "C02.04"
+   ]
+  },
+  {
+   "id": "chaucer",
+   "tur": "kişi",
+   "ad": "Geoffrey Chaucer",
+   "donem": "~1343-1400",
+   "alan": "Astronomi · usturlap",
+   "varyantlar": [
+    "chaucer"
+   ],
+   "nesneler": [
+    "A06.04"
+   ]
+  },
+  {
+   "id": "coronelli",
+   "tur": "kişi",
+   "ad": "Vincenzo Coronelli",
+   "donem": "1650-1718",
+   "alan": "Kartografya · gök küre",
+   "varyantlar": [
+    "coronelli"
+   ],
+   "nesneler": [
+    "A01.04"
+   ]
+  },
+  {
+   "id": "habermel",
+   "tur": "kişi",
+   "ad": "Erasmus Habermel",
+   "donem": "ö. 1606",
+   "alan": "Alet yapımı (Prag)",
+   "varyantlar": [
+    "habermel"
+   ],
+   "nesneler": [
+    "A02.04"
+   ]
+  },
+  {
+   "id": "arsenius",
+   "tur": "kişi",
+   "ad": "Gualterus Arsenius",
+   "donem": "16. yy",
+   "alan": "Usturlap yapımı (Leuven)",
+   "varyantlar": [
+    "arsenius"
+   ],
+   "nesneler": [
+    "A02.10"
+   ]
+  },
+  {
+   "id": "campano",
+   "tur": "kişi",
+   "ad": "Giovanni Campano da Novara",
+   "donem": "13. yy",
+   "alan": "Astronomi",
+   "varyantlar": [
+    "campanus de novara",
+    "campano"
+   ],
+   "nesneler": [
+    "A06.11"
+   ]
+  },
+  {
+   "id": "lupitus",
+   "tur": "kişi",
+   "ad": "Lupitus of Barcelona",
+   "donem": "11. yy",
+   "alan": "Astronomi",
+   "varyantlar": [
+    "lupitus",
+    "barselonalı lupitus"
+   ],
+   "nesneler": [
+    "A02.29"
+   ]
+  },
+  {
+   "id": "villard",
+   "tur": "kişi",
+   "ad": "Villard de Honnecourt",
+   "donem": "13. yy",
+   "alan": "Mimari · çizim",
+   "varyantlar": [
+    "villard de honnecourt",
+    "honnecourt"
+   ],
+   "nesneler": [
+    "G01.05"
+   ]
+  },
+  {
+   "id": "barozzi",
+   "tur": "kişi",
+   "ad": "Francesco Barozzi",
+   "donem": "1537-1604",
+   "alan": "Geometri",
+   "varyantlar": [
+    "barozzi"
+   ],
+   "nesneler": [
+    "D01.01"
+   ]
+  },
+  {
+   "id": "sehlî",
+   "tur": "kişi",
+   "ad": "İbrâhîm b. Saʿîd es-Sehlî",
+   "donem": "5./11. yy",
+   "alan": "Usturlap yapımı",
+   "varyantlar": [
+    "ibrahim b said es sehli",
+    "es sehli",
+    "sehli"
+   ],
+   "nesneler": [
+    "A02.05"
+   ]
+  },
+  {
+   "id": "saffar-2",
+   "tur": "kişi",
+   "ad": "Muḥammed b. eṣ-Ṣaffār",
+   "donem": "5./11. yy",
+   "alan": "Usturlap yapımı",
+   "varyantlar": [
+    "muhammed b es affar",
+    "es affar",
+    "affar",
+    "saffar"
+   ],
+   "nesneler": [
+    "A02.12"
+   ]
+  },
+  {
+   "id": "abdulkerim-misri",
+   "tur": "kişi",
+   "ad": "ʿAbdulkerîm el-Mısrî",
+   "donem": "7./13. yy",
+   "alan": "Alet yapımı",
+   "varyantlar": [
+    "abdulkerim el misri",
+    "el misri"
+   ],
+   "nesneler": [
+    "A02.15"
+   ]
+  },
+  {
+   "id": "yezdi",
+   "tur": "kişi",
+   "ad": "Muḥammed Muḳīm el-Yezdî",
+   "donem": "11./17. yy",
+   "alan": "Usturlap yapımı",
+   "varyantlar": [
+    "muhammed mukim el yezdi",
+    "el yezdi",
+    "yezdi"
+   ],
+   "nesneler": [
+    "A02.16"
+   ]
+  },
+  {
+   "id": "ali-b-sihab",
+   "tur": "kişi",
+   "ad": "ʿAlî b. eş-Şihâb",
+   "donem": "8./14. yy",
+   "alan": "Alet yapımı",
+   "varyantlar": [
+    "ali b es sihab",
+    "es sihab"
+   ],
+   "nesneler": [
+    "A03.04"
+   ]
+  },
+  {
+   "id": "mutaim",
+   "tur": "kişi",
+   "ad": "ʿAlî b. İbrâhîm el-Muṭaʿʿim",
+   "donem": "8./14. yy",
+   "alan": "Usturlap yapımı",
+   "varyantlar": [
+    "ali b ibrahim el mutaim",
+    "el mutaim",
+    "mutaim"
+   ],
+   "nesneler": [
+    "A03.10"
+   ]
+  },
+  {
+   "id": "ridvan-saati",
+   "tur": "kişi",
+   "ad": "Rıdvân es-Sâʿātî",
+   "donem": "ö. 618/1231 sonrası",
+   "alan": "Saat · mekanik",
+   "varyantlar": [
+    "ridvan es saati",
+    "ridvan es sâʿâtî",
+    "es saati"
+   ],
+   "nesneler": [
+    "B01.01"
+   ]
+  },
+  {
+   "id": "fournier",
+   "tur": "kişi",
+   "ad": "Georges Fournier",
+   "donem": "1595-1652",
+   "alan": "Denizcilik · hidrografi",
+   "varyantlar": [
+    "fournier"
+   ],
+   "nesneler": [
+    "C01.10"
+   ]
+  },
+  {
+   "id": "rabica-isak",
+   "tur": "kişi",
+   "ad": "Rabí Çag / Isak İbn Sid (Toledo)",
+   "donem": "13. yy",
+   "alan": "Astronomi · çeviri",
+   "varyantlar": [
+    "rabicag",
+    "isak ibn sid",
+    "ibn sid"
+   ],
+   "nesneler": [
+    "A01.11"
+   ]
+  },
+  {
+   "id": "urdi-ogul",
+   "tur": "kişi",
+   "ad": "Muḥammed b. el-ʿUrḍî",
+   "donem": "7./13. yy",
+   "alan": "Astronomi",
+   "varyantlar": [
+    "el urdi nin oglu",
+    "urdi nin oğlu"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "isfizari",
+   "tur": "kişi",
+   "ad": "Ebû Ḥātim el-Muẓaffer el-İsfizārī",
+   "donem": "6./12. yy",
+   "alan": "Mekanik",
+   "varyantlar": [
+    "el isfizari",
+    "isfizari",
+    "ebu hatim el muzaffer"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "asturlabi-yusuf",
+   "tur": "kişi",
+   "ad": "Yūsuf el-Uṣṭurlābî",
+   "donem": "?",
+   "alan": "Usturlap yapımı",
+   "varyantlar": [
+    "yusuf el usturlabi",
+    "el usturlabi"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "savi",
+   "tur": "kişi",
+   "ad": "Zeyneddîn ʿÖmer b. Sehlân es-Sâvî",
+   "donem": "?",
+   "alan": "Tıp · felsefe",
+   "varyantlar": [
+    "zeyneddin ömer",
+    "es sevi",
+    "sehlân"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "mehri",
+   "tur": "kişi",
+   "ad": "Süleymân el-Mehrî",
+   "donem": "9-10./16. yy",
+   "alan": "Denizcilik",
+   "varyantlar": [
+    "süleymân el mehri",
+    "el mehri"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "apian",
+   "tur": "kişi",
+   "ad": "Peter Apian",
+   "donem": "1495-1552",
+   "alan": "Astronomi · kartografya",
+   "varyantlar": [
+    "peter apian",
+    "apian"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "guzuli",
+   "tur": "kişi",
+   "ad": "Muḥammed b. el-Ġuzūlî (hakkâk)",
+   "donem": "8./14. yy",
+   "alan": "Hakkâklık",
+   "varyantlar": [
+    "muhammed b el guzuli",
+    "el guzuli",
+    "guzuli"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "ibn-es-semh",
+   "tur": "kişi",
+   "ad": "Ebü’l-Ḳāsım Eṣba b. Muḥammed b. es-Semḥ",
+   "donem": "ö. 426/1035",
+   "alan": "Astronomi · usturlap",
+   "varyantlar": [
+    "ebu el kasim esba",
+    "b es semh",
+    "el arnati",
+    "arnati",
+    "esba"
+   ],
+   "nesneler": []
+  }
+ ],
+ "kurumlar": [
+  {
+   "id": "kahire-muzesi",
+   "tur": "kurum",
+   "ad": "Kahire İslâm Sanatları Müzesi",
+   "donem": "1881-",
+   "alan": "Müze · orijinal",
+   "varyantlar": [
+    "kahire islâm sanatları",
+    "kahire islam",
+    "kahire"
+   ],
+   "nesneler": [
+    "D01.16",
+    "H08.01",
+    "H08.02",
+    "H08.03",
+    "H08.04",
+    "H08.05",
+    "H08.06",
+    "H08.07",
+    "H08.08",
+    "H08.09",
+    "H08.10",
+    "H08.11",
+    "H08.12",
+    "H08.13",
+    "H08.14",
+    "H08.15",
+    "H08.16",
+    "H08.17",
+    "H08.18",
+    "H08.19",
+    "H08.20",
+    "H08.21",
+    "H08.22",
+    "H08.23",
+    "H08.24",
+    "H08.25",
+    "H08.26"
+   ]
+  },
+  {
+   "id": "jaipur-rasathane",
+   "tur": "kurum",
+   "ad": "Jaipur Rasathanesi (Jantar Mantar)",
+   "donem": "1727-1734",
+   "alan": "Rasathane",
+   "varyantlar": [
+    "jaipur",
+    "jantar mantar"
+   ],
+   "nesneler": [
+    "SITE-k3-36-jai-prak-jaipur",
+    "SITE-k3-37-kap-la-jaipur",
+    "SITE-k3-38-r-valaya-yantra-jaipur",
+    "SITE-k3-39-r-m-yantra-jaipur",
+    "SITE-k3-40-dakshi-ovitti-yantra-jaipur",
+    "SITE-k3-41-digam-a-yantra-jaipur",
+    "SITE-k3-42-narivalaya-yantra-jaipur",
+    "SITE-k3-43-unnat-a-yantra-jaipur",
+    "SITE-k3-45-samra-yantra-delhi",
+    "SITE-k3-46-jai-prak-s-delhi",
+    "SITE-k3-47-r-m-yantra-delhi",
+    "SITE-k3-48-mi-ra-yantra-delhi"
+   ]
+  },
+  {
+   "id": "brunold",
+   "tur": "model_atolyesi",
+   "ad": "Martin Brunold (Abtwil, İsviçre)",
+   "donem": "20-21. yy",
+   "alan": "Model atölyesi",
+   "varyantlar": [
+    "martin brunold",
+    "m brunold",
+    "brunold"
+   ],
+   "nesneler": [
+    "A02.09",
+    "A02.19",
+    "B02.10",
+    "B02.11",
+    "B02.14",
+    "C02.01"
+   ]
+  },
+  {
+   "id": "lobmeyr",
+   "tur": "avrupa_uretici",
+   "ad": "J. & L. Lobmeyr",
+   "donem": "19. yy",
+   "alan": "Cam (Viyana)",
+   "varyantlar": [
+    "lobmeyr"
+   ],
+   "nesneler": [
+    "J3",
+    "J343",
+    "J346",
+    "J350",
+    "J357"
+   ]
+  },
+  {
+   "id": "osmanli",
+   "tur": "kurum",
+   "ad": "Osmanlı (genel)",
+   "donem": "14.-20. yy",
+   "alan": "Üretim çevresi",
+   "varyantlar": [
+    "osmanlı",
+    "osmanli"
+   ],
+   "nesneler": [
+    "D01.10",
+    "E01.20",
+    "J234",
+    "J235",
+    "J236"
+   ]
+  },
+  {
+   "id": "igaiw",
+   "tur": "kurum",
+   "ad": "Frankfurt İGAIW (Fuat Sezgin Enstitüsü)",
+   "donem": "1982-",
+   "alan": "Enstitü · koleksiyon",
+   "varyantlar": [
+    "igaiw",
+    "institut fur geschichte",
+    "enstitü",
+    "frankfurt"
+   ],
+   "nesneler": [
+    "C01.19",
+    "C01.21",
+    "C01.25",
+    "D01.31"
+   ]
+  },
+  {
+   "id": "barselona-maritim",
+   "tur": "kurum",
+   "ad": "Museu Marítim, Barselona",
+   "donem": "1936-",
+   "alan": "Müze · orijinal",
+   "varyantlar": [
+    "museu maritim",
+    "muse maritim"
+   ],
+   "nesneler": [
+    "C01.14",
+    "C01.15",
+    "C02.06"
+   ]
+  },
+  {
+   "id": "deck",
+   "tur": "avrupa_uretici",
+   "ad": "Théodore Deck",
+   "donem": "1823-1891",
+   "alan": "Seramik (Paris)",
+   "varyantlar": [
+    "theodore deck",
+    "théodore deck",
+    "deck"
+   ],
+   "nesneler": [
+    "J358",
+    "J360"
+   ]
+  },
+  {
+   "id": "farre",
+   "tur": "model_atolyesi",
+   "ad": "Eduard Farré-Olivé (Barselona)",
+   "donem": "20-21. yy",
+   "alan": "Model atölyesi",
+   "varyantlar": [
+    "eduard farre",
+    "farre olive",
+    "farre"
+   ],
+   "nesneler": [
+    "B01.03",
+    "C02.05"
+   ]
+  },
+  {
+   "id": "brocard",
+   "tur": "avrupa_uretici",
+   "ad": "Brocard",
+   "donem": "?",
+   "alan": "Alet üreticisi",
+   "varyantlar": [
+    "brocard"
+   ],
+   "nesneler": [
+    "J340",
+    "J341"
+   ]
+  },
+  {
+   "id": "istanbul-rasathane",
+   "tur": "kurum",
+   "ad": "İstanbul Rasathanesi (Tophane)",
+   "donem": "1575-1580",
+   "alan": "Rasathane",
+   "varyantlar": [
+    "istanbul rasathanesi"
+   ],
+   "nesneler": [
+    "A04.03",
+    "A04.31"
+   ]
+  },
+  {
+   "id": "freudemann",
+   "tur": "model_atolyesi",
+   "ad": "W. Freudemann",
+   "donem": "20-21. yy",
+   "alan": "Model atölyesi",
+   "varyantlar": [
+    "freudemann"
+   ],
+   "nesneler": [
+    "G01.06"
+   ]
+  },
+  {
+   "id": "zamorano",
+   "tur": "model_atolyesi",
+   "ad": "Zamorano (Compendio rekonstrüksiyonu)",
+   "donem": "20-21. yy",
+   "alan": "Model atölyesi",
+   "varyantlar": [
+    "zamorano"
+   ],
+   "nesneler": [
+    "C01.11"
+   ]
+  },
+  {
+   "id": "stanley",
+   "tur": "avrupa_uretici",
+   "ad": "Stanley (London)",
+   "donem": "19-20. yy",
+   "alan": "Alet üreticisi",
+   "varyantlar": [
+    "stanley"
+   ],
+   "nesneler": [
+    "C01.22"
+   ]
+  },
+  {
+   "id": "cooke",
+   "tur": "avrupa_uretici",
+   "ad": "T. Cooke & Sons (London)",
+   "donem": "19-20. yy",
+   "alan": "Alet üreticisi",
+   "varyantlar": [
+    "t cooke",
+    "cooke"
+   ],
+   "nesneler": [
+    "C01.20"
+   ]
+  },
+  {
+   "id": "ripoll",
+   "tur": "kurum",
+   "ad": "Santa Maria de Ripoll Benedikt Manastırı",
+   "donem": "9. yy",
+   "alan": "Manastır · yazma",
+   "varyantlar": [
+    "ripoll",
+    "benedikt"
+   ],
+   "nesneler": [
+    "B01.05"
+   ]
+  },
+  {
+   "id": "selcuklu",
+   "tur": "kurum",
+   "ad": "Selçuklu (genel)",
+   "donem": "11.-13. yy",
+   "alan": "Üretim çevresi",
+   "varyantlar": [
+    "selçuklu",
+    "selcuklu"
+   ],
+   "nesneler": [
+    "J29"
+   ]
+  },
+  {
+   "id": "oestmann",
+   "tur": "model_atolyesi",
+   "ad": "G. Oestmann & F. Lühring (Bremen)",
+   "donem": "20-21. yy",
+   "alan": "Model atölyesi",
+   "varyantlar": [
+    "oestmann",
+    "luhring"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "seemann",
+   "tur": "model_atolyesi",
+   "ad": "H. Seemann",
+   "donem": "20. yy",
+   "alan": "Model atölyesi",
+   "varyantlar": [
+    "seemann"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "delhi-rasathane",
+   "tur": "kurum",
+   "ad": "Delhi Rasathanesi (Jantar Mantar)",
+   "donem": "18. yy",
+   "alan": "Rasathane",
+   "varyantlar": [
+    "delhi jantar mantar",
+    "delhi rasathanesi"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "maraga-rasathane",
+   "tur": "kurum",
+   "ad": "Merâğa Rasathanesi",
+   "donem": "1259-",
+   "alan": "Rasathane",
+   "varyantlar": [
+    "meraga",
+    "merâğa"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "oxford-mhs",
+   "tur": "kurum",
+   "ad": "Museum of the History of Science, Oxford",
+   "donem": "1924-",
+   "alan": "Müze · orijinal",
+   "varyantlar": [
+    "museum of the history of science",
+    "evans collection",
+    "oxford"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "enstitu-atolye",
+   "tur": "kurum",
+   "ad": "Enstitü atölyesi (İGAIW rekonstrüksiyonu)",
+   "donem": "20-21. yy",
+   "alan": "Model atölyesi",
+   "varyantlar": [
+    "enstitü mülkiyeti",
+    "ensitutul",
+    "atölye",
+    "atolye"
+   ],
+   "nesneler": []
+  }
+ ],
+ "yazma_kaynaklar": [
+  {
+   "id": "yazma-liber-florum",
+   "tur": "yazma_eser",
+   "ad": "Liber florum Geberti",
+   "donem": "10-11. yy",
+   "alan": "Yazma kaynak",
+   "varyantlar": [
+    "liber florum geberti",
+    "gebert"
+   ],
+   "nesneler": [
+    "K01.08",
+    "K01.10",
+    "K01.11",
+    "K01.19",
+    "K01.23"
+   ]
+  },
+  {
+   "id": "yazma-libros",
+   "tur": "yazma_eser",
+   "ad": "Libros del saber de astronomía (X. Alfons)",
+   "donem": "1276-1277",
+   "alan": "Yazma kaynak",
+   "varyantlar": [
+    "libros del saber",
+    "kastilya kralı",
+    "alfons"
+   ],
+   "nesneler": [
+    "B02.04",
+    "B03.04",
+    "B03.08"
+   ]
+  },
+  {
+   "id": "yazma-gotha",
+   "tur": "yazma_eser",
+   "ad": "Gotha yazması",
+   "donem": "?",
+   "alan": "Yazma kaynak",
+   "varyantlar": [
+    "gotha"
+   ],
+   "nesneler": [
+    "K01.05"
+   ]
+  },
+  {
+   "id": "yazma-enik",
+   "tur": "yazma_eser",
+   "ad": "el-Enîḳ fî’l-Manâcnîḳ",
+   "donem": "8./14. yy",
+   "alan": "Yazma kaynak",
+   "varyantlar": [
+    "el enik fi el manacnik",
+    "enik fi",
+    "manacnik"
+   ],
+   "nesneler": [
+    "G01.14"
+   ]
+  },
+  {
+   "id": "yazma-kuhl",
+   "tur": "yazma_eser",
+   "ad": "Kitāb el-Kuḥl",
+   "donem": "?",
+   "alan": "Yazma kaynak",
+   "varyantlar": [
+    "kuhl"
+   ],
+   "nesneler": [
+    "H02.18"
+   ]
+  },
+  {
+   "id": "yazma-quatremere",
+   "tur": "yazma_eser",
+   "ad": "Quatremère yazması / neşri",
+   "donem": "19. yy",
+   "alan": "Yazma kaynak",
+   "varyantlar": [
+    "quatremere"
+   ],
+   "nesneler": [
+    "K03.58"
+   ]
+  },
+  {
+   "id": "yazma-riccardiana",
+   "tur": "yazma_eser",
+   "ad": "Riccardiana yazması (er-Râzî, Latince)",
+   "donem": "?",
+   "alan": "Yazma kaynak",
+   "varyantlar": [
+    "riccardiana"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "yazma-tabira",
+   "tur": "yazma_eser",
+   "ad": "eṭ-Ṭarsūsī, Tabṣirat Erbāb el-Elbâb",
+   "donem": "8./14. yy",
+   "alan": "Yazma kaynak",
+   "varyantlar": [
+    "tabsirat",
+    "tabsirat erbâb"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "yazma-turuk",
+   "tur": "yazma_eser",
+   "ad": "Taḳıyyeddîn, eṭ-Ṭuruḳ es-Seniyye",
+   "donem": "10./16. yy",
+   "alan": "Yazma kaynak",
+   "varyantlar": [
+    "et turuk es seniyye",
+    "turuk es seniyye"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "yazma-istiab",
+   "tur": "yazma_eser",
+   "ad": "el-Bîrûnî, İstîʿâb el-Vucūh",
+   "donem": "5./11. yy",
+   "alan": "Yazma kaynak",
+   "varyantlar": [
+    "istiab",
+    "istîâb",
+    "vucuh"
+   ],
+   "nesneler": []
+  },
+  {
+   "id": "yazma-tasrif",
+   "tur": "yazma_eser",
+   "ad": "ez-Zehrâvî, Kitāb et-Taṣrīf",
+   "donem": "4-5./10-11. yy",
+   "alan": "Yazma kaynak",
+   "varyantlar": [
+    "et tasrif",
+    "kitab et tasrif",
+    "tasrif"
+   ],
+   "nesneler": []
+  }
+ ],
+ "eslesmeyenler": [
+  {
+   "ham": "Mûsâ; 885/1480",
+   "adet": 1
+  },
+  {
+   "ham": "—; 1070/1660",
+   "adet": 1
+  },
+  {
+   "ham": "4./10. yy Arap usturlabı karakterinde; Papa'ya atıf sonradan tahmindir",
+   "adet": 1
+  },
+  {
+   "ham": "—; 1091/1680",
+   "adet": 1
+  },
+  {
+   "ham": "yla bacaklar",
+   "adet": 1
+  },
+  {
+   "ham": "Arap-İslam kültür çevresinin geleneksel pusula iğnesi",
+   "adet": 1
+  },
+  {
+   "ham": "yorlar. Bu",
+   "adet": 1
+  },
+  {
+   "ham": "nesi",
+   "adet": 1
+  },
+  {
+   "ham": "un ekseninde birinci",
+   "adet": 1
+  },
+  {
+   "ham": "—; krş. Heinrich Schickardt'ın Milano yakınlarındaki sarmal su çarkı t",
+   "adet": 1
+  },
+  {
+   "ham": "6./12. yüzyıldan sonra yazılmış Arapça anonim kitap",
+   "adet": 1
+  },
+  {
+   "ham": "tir. Vida",
+   "adet": 1
+  },
+  {
+   "ham": "Göz hastalıklarında hacamat için bıçak",
+   "adet": 1
+  },
+  {
+   "ham": "ndan eser",
+   "adet": 1
+  },
+  {
+   "ham": "daire madalyo",
+   "adet": 1
+  },
+  {
+   "ham": "lu imbikler",
+   "adet": 1
+  },
+  {
+   "ham": "l Deniz",
+   "adet": 1
+  },
+  {
+   "ham": "bir kitab",
+   "adet": 1
+  },
+  {
+   "ham": "r. Bu mineral",
+   "adet": 1
+  },
+  {
+   "ham": "r. Birincisi",
+   "adet": 1
+  },
+  {
+   "ham": "Der Bernste",
+   "adet": 1
+  }
+ ]
+}

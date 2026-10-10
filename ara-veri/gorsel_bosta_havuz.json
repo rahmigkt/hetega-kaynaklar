@@ -1,0 +1,731 @@
+[
+ {
+  "M": 6,
+  "dosya": "/kutuphane/katalog3/k005-6.jpg",
+  "cilt": "II",
+  "sayfa_lo": 26,
+  "sayfa_hi": 38,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k005-6.jpg"
+ },
+ {
+  "M": 8,
+  "dosya": "/kutuphane/katalog3/k006-8.jpg",
+  "cilt": "II",
+  "sayfa_lo": 38,
+  "sayfa_hi": 39,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k006-8.jpg"
+ },
+ {
+  "M": 10,
+  "dosya": "/kutuphane/katalog3/k007-10.jpg",
+  "cilt": "II",
+  "sayfa_lo": 39,
+  "sayfa_hi": 41,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k007-10.jpg"
+ },
+ {
+  "M": 12,
+  "dosya": "/kutuphane/katalog3/k008-12.jpg",
+  "cilt": "II",
+  "sayfa_lo": 41,
+  "sayfa_hi": 42,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k008-12.jpg"
+ },
+ {
+  "M": 15,
+  "dosya": "/kutuphane/katalog3/k010-15.jpg",
+  "cilt": "II",
+  "sayfa_lo": 43,
+  "sayfa_hi": 44,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k010-15.jpg"
+ },
+ {
+  "M": 17,
+  "dosya": "/kutuphane/katalog3/k011-17.jpg",
+  "cilt": "II",
+  "sayfa_lo": 44,
+  "sayfa_hi": 45,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k011-17.jpg"
+ },
+ {
+  "M": 19,
+  "dosya": "/kutuphane/katalog3/k012-19.jpg",
+  "cilt": "II",
+  "sayfa_lo": 45,
+  "sayfa_hi": 46,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k012-19.jpg"
+ },
+ {
+  "M": 21,
+  "dosya": "/kutuphane/katalog3/k013-21.jpg",
+  "cilt": "II",
+  "sayfa_lo": 46,
+  "sayfa_hi": 48,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k013-21.jpg"
+ },
+ {
+  "M": 23,
+  "dosya": "/kutuphane/katalog3/k014-23.jpg",
+  "cilt": "II",
+  "sayfa_lo": 48,
+  "sayfa_hi": 51,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k014-23.jpg"
+ },
+ {
+  "M": 25,
+  "dosya": "/kutuphane/katalog3/k015-25.jpg",
+  "cilt": "II",
+  "sayfa_lo": 51,
+  "sayfa_hi": 52,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k015-25.jpg"
+ },
+ {
+  "M": 28,
+  "dosya": "/kutuphane/katalog3/k017-28.jpg",
+  "cilt": "II",
+  "sayfa_lo": 53,
+  "sayfa_hi": 54,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k017-28.jpg"
+ },
+ {
+  "M": 30,
+  "dosya": "/kutuphane/katalog3/k018-30.jpg",
+  "cilt": "II",
+  "sayfa_lo": 54,
+  "sayfa_hi": 55,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k018-30.jpg"
+ },
+ {
+  "M": 32,
+  "dosya": "/kutuphane/katalog3/k019-32.jpg",
+  "cilt": "II",
+  "sayfa_lo": 55,
+  "sayfa_hi": 56,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k019-32.jpg"
+ },
+ {
+  "M": 34,
+  "dosya": "/kutuphane/katalog3/k020-34.jpg",
+  "cilt": "II",
+  "sayfa_lo": 56,
+  "sayfa_hi": 58,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k020-34.jpg"
+ },
+ {
+  "M": 37,
+  "dosya": "/kutuphane/katalog3/k022-37.jpg",
+  "cilt": "II",
+  "sayfa_lo": 59,
+  "sayfa_hi": 61,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k022-37.jpg"
+ },
+ {
+  "M": 39,
+  "dosya": "/kutuphane/katalog3/k023-39.jpg",
+  "cilt": "II",
+  "sayfa_lo": 59,
+  "sayfa_hi": 61,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k023-39.jpg"
+ },
+ {
+  "M": 41,
+  "dosya": "/kutuphane/katalog3/k024-41.jpg",
+  "cilt": "II",
+  "sayfa_lo": 61,
+  "sayfa_hi": 62,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k024-41.jpg"
+ },
+ {
+  "M": 43,
+  "dosya": "/kutuphane/katalog3/k025-43.jpg",
+  "cilt": "II",
+  "sayfa_lo": 62,
+  "sayfa_hi": 63,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k025-43.jpg"
+ },
+ {
+  "M": 48,
+  "dosya": "/kutuphane/katalog3/k029-48.jpg",
+  "cilt": "II",
+  "sayfa_lo": 66,
+  "sayfa_hi": 67,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k029-48.jpg"
+ },
+ {
+  "M": 50,
+  "dosya": "/kutuphane/katalog3/k030-50.jpg",
+  "cilt": "II",
+  "sayfa_lo": 67,
+  "sayfa_hi": 68,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k030-50.jpg"
+ },
+ {
+  "M": 53,
+  "dosya": "/kutuphane/katalog3/k032-53.jpg",
+  "cilt": "II",
+  "sayfa_lo": 69,
+  "sayfa_hi": 72,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k032-53.jpg"
+ },
+ {
+  "M": 54,
+  "dosya": "/kutuphane/katalog3/k032-54.jpg",
+  "cilt": "II",
+  "sayfa_lo": 69,
+  "sayfa_hi": 72,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k032-54.jpg"
+ },
+ {
+  "M": 57,
+  "dosya": "/kutuphane/katalog3/k034-57.jpg",
+  "cilt": "II",
+  "sayfa_lo": 72,
+  "sayfa_hi": 76,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k034-57.jpg"
+ },
+ {
+  "M": 75,
+  "dosya": "/kutuphane/katalog3/k051-75.jpg",
+  "cilt": "II",
+  "sayfa_lo": 76,
+  "sayfa_hi": 86,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k051-75.jpg"
+ },
+ {
+  "M": 80,
+  "dosya": "/kutuphane/katalog3/k055-80.jpg",
+  "cilt": "II",
+  "sayfa_lo": 76,
+  "sayfa_hi": 86,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k055-80.jpg"
+ },
+ {
+  "M": 88,
+  "dosya": "/kutuphane/katalog3/k062-88.jpg",
+  "cilt": "II",
+  "sayfa_lo": 92,
+  "sayfa_hi": 94,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k062-88.jpg"
+ },
+ {
+  "M": 94,
+  "dosya": "/kutuphane/katalog3/k067-94.jpg",
+  "cilt": "II",
+  "sayfa_lo": 97,
+  "sayfa_hi": 100,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k067-94.jpg"
+ },
+ {
+  "M": 114,
+  "dosya": "/kutuphane/katalog3/k087-114.jpg",
+  "cilt": "II",
+  "sayfa_lo": 119,
+  "sayfa_hi": 124,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k087-114.jpg"
+ },
+ {
+  "M": 115,
+  "dosya": "/kutuphane/katalog3/k087-115.jpg",
+  "cilt": "II",
+  "sayfa_lo": 119,
+  "sayfa_hi": 124,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k087-115.jpg"
+ },
+ {
+  "M": 117,
+  "dosya": "/kutuphane/katalog3/k088-117.jpg",
+  "cilt": "II",
+  "sayfa_lo": 124,
+  "sayfa_hi": 127,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k088-117.jpg"
+ },
+ {
+  "M": 119,
+  "dosya": "/kutuphane/katalog3/k089-119.jpg",
+  "cilt": "II",
+  "sayfa_lo": 127,
+  "sayfa_hi": 128,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k089-119.jpg"
+ },
+ {
+  "M": 121,
+  "dosya": "/kutuphane/katalog3/k090-121.jpg",
+  "cilt": "II",
+  "sayfa_lo": 128,
+  "sayfa_hi": 131,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k090-121.jpg"
+ },
+ {
+  "M": 123,
+  "dosya": "/kutuphane/katalog3/k091-123.jpg",
+  "cilt": "II",
+  "sayfa_lo": 131,
+  "sayfa_hi": 133,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k091-123.jpg"
+ },
+ {
+  "M": 126,
+  "dosya": "/kutuphane/katalog3/k093-126.jpg",
+  "cilt": "II",
+  "sayfa_lo": 134,
+  "sayfa_hi": 136,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k093-126.jpg"
+ },
+ {
+  "M": 139,
+  "dosya": "/kutuphane/katalog3/k105-139.jpg",
+  "cilt": "II",
+  "sayfa_lo": 147,
+  "sayfa_hi": 149,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k105-139.jpg"
+ },
+ {
+  "M": 144,
+  "dosya": "/kutuphane/katalog3/k109-144.jpg",
+  "cilt": "II",
+  "sayfa_lo": 151,
+  "sayfa_hi": 154,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k109-144.jpg"
+ },
+ {
+  "M": 145,
+  "dosya": "/kutuphane/katalog3/k109-145.jpg",
+  "cilt": "II",
+  "sayfa_lo": 151,
+  "sayfa_hi": 154,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k109-145.jpg"
+ },
+ {
+  "M": 148,
+  "dosya": "/kutuphane/katalog3/k111-148.jpg",
+  "cilt": "II",
+  "sayfa_lo": 154,
+  "sayfa_hi": 158,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k111-148.jpg"
+ },
+ {
+  "M": 150,
+  "dosya": "/kutuphane/katalog3/k112-150.jpg",
+  "cilt": "II",
+  "sayfa_lo": 158,
+  "sayfa_hi": 161,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k112-150.jpg"
+ },
+ {
+  "M": 151,
+  "dosya": "/kutuphane/katalog3/k112-151.jpg",
+  "cilt": "II",
+  "sayfa_lo": 158,
+  "sayfa_hi": 161,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k112-151.jpg"
+ },
+ {
+  "M": 156,
+  "dosya": "/kutuphane/katalog3/k116-156.jpg",
+  "cilt": "II",
+  "sayfa_lo": 164,
+  "sayfa_hi": 166,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k116-156.jpg"
+ },
+ {
+  "M": 158,
+  "dosya": "/kutuphane/katalog3/k117-158.jpg",
+  "cilt": "II",
+  "sayfa_lo": 166,
+  "sayfa_hi": 170,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k117-158.jpg"
+ },
+ {
+  "M": 161,
+  "dosya": "/kutuphane/katalog3/k119-161.jpg",
+  "cilt": "II",
+  "sayfa_lo": 170,
+  "sayfa_hi": 177,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k119-161.jpg"
+ },
+ {
+  "M": 164,
+  "dosya": "/kutuphane/katalog3/k121-164.jpg",
+  "cilt": "II",
+  "sayfa_lo": 177,
+  "sayfa_hi": 183,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k121-164.jpg"
+ },
+ {
+  "M": 165,
+  "dosya": "/kutuphane/katalog3/k121-165.jpg",
+  "cilt": "II",
+  "sayfa_lo": 177,
+  "sayfa_hi": 183,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k121-165.jpg"
+ },
+ {
+  "M": 167,
+  "dosya": "/kutuphane/katalog3/k122-167.jpg",
+  "cilt": "II",
+  "sayfa_lo": 177,
+  "sayfa_hi": 183,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k122-167.jpg"
+ },
+ {
+  "M": 169,
+  "dosya": "/kutuphane/katalog3/k123-169.jpg",
+  "cilt": "II",
+  "sayfa_lo": 183,
+  "sayfa_hi": 185,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k123-169.jpg"
+ },
+ {
+  "M": 171,
+  "dosya": "/kutuphane/katalog3/k124-171.jpg",
+  "cilt": "II",
+  "sayfa_lo": 185,
+  "sayfa_hi": 187,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k124-171.jpg"
+ },
+ {
+  "M": 172,
+  "dosya": "/kutuphane/katalog3/k124-172.jpg",
+  "cilt": "II",
+  "sayfa_lo": 185,
+  "sayfa_hi": 187,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k124-172.jpg"
+ },
+ {
+  "M": 174,
+  "dosya": "/kutuphane/katalog3/k125-174.jpg",
+  "cilt": "II",
+  "sayfa_lo": 187,
+  "sayfa_hi": 192,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k125-174.jpg"
+ },
+ {
+  "M": 176,
+  "dosya": "/kutuphane/katalog3/k126-176.jpg",
+  "cilt": "II",
+  "sayfa_lo": 187,
+  "sayfa_hi": 192,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k126-176.jpg"
+ },
+ {
+  "M": 178,
+  "dosya": "/kutuphane/katalog3/k127-178.jpg",
+  "cilt": "II",
+  "sayfa_lo": 192,
+  "sayfa_hi": 196,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k127-178.jpg"
+ },
+ {
+  "M": 179,
+  "dosya": "/kutuphane/katalog3/k127-179.jpg",
+  "cilt": "II",
+  "sayfa_lo": 192,
+  "sayfa_hi": 196,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k127-179.jpg"
+ },
+ {
+  "M": 181,
+  "dosya": "/kutuphane/katalog3/k128-181.jpg",
+  "cilt": "II",
+  "sayfa_lo": 196,
+  "sayfa_hi": 198,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k128-181.jpg"
+ },
+ {
+  "M": 183,
+  "dosya": "/kutuphane/katalog3/k129-183.jpg",
+  "cilt": "II",
+  "sayfa_lo": 198,
+  "sayfa_hi": 200,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k129-183.jpg"
+ },
+ {
+  "M": 185,
+  "dosya": "/kutuphane/katalog3/k130-185.jpg",
+  "cilt": "II",
+  "sayfa_lo": 200,
+  "sayfa_hi": null,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k130-185.jpg"
+ },
+ {
+  "M": 188,
+  "dosya": "/kutuphane/katalog3/k132-188.jpg",
+  "cilt": "III",
+  "sayfa_lo": 26,
+  "sayfa_hi": null,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k132-188.jpg"
+ },
+ {
+  "M": 190,
+  "dosya": "/kutuphane/katalog3/k133-190.jpg",
+  "cilt": "II",
+  "sayfa_lo": 123,
+  "sayfa_hi": null,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k133-190.jpg"
+ },
+ {
+  "M": 203,
+  "dosya": "/kutuphane/katalog3/k146-203.jpg",
+  "cilt": "III",
+  "sayfa_lo": 53,
+  "sayfa_hi": 56,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k146-203.jpg"
+ },
+ {
+  "M": 213,
+  "dosya": "/kutuphane/katalog3/k155-213.jpg",
+  "cilt": "III",
+  "sayfa_lo": 65,
+  "sayfa_hi": 66,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k155-213.jpg"
+ },
+ {
+  "M": 219,
+  "dosya": "/kutuphane/katalog3/k160-219.jpg",
+  "cilt": "III",
+  "sayfa_lo": 70,
+  "sayfa_hi": 72,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k160-219.jpg"
+ },
+ {
+  "M": 225,
+  "dosya": "/kutuphane/katalog3/k165-225.jpg",
+  "cilt": "III",
+  "sayfa_lo": 76,
+  "sayfa_hi": 77,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k165-225.jpg"
+ },
+ {
+  "M": 227,
+  "dosya": "/kutuphane/katalog3/k166-227.jpg",
+  "cilt": "III",
+  "sayfa_lo": 77,
+  "sayfa_hi": 79,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k166-227.jpg"
+ },
+ {
+  "M": 237,
+  "dosya": "/kutuphane/katalog3/k175-237.jpg",
+  "cilt": "III",
+  "sayfa_lo": 87,
+  "sayfa_hi": 90,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k175-237.jpg"
+ },
+ {
+  "M": 240,
+  "dosya": "/kutuphane/katalog3/k177-240.jpg",
+  "cilt": "III",
+  "sayfa_lo": 91,
+  "sayfa_hi": 93,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k177-240.jpg"
+ },
+ {
+  "M": 243,
+  "dosya": "/kutuphane/katalog3/k179-243.jpg",
+  "cilt": "III",
+  "sayfa_lo": 94,
+  "sayfa_hi": 96,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k179-243.jpg"
+ },
+ {
+  "M": 247,
+  "dosya": "/kutuphane/katalog3/k182-247.jpg",
+  "cilt": "III",
+  "sayfa_lo": 97,
+  "sayfa_hi": 103,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k182-247.jpg"
+ },
+ {
+  "M": 249,
+  "dosya": "/kutuphane/katalog3/k183-249.jpg",
+  "cilt": "III",
+  "sayfa_lo": 97,
+  "sayfa_hi": 103,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k183-249.jpg"
+ },
+ {
+  "M": 251,
+  "dosya": "/kutuphane/katalog3/k184-251.jpg",
+  "cilt": "III",
+  "sayfa_lo": 103,
+  "sayfa_hi": 106,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k184-251.jpg"
+ },
+ {
+  "M": 253,
+  "dosya": "/kutuphane/katalog3/k185-253.jpg",
+  "cilt": "III",
+  "sayfa_lo": 106,
+  "sayfa_hi": 109,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k185-253.jpg"
+ },
+ {
+  "M": 256,
+  "dosya": "/kutuphane/katalog3/k187-256.jpg",
+  "cilt": "III",
+  "sayfa_lo": 110,
+  "sayfa_hi": 112,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k187-256.jpg"
+ },
+ {
+  "M": 264,
+  "dosya": "/kutuphane/katalog3/k194-264.jpg",
+  "cilt": "III",
+  "sayfa_lo": 119,
+  "sayfa_hi": 140,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k194-264.jpg"
+ },
+ {
+  "M": 266,
+  "dosya": "/kutuphane/katalog3/k195-266.jpg",
+  "cilt": "III",
+  "sayfa_lo": 119,
+  "sayfa_hi": 140,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k195-266.jpg"
+ },
+ {
+  "M": 268,
+  "dosya": "/kutuphane/katalog3/k196-268.jpg",
+  "cilt": "III",
+  "sayfa_lo": 140,
+  "sayfa_hi": 141,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k196-268.jpg"
+ },
+ {
+  "M": 282,
+  "dosya": "/kutuphane/katalog3/k209-282.jpg",
+  "cilt": "III",
+  "sayfa_lo": 150,
+  "sayfa_hi": 156,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k209-282.jpg"
+ },
+ {
+  "M": 284,
+  "dosya": "/kutuphane/katalog3/k210-284.jpg",
+  "cilt": "III",
+  "sayfa_lo": 156,
+  "sayfa_hi": 157,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k210-284.jpg"
+ },
+ {
+  "M": 350,
+  "dosya": "/kutuphane/katalog3/k275-350.jpg",
+  "cilt": "IV",
+  "sayfa_lo": 89,
+  "sayfa_hi": 92,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k275-350.jpg"
+ },
+ {
+  "M": 352,
+  "dosya": "/kutuphane/katalog3/k276-352.jpg",
+  "cilt": "IV",
+  "sayfa_lo": 92,
+  "sayfa_hi": 113,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k276-352.jpg"
+ },
+ {
+  "M": 354,
+  "dosya": "/kutuphane/katalog3/k277-354.jpg",
+  "cilt": "IV",
+  "sayfa_lo": 113,
+  "sayfa_hi": 116,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k277-354.jpg"
+ },
+ {
+  "M": 357,
+  "dosya": "/kutuphane/katalog3/k280-357.jpg",
+  "cilt": "IV",
+  "sayfa_lo": 117,
+  "sayfa_hi": 120,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k280-357.jpg"
+ },
+ {
+  "M": 463,
+  "dosya": "/kutuphane/katalog3/k385-463.jpg",
+  "cilt": "V",
+  "sayfa_lo": 53,
+  "sayfa_hi": 56,
+  "tek_sayfa": false,
+  "katalog2_karsiligi": "/kutuphane/katalog2/k385-463.jpg"
+ }
+]

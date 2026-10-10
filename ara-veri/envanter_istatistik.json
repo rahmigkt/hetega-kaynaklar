@@ -1,0 +1,46 @@
+{
+ "toplam_nesne": 747,
+ "yayin_durumu": {
+  "yayında": 376,
+  "yayında_doğrulanmadı": 34,
+  "set_üyesi_bölünecek": 62,
+  "eksik_baslik_bekliyor": 142,
+  "eklenmeye_hazır": 92,
+  "yayında_numarasız": 41
+ },
+ "baslik_kalitesi": {
+  "yayın": 513,
+  "üstbaşlık": 140,
+  "iyi": 92,
+  "tahmin": 2
+ },
+ "koleksiyonlar": {
+  "Kimya": 156,
+  "Antik Objeler": 146,
+  "Tıp": 126,
+  "Astronomi": 123,
+  "Coğrafya ve Seyrüsefer": 39,
+  "Saatler": 37,
+  "Askeri Teknoloji": 37,
+  "Fizik ve Teknik": 34,
+  "Tesviye ve Geometri": 33,
+  "Mimari": 9,
+  "Usturlaplar": 7
+ },
+ "bayraklar": {
+  "sitede_yok": 234,
+  "başlık_kitaptan_farklı": 186,
+  "kategori_uyuşmuyor": 130,
+  "set_üyesi_bölünecek": 62,
+  "envanter_no_yok": 41,
+  "kitapta_doğrulanamadı": 34,
+  "sayfa_uyuşmuyor": 24,
+  "kitapta_mükerrer_blok": 15,
+  "numara_şüpheli": 10,
+  "numara_otomatik_atandı": 5,
+  "sitede_mükerrer_numara": 4,
+  "cilt_uyuşmuyor": 1,
+  "başlık_yok": 1
+ },
+ "incelemeye_muhtac": 217
+}

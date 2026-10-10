@@ -1,0 +1,369 @@
+{
+ "Kimya": {
+  "nesne": 156,
+  "alt": {
+   "Mineraller ve Fosil Oluşumlar": {
+    "nesne": 88,
+    "alt": {
+     "Örnekler": {
+      "nesne": 88
+     }
+    }
+   },
+   "Kimya": {
+    "nesne": 51,
+    "alt": {
+     "Laboratuvar Araçları": {
+      "nesne": 51
+     }
+    }
+   },
+   "Tıp": {
+    "nesne": 2
+   }
+  }
+ },
+ "Antik Objeler": {
+  "nesne": 146,
+  "alt": {
+   "Antik Objeler": {
+    "nesne": 135,
+    "alt": {
+     "Metal, Cam, Seramik, Ahşap ve Taş Objeler": {
+      "nesne": 106
+     },
+     "Orientleştirici Stilde Avrupa Camı ve Seramiği": {
+      "nesne": 29
+     }
+    }
+   },
+   "Fizik ve Teknik": {
+    "nesne": 6,
+    "alt": {
+     "Teraziler ve Ölçüm Araçları": {
+      "nesne": 6
+     }
+    }
+   },
+   "Mineraller ve Fosil Oluşumlar": {
+    "nesne": 2,
+    "alt": {
+     "Örnekler": {
+      "nesne": 2
+     }
+    }
+   }
+  }
+ },
+ "Tıp": {
+  "nesne": 126,
+  "alt": {
+   "Tıp": {
+    "nesne": 124,
+    "alt": {
+     "Aletler ve Modeller": {
+      "nesne": 123,
+      "alt": {
+       "el-Fustât’tan Muhtelif Aletler": {
+        "nesne": 26
+       },
+       "Diş Tedavisi": {
+        "nesne": 22
+       },
+       "Göz Tedavileri": {
+        "nesne": 22
+       },
+       "Kulak-Burun-Boğaz Tedavisi": {
+        "nesne": 12
+       },
+       "Jinekolojik Aletler": {
+        "nesne": 7
+       },
+       "Kaza Cerrahisi": {
+        "nesne": 6
+       },
+       "Genel Cerrahi": {
+        "nesne": 5
+       },
+       "Kafa ve Yüz Tedavileri": {
+        "nesne": 5
+       },
+       "Koterizasyon": {
+        "nesne": 5
+       },
+       "İdrar Yolları Tedavisi": {
+        "nesne": 5
+       },
+       "Ortopedi": {
+        "nesne": 3
+       },
+       "Sinir Hastalıkları Tedavisi": {
+        "nesne": 3
+       },
+       "Hacamat": {
+        "nesne": 2
+       }
+      }
+     }
+    }
+   }
+  }
+ },
+ "Astronomi": {
+  "nesne": 123,
+  "alt": {
+   "Astronomi": {
+    "nesne": 94,
+    "alt": {
+     "Astronomi Aletleri": {
+      "nesne": 62,
+      "alt": {
+       "Usturlaplar": {
+        "nesne": 25
+       },
+       "Ekvatoryumlar": {
+        "nesne": 11
+       },
+       "Kadranlar": {
+        "nesne": 9
+       },
+       "Diğer Aletler": {
+        "nesne": 7
+       },
+       "Küresel Usturlap": {
+        "nesne": 7
+       },
+       "Evrensel Diskler": {
+        "nesne": 3
+       }
+      }
+     },
+     "Rasathaneler": {
+      "nesne": 30,
+      "alt": {
+       "Merâğa Rasathanesi Aletleri": {
+        "nesne": 11
+       },
+       "Hven Rasathanesi Aletleri": {
+        "nesne": 7
+       },
+       "İstanbul Rasathanesi Aletleri": {
+        "nesne": 7
+       },
+       "Delhi Rasathanesi": {
+        "nesne": 1
+       },
+       "Hemedân Rasathanesi": {
+        "nesne": 1
+       },
+       "Jaipur Rasathanesi": {
+        "nesne": 1
+       },
+       "Rey Rasathanesi": {
+        "nesne": 1
+       },
+       "Semerkant Rasathanesi": {
+        "nesne": 1
+       }
+      }
+     },
+     "Planetaryumlar ve Gök-küreler": {
+      "nesne": 2
+     }
+    }
+   },
+   "Coğrafya": {
+    "nesne": 2,
+    "alt": {
+     "Yerküreleri ve Dünya Haritaları": {
+      "nesne": 2
+     }
+    }
+   },
+   "Denizcilik": {
+    "nesne": 2,
+    "alt": {
+     "Denizcilik Aletleri": {
+      "nesne": 2
+     }
+    }
+   }
+  }
+ },
+ "Coğrafya ve Seyrüsefer": {
+  "nesne": 39,
+  "alt": {
+   "Denizcilik": {
+    "nesne": 35,
+    "alt": {
+     "Pusulalar": {
+      "nesne": 24
+     },
+     "Denizcilik Aletleri": {
+      "nesne": 9
+     },
+     "Gemi Modelleri": {
+      "nesne": 2
+     }
+    }
+   }
+  }
+ },
+ "Askeri Teknoloji": {
+  "nesne": 37,
+  "alt": {
+   "Savaş Tekniği": {
+    "nesne": 31,
+    "alt": {
+     "Bombalar ve Roketler": {
+      "nesne": 16
+     },
+     "Mancınıklar ve Büyük Ok Atarlar": {
+      "nesne": 10
+     },
+     "Ateşli Silahlar": {
+      "nesne": 4
+     },
+     "Savaş Makineleri": {
+      "nesne": 1
+     }
+    }
+   }
+  }
+ },
+ "Saatler": {
+  "nesne": 37,
+  "alt": {
+   "Saatler": {
+    "nesne": 24,
+    "alt": {
+     "Doğu ve Kuzey Afrika Saatleri": {
+      "nesne": 13
+     },
+     "İspanyol-Arap Saatleri": {
+      "nesne": 8
+     },
+     "Takıyyeddîn’in Mekanik Saatleri": {
+      "nesne": 3
+     }
+    }
+   },
+   "Astronomi": {
+    "nesne": 6,
+    "alt": {
+     "Astronomi Aletleri": {
+      "nesne": 6,
+      "alt": {
+       "Diğer Aletler": {
+        "nesne": 6
+       }
+      }
+     }
+    }
+   },
+   "Fizik ve Teknik": {
+    "nesne": 3,
+    "alt": {
+     "Otomatlar": {
+      "nesne": 3
+     }
+    }
+   }
+  }
+ },
+ "Fizik ve Teknik": {
+  "nesne": 34,
+  "alt": {
+   "Fizik ve Teknik": {
+    "nesne": 25,
+    "alt": {
+     "Muhtelif Aparatlar": {
+      "nesne": 11
+     },
+     "Pompa Düzenekleri": {
+      "nesne": 5
+     },
+     "Değirmenler": {
+      "nesne": 2
+     },
+     "Kilitler": {
+      "nesne": 2
+     },
+     "Perpetua mobilia": {
+      "nesne": 2
+     },
+     "Teraziler ve Ölçüm Araçları": {
+      "nesne": 2
+     },
+     "Otomatlar": {
+      "nesne": 1
+     }
+    }
+   },
+   "Optik": {
+    "nesne": 6,
+    "alt": {
+     "Optik Aletler ve Deney Düzenekleri": {
+      "nesne": 6
+     }
+    }
+   }
+  }
+ },
+ "Tesviye ve Geometri": {
+  "nesne": 33,
+  "alt": {
+   "Geometri": {
+    "nesne": 25,
+    "alt": {
+     "Ölçüm ve Çizim Aletleri": {
+      "nesne": 25
+     }
+    }
+   },
+   "Fizik ve Teknik": {
+    "nesne": 2,
+    "alt": {
+     "Teraziler ve Ölçüm Araçları": {
+      "nesne": 2
+     }
+    }
+   },
+   "Optik": {
+    "nesne": 1,
+    "alt": {
+     "Optik Aletler ve Deney Düzenekleri": {
+      "nesne": 1
+     }
+    }
+   }
+  }
+ },
+ "Mimari": {
+  "nesne": 9,
+  "alt": {
+   "Mimari": {
+    "nesne": 7,
+    "alt": {
+     "Camiler": {
+      "nesne": 4
+     },
+     "Hastaneler": {
+      "nesne": 3
+     }
+    }
+   },
+   "Fizik ve Teknik": {
+    "nesne": 1,
+    "alt": {
+     "Perpetua mobilia": {
+      "nesne": 1
+     }
+    }
+   }
+  }
+ },
+ "Usturlaplar": {
+  "nesne": 7
+ }
+}
