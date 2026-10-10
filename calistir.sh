@@ -40,5 +40,11 @@ for f in sergiler/*.json; do
 done
 
 printf '\n\033[1mBitti.\033[0m envanter/envanter.json güncellendi.\n'
+echo "İnsan hakemlemesi döngüsü:"
+echo "  1. HETEGA_WEBSITE=/yol/hetega-website python3 uretim/hakem_arayuzu.py   # arayüzü üret"
+echo "  2. /calisma/hakemleme/ sayfasında kararları ver, JSON'u indir"
+echo "  3. indirilen dosyayı envanter/hakem_kararlari.json olarak koy"
+echo "  4. python3 uretim/hakem_uygula.py                                       # envantere işle"
+echo ""
 echo "Site sayfalarını üretmek için (website checkout'u gerekir):"
 echo "  HETEGA_WEBSITE=/yol/hetega-website python3 uretim/site_uret.py"

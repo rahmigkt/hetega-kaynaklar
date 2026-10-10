@@ -53,6 +53,8 @@ Hat şu adımlardan oluşur:
 | 7 | `export.py` | envanter | `envanter/envanter.csv`, `koleksiyon_agaci.json` |
 | 7b | `site_uret.py` | envanter + website checkout | yeni ürün sayfaları, index/koleksiyon/sitemap güncellemesi |
 | 8 | `sergi_motoru.py` | envanter + sergi tanımı | çözümlenmiş sergi |
+| H1 | `hakem_arayuzu.py` | envanter + kitap blokları | `/calisma/hakemleme/` — 226 kayıt için karar arayüzü |
+| H2 | `hakem_uygula.py` | `hakem_kararlari.json` | kararlar envantere işlenir |
 
 Site kazıntısını tazelemek için (`ara-veri/site_products.json`) `hetega-website`
 reposunun yerel kopyası gerekir: `export HETEGA_WEBSITE=/yol/hetega-website`.
@@ -83,6 +85,27 @@ Kitapta numaralar **17 farklı biçimde** yazılmıştır (`A. 1.08`, `d 1.08`, 
 bu yapılmadan yapılan her eşleştirme yanlış sonuç verir.
 
 ---
+
+## Hakemleme döngüsü (insan kararı gerektiren kayıtlar)
+
+Bazı kayıtlar OCR'dan çözülemez ya da **zaten müze nesnesi değildir** (bir aletin
+parçası, bölüm başlığı, yazma çizimi…). Bunlar zorla eşleştirilmez; hakem karar verir:
+
+```bash
+HETEGA_WEBSITE=/yol/hetega-website python3 uretim/hakem_arayuzu.py   # sayfayı üret
+# tarayıcıda /calisma/hakemleme/ -> kararları ver -> "Kararları indir (JSON)"
+cp ~/Downloads/hakem-kararlari-*.json envanter/hakem_kararlari.json
+python3 uretim/hakem_uygula.py                                        # envantere işle
+```
+
+| Sekme | Kayıt | Kararlar |
+|---|---|---|
+| 1 | başlık bekleyen 153 kitap kaydı | **başlık yaz** · **nesne değil** (parça/bölüm/kavram/çizim/grup) · mükerrer · atla |
+| 2 | numarasız 40 site sayfası | **numara ata** (aynı sayfadaki adaylar listelenir, çoklu seçim) · nesne değil · numarasız kalsın |
+| 3 | kitapta doğrulanamayan 33 numara | müzede var · numarayı düzelt · mükerrer · yayından kaldır |
+
+Kararlar `hakem` iziyle kayda yazılır (idempotent), kapsam dışına alınanlar
+`yayin.durum='kapsam_disi'` + `kayit_tipi` alır ve site üretiminde elenir.
 
 ## Sergi motoru
 

@@ -105,7 +105,7 @@
         "durum": {
           "type": "string",
           "enum": ["yayında", "yayında_doğrulanmadı", "yayında_numarasız",
-                   "eklenmeye_hazır", "eksik_baslik_bekliyor", "set_üyesi_bölünecek", "uretildi", "yayından_kaldırıldı"]
+                   "eklenmeye_hazır", "eksik_baslik_bekliyor", "set_üyesi_bölünecek", "uretildi", "kapsam_disi", "mukerrer", "yayından_kaldırıldı"]
         },
         "url":                { "type": "string" },
         "slug":               { "type": "string" },
@@ -127,13 +127,31 @@
                      "başlık_yok", "kategori_uyuşmuyor", "sayfa_uyuşmuyor", "cilt_uyuşmuyor",
                      "numara_şüpheli", "numara_otomatik_atandı", "envanter_no_yok",
                      "kitapta_mükerrer_blok", "sitede_mükerrer_numara",
-                     "set_üyesi_bölünecek", "görsel_sayfa_eşleşmesiyle_atandı", "numara_insan_kararıyla_atandı", "başlık_insan_düzeltmesi", "başlık_düşürüldü"]
+                     "set_üyesi_bölünecek", "görsel_sayfa_eşleşmesiyle_atandı", "numara_insan_kararıyla_atandı", "başlık_insan_düzeltmesi", "başlık_düşürüldü", "hakem_numara_atadı", "hakem_kapsam_dışı", "hakem_mükerrer", "hakem_kaldırdı", "numarasız_onaylandı", "müzede_var_onaylı"]
           }
         },
         "notlar": { "type": "array", "items": { "type": "string" } }
       }
     },
 
+    "kayit_tipi": {
+      "type": "string",
+      "description": "Hakem 'nesne değil' dediyse kaydın gerçek türü; katalog üretiminde kapsam_disi ile birlikte elenir.",
+      "enum": ["nesne", "parca", "bolum", "kavram", "cizim", "grup", "diger"]
+    },
+    "hakem": {
+      "type": "object",
+      "description": "Hakemleme arayüzünden gelen son kararın izi.",
+      "properties": {
+        "karar": {"type": "string"},
+        "tarih": {"type": "string"},
+        "not": {"type": "string"},
+        "kaynak": {"type": "string"}
+      }
+    },
+    "mukerrer_hedef": { "type": "string" },
+    "eski_envanter_no": { "type": "string" },
+    "ozgun_ad": { "type": "string" },
     "sergi_etiketleri": {
       "type": "array",
       "description": "Sergi motorunun sorguladığı düz etiketler: 'bolum:astronomi', 'bilgin:tycho-brahe', 'set:h8-01-26'.",
