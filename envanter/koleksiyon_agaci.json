@@ -1,36 +1,12 @@
 {
- "Kimya": {
-  "nesne": 155,
-  "alt": {
-   "Mineraller ve Fosil Oluşumlar": {
-    "nesne": 88,
-    "alt": {
-     "Örnekler": {
-      "nesne": 88
-     }
-    }
-   },
-   "Kimya": {
-    "nesne": 51,
-    "alt": {
-     "Laboratuvar Araçları": {
-      "nesne": 51
-     }
-    }
-   },
-   "Tıp": {
-    "nesne": 2
-   }
-  }
- },
  "Antik Objeler": {
-  "nesne": 146,
+  "nesne": 157,
   "alt": {
    "Antik Objeler": {
-    "nesne": 135,
+    "nesne": 147,
     "alt": {
      "Metal, Cam, Seramik, Ahşap ve Taş Objeler": {
-      "nesne": 106
+      "nesne": 118
      },
      "Orientleştirici Stilde Avrupa Camı ve Seramiği": {
       "nesne": 29
@@ -52,6 +28,30 @@
       "nesne": 2
      }
     }
+   }
+  }
+ },
+ "Kimya": {
+  "nesne": 155,
+  "alt": {
+   "Mineraller ve Fosil Oluşumlar": {
+    "nesne": 88,
+    "alt": {
+     "Örnekler": {
+      "nesne": 88
+     }
+    }
+   },
+   "Kimya": {
+    "nesne": 51,
+    "alt": {
+     "Laboratuvar Araçları": {
+      "nesne": 51
+     }
+    }
+   },
+   "Tıp": {
+    "nesne": 2
    }
   }
  },

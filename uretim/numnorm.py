@@ -77,6 +77,11 @@ def _parse_atom(tok, carry=None):
     if ms and ms.group(2).upper() not in ('M', 'N'):
         tok, suf = ms.group(1), ms.group(2).upper()
         tok = tok.strip()
+    msub = re.match(r'\A([A-Za-zÇĞİÖŞÜçğıöşü])\s*\.?\s*(\d{1,4})\s*-\s*(\d{1,2})\Z', tok)
+    if msub:
+        L, base, sub = msub.groups()
+        if L.upper() in GECERLI_ONEK:
+            return '%s%s-%s' % (L.upper(), int(base), sub), suf, None
     m = ATOM.match(tok)
     if m:
         L, g, k = m.groups()
@@ -117,7 +122,11 @@ def _range_body(g1, k1, g2, k2, L):
             if rg and rg[1] >= rg[0]:
                 return [_canon(L, g, '%d' % n) for n in range(rg[0], rg[1] + 1)], False
             return ['%s-%s' % (_canon(L, g1, k1), z)], False      # alt-öğe
-        rg = _abbrev_range(int(g1), int(g2))
+        a, z = int(g1), int(g2)
+        if z <= 9 and a >= 10 and z != a - 1:
+            # 'J 90-1' -> alt-öğe (bitişik aralık 'J 89-90' biçiminde yazılır)
+            return ['%s%d-%d' % (L, a, z)], False
+        rg = _abbrev_range(a, z)
         if rg:
             return [_canon(L, '%d' % n) for n in range(rg[0], rg[1] + 1)], False
     except Exception:
@@ -146,16 +155,18 @@ def expand(raw):
 
     s2 = _fix_letter(s)
 
-    # --- alt-öğe listesi: 'J 354-1, 354-2, 354-3' ---
-    m = re.match(r'\A([A-Za-z])\s*\.?\s*(\d{1,4})\s*-\s*(\d{1,2})((?:\s*[,;/]\s*\d{1,4}\s*-\s*\d{1,2})+)\Z', s2)
+    # --- alt-öğe listesi: 'J 354-1, 354-2, 354-3' / 'J354-1/2/3' ---
+    m = re.match(r'\A([A-Za-z])\s*\.?\s*(\d{1,4})\s*-\s*(\d{1,2})'
+                 r'((?:\s*[,;/]\s*(?:\d{1,4}\s*-\s*)?\d{1,2})+)\Z', s2)
     if m:
         L, base, sub, rest = m.groups()
-        add('%s%s-%s' % (L.upper(), base, sub), parent='%s%s' % (L.upper(), int(base)))
+        L = L.upper()
+        add('%s%s-%s' % (L, base, sub), parent='%s%s' % (L, int(base)))
         for piece in re.split(r'[,;/]', rest):
-            mm = re.match(r'\s*(\d{1,4})\s*-\s*(\d{1,2})', piece)
+            mm = re.match(r'\s*(?:(\d{1,4})\s*-\s*)?(\d{1,2})\s*\Z', piece)
             if mm:
-                add('%s%s-%s' % (L.upper(), mm.group(1), mm.group(2)),
-                    parent='%s%s' % (L.upper(), int(mm.group(1))))
+                b2 = mm.group(1) or base
+                add('%s%s-%s' % (L, b2, mm.group(2)), parent='%s%s' % (L, int(b2)))
         return _validate(out, parents, susp, s, bare)
 
     # --- 'ila' / 'bis' / 'kadar' => aralık ---
@@ -182,18 +193,29 @@ def expand(raw):
 
     # --- 've' / ',' / ';' => SAYMA ---
     if re.search(r'\s+ve\s+|[,;]', s2):
-        carry = None
+        carry = None; sub_base = None
         for p in re.split(r'\s+ve\s+|[,;]', s2):
-            if not p.strip():
+            p = p.strip()
+            if not p:
                 continue
             if not carry:
                 cm = re.match(r'\A\s*([A-Za-zÇĞİÖŞÜ])', _fix_letter(p))
                 if cm and cm.group(1).upper() in GECERLI_ONEK:
                     carry = cm.group(1).upper()
+            # çıplak sayı + aktif alt-öğe tabanı: 'J 84-1, 2 ve 3' -> J84-2, J84-3
+            if sub_base and re.fullmatch(r'\d{1,2}', p):
+                add('%s%s-%s' % (sub_base[0], sub_base[1], p),
+                    parent='%s%s' % sub_base)
+                continue
             n, suf, br = _parse_atom(p, carry)
             if n:
                 carry = n[0]
-                add(n + suf if suf else n, parent=(n if suf else None))
+                m2 = re.match(r'\A([A-Z])(\d{1,4})-(\d{1,2})\Z', n)
+                if m2:
+                    sub_base = (m2.group(1), m2.group(2))
+                    add(n, parent='%s%s' % sub_base)
+                else:
+                    add(n + suf if suf else n, parent=(n if suf else None))
             elif br:
                 bare.append(br)
             else:

@@ -2,8 +2,7 @@
 """envanter.json -> CSV + koleksiyon ağacı + sayım özetleri üretir."""
 import json, csv, os, collections, re
 
-import yollar
-HERE = yollar.ENV
+HERE = os.path.dirname(os.path.abspath(__file__))
 d = json.load(open(os.path.join(HERE, 'envanter.json'), encoding='utf-8'))
 N = d['nesneler']
 

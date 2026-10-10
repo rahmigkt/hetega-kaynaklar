@@ -51,7 +51,8 @@ Hat şu adımlardan oluşur:
 | 5 | `alimler.py` | envanter | `envanter/alimler.json` + nesnelere `bilgin_id` |
 | 6 | `assign_images.py` | envanter + görsel havuzu | `envanter/gorsel_atama_onerileri.json` *(öneri; envanteri değiştirmez)* |
 | 7 | `export.py` | envanter | `envanter/envanter.csv`, `koleksiyon_agaci.json` |
-| 7b | `site_uret.py` | envanter + website checkout | yeni ürün sayfaları, index/koleksiyon/sitemap güncellemesi |
+| 7b | `site_uret.py` | envanter + website checkout | yeni ürün sayfaları + set bölme, index/koleksiyon/sitemap (idempotent, manifest'li) |
+| 7c | `sergi_sayfa.py` | envanter + sergi tanımı | `/sergiler/<slug>/` sayfaları + dizin |
 | 8 | `sergi_motoru.py` | envanter + sergi tanımı | çözümlenmiş sergi |
 | H1 | `hakem_arayuzu.py` | envanter + kitap blokları | `/calisma/hakemleme/` — 226 kayıt için karar arayüzü |
 | H2 | `hakem_uygula.py` | `hakem_kararlari.json` | kararlar envantere işlenir |
@@ -136,13 +137,13 @@ Aynı mekanizmayla kurulabilecek diğer sergiler: **Zamanın Ölçümü** (B+D s
 ## Veri kalitesi durumu (10 Eki 2026)
 
 ```
-745 kanonik nesne
-  379  yayında                     kitap + site birbirini doğruluyor
-   79  üretildi (bekliyor)          yeni sayfa üretildi, push edilmeyi bekliyor
-  153  eksik_baslik_bekliyor       kitapta var, başlığı OCR'dan okunamadı → hakemleme
-   61  set_üyesi_bölünecek         tek sayfada toplanmış, ayrı sayfaya bölünecek
-   40  yayında_numarasız           sayfada envanter no yazmıyor
-   33  yayında_doğrulanmadı        kitapta karşılığı bulunamadı (bayraklı, yayında)
+756 kanonik nesne
+  380  yayında                     kitap + site birbirini doğruluyor
+  147  üretildi (push bekliyor)    79 bağımsız + 63 set üyesi + 5 yeni = envanter-v1 dalında
+  157  eksik_baslik_bekliyor       hakemleme arayüzünde sırada
+  0  set_üyesi_bölünecek         (bölündü — manifest'e işlendi)
+  40  yayında_numarasız           hakemlemede 2. sekme
+  32  yayında_doğrulanmadı        hakemlemede 3. sekme
 ```
 
 Ayrıntı: [`raporlar/ENVANTER-DENETIM-RAPORU.md`](raporlar/ENVANTER-DENETIM-RAPORU.md)

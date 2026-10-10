@@ -1,6 +1,6 @@
 {
  "uretim_tarihi": "2026-10-10",
- "sayfa_sayisi": 79,
+ "sayfa_sayisi": 147,
  "hedef": "/tmp/arena/tenants/954cd0e9-a1f8-402b-aaa8-874cf22f8200/sessions/e5da6964-619a-4005-9113-f63316289877/workspace/hetega-website",
  "sayfalar": [
   {
@@ -713,6 +713,686 @@
    "koleksiyon": "Kimya",
    "cilt": "Cilt IV",
    "sayfa": 210
+  },
+  {
+   "id": "A06.08",
+   "slug": "k3-536-sebastian-munster-in-ekvatoryumu-2-4",
+   "url": "/products/k3-536-sebastian-munster-in-ekvatoryumu-2-4",
+   "baslik": "Sebastian Münster'in Ekvatoryumu",
+   "koleksiyon": "Astronomi",
+   "cilt": "Cilt II",
+   "sayfa": 200,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "A06.09",
+   "slug": "k3-537-sebastian-munster-in-ekvatoryumu-3-4",
+   "url": "/products/k3-537-sebastian-munster-in-ekvatoryumu-3-4",
+   "baslik": "Sebastian Münster'in Ekvatoryumu",
+   "koleksiyon": "Astronomi",
+   "cilt": "Cilt II",
+   "sayfa": 200,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "A06.10",
+   "slug": "k3-538-sebastian-munster-in-ekvatoryumu-4-4",
+   "url": "/products/k3-538-sebastian-munster-in-ekvatoryumu-4-4",
+   "baslik": "Sebastian Münster'in Ekvatoryumu",
+   "koleksiyon": "Astronomi",
+   "cilt": "Cilt II",
+   "sayfa": 200,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.02",
+   "slug": "k3-539-el-fustat-buluntusu-aletler-2-26",
+   "url": "/products/k3-539-el-fustat-buluntusu-aletler-2-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.03",
+   "slug": "k3-540-el-fustat-buluntusu-aletler-3-26",
+   "url": "/products/k3-540-el-fustat-buluntusu-aletler-3-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.04",
+   "slug": "k3-541-el-fustat-buluntusu-aletler-4-26",
+   "url": "/products/k3-541-el-fustat-buluntusu-aletler-4-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.05",
+   "slug": "k3-542-el-fustat-buluntusu-aletler-5-26",
+   "url": "/products/k3-542-el-fustat-buluntusu-aletler-5-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.06",
+   "slug": "k3-543-el-fustat-buluntusu-aletler-6-26",
+   "url": "/products/k3-543-el-fustat-buluntusu-aletler-6-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.07",
+   "slug": "k3-544-el-fustat-buluntusu-aletler-7-26",
+   "url": "/products/k3-544-el-fustat-buluntusu-aletler-7-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.08",
+   "slug": "k3-545-el-fustat-buluntusu-aletler-8-26",
+   "url": "/products/k3-545-el-fustat-buluntusu-aletler-8-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.09",
+   "slug": "k3-546-el-fustat-buluntusu-aletler-9-26",
+   "url": "/products/k3-546-el-fustat-buluntusu-aletler-9-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.10",
+   "slug": "k3-547-el-fustat-buluntusu-aletler-10-26",
+   "url": "/products/k3-547-el-fustat-buluntusu-aletler-10-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.11",
+   "slug": "k3-548-el-fustat-buluntusu-aletler-11-26",
+   "url": "/products/k3-548-el-fustat-buluntusu-aletler-11-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.12",
+   "slug": "k3-549-el-fustat-buluntusu-aletler-12-26",
+   "url": "/products/k3-549-el-fustat-buluntusu-aletler-12-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.13",
+   "slug": "k3-550-el-fustat-buluntusu-aletler-13-26",
+   "url": "/products/k3-550-el-fustat-buluntusu-aletler-13-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.14",
+   "slug": "k3-551-el-fustat-buluntusu-aletler-14-26",
+   "url": "/products/k3-551-el-fustat-buluntusu-aletler-14-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.15",
+   "slug": "k3-552-el-fustat-buluntusu-aletler-15-26",
+   "url": "/products/k3-552-el-fustat-buluntusu-aletler-15-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.16",
+   "slug": "k3-553-el-fustat-buluntusu-aletler-16-26",
+   "url": "/products/k3-553-el-fustat-buluntusu-aletler-16-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.17",
+   "slug": "k3-554-el-fustat-buluntusu-aletler-17-26",
+   "url": "/products/k3-554-el-fustat-buluntusu-aletler-17-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.18",
+   "slug": "k3-555-el-fustat-buluntusu-aletler-18-26",
+   "url": "/products/k3-555-el-fustat-buluntusu-aletler-18-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.19",
+   "slug": "k3-556-el-fustat-buluntusu-aletler-19-26",
+   "url": "/products/k3-556-el-fustat-buluntusu-aletler-19-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.20",
+   "slug": "k3-557-el-fustat-buluntusu-aletler-20-26",
+   "url": "/products/k3-557-el-fustat-buluntusu-aletler-20-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.21",
+   "slug": "k3-558-el-fustat-buluntusu-aletler-21-26",
+   "url": "/products/k3-558-el-fustat-buluntusu-aletler-21-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.22",
+   "slug": "k3-559-el-fustat-buluntusu-aletler-22-26",
+   "url": "/products/k3-559-el-fustat-buluntusu-aletler-22-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.23",
+   "slug": "k3-560-el-fustat-buluntusu-aletler-23-26",
+   "url": "/products/k3-560-el-fustat-buluntusu-aletler-23-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.24",
+   "slug": "k3-561-el-fustat-buluntusu-aletler-24-26",
+   "url": "/products/k3-561-el-fustat-buluntusu-aletler-24-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.25",
+   "slug": "k3-562-el-fustat-buluntusu-aletler-25-26",
+   "url": "/products/k3-562-el-fustat-buluntusu-aletler-25-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "H08.26",
+   "slug": "k3-563-el-fustat-buluntusu-aletler-26-26",
+   "url": "/products/k3-563-el-fustat-buluntusu-aletler-26-26",
+   "baslik": "el-Fustât Buluntusu Aletler",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 92,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J02.28",
+   "slug": "k3-564-hacim-olcu-kaplari-2-6",
+   "url": "/products/k3-564-hacim-olcu-kaplari-2-6",
+   "baslik": "Hacim Ölçü Kapları",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 15,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J02.29",
+   "slug": "k3-565-hacim-olcu-kaplari-3-6",
+   "url": "/products/k3-565-hacim-olcu-kaplari-3-6",
+   "baslik": "Hacim Ölçü Kapları",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 15,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J02.30",
+   "slug": "k3-566-hacim-olcu-kaplari-4-6",
+   "url": "/products/k3-566-hacim-olcu-kaplari-4-6",
+   "baslik": "Hacim Ölçü Kapları",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 15,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J02.31",
+   "slug": "k3-567-hacim-olcu-kaplari-5-6",
+   "url": "/products/k3-567-hacim-olcu-kaplari-5-6",
+   "baslik": "Hacim Ölçü Kapları",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 15,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J02.32",
+   "slug": "k3-568-hacim-olcu-kaplari-6-6",
+   "url": "/products/k3-568-hacim-olcu-kaplari-6-6",
+   "baslik": "Hacim Ölçü Kapları",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 15,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J2",
+   "slug": "k3-569-hacamat-cekmeni-nisabur",
+   "url": "/products/k3-569-hacamat-cekmeni-nisabur",
+   "baslik": "Hacamat Çekmeni (Nîsâbûr?)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 161,
+   "tur": "yeni"
+  },
+  {
+   "id": "J23",
+   "slug": "k3-570-cimbiz-kiskaclar-6-adet-2-6",
+   "url": "/products/k3-570-cimbiz-kiskaclar-6-adet-2-6",
+   "baslik": "Cımbız / Kıskaçlar (6 adet)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 143,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J235",
+   "slug": "k3-571-uc-kase-osmanli-2-3",
+   "url": "/products/k3-571-uc-kase-osmanli-2-3",
+   "baslik": "Üç Kâse (Osmanlı)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 149,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J236",
+   "slug": "k3-572-uc-kase-osmanli-3-3",
+   "url": "/products/k3-572-uc-kase-osmanli-3-3",
+   "baslik": "Üç Kâse (Osmanlı)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 149,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J24",
+   "slug": "k3-573-cimbiz-kiskaclar-6-adet-3-6",
+   "url": "/products/k3-573-cimbiz-kiskaclar-6-adet-3-6",
+   "baslik": "Cımbız / Kıskaçlar (6 adet)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 143,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J240",
+   "slug": "k3-574-kozmetik-alet-edevat-2-20",
+   "url": "/products/k3-574-kozmetik-alet-edevat-2-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J241",
+   "slug": "k3-575-kozmetik-alet-edevat-3-20",
+   "url": "/products/k3-575-kozmetik-alet-edevat-3-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J242",
+   "slug": "k3-576-kozmetik-alet-edevat-4-20",
+   "url": "/products/k3-576-kozmetik-alet-edevat-4-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J243",
+   "slug": "k3-577-kozmetik-alet-edevat-5-20",
+   "url": "/products/k3-577-kozmetik-alet-edevat-5-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J244",
+   "slug": "k3-578-kozmetik-alet-edevat-6-20",
+   "url": "/products/k3-578-kozmetik-alet-edevat-6-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J245",
+   "slug": "k3-579-kozmetik-alet-edevat-7-20",
+   "url": "/products/k3-579-kozmetik-alet-edevat-7-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J246",
+   "slug": "k3-580-kozmetik-alet-edevat-8-20",
+   "url": "/products/k3-580-kozmetik-alet-edevat-8-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J247",
+   "slug": "k3-581-kozmetik-alet-edevat-9-20",
+   "url": "/products/k3-581-kozmetik-alet-edevat-9-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J248",
+   "slug": "k3-582-kozmetik-alet-edevat-10-20",
+   "url": "/products/k3-582-kozmetik-alet-edevat-10-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J249",
+   "slug": "k3-583-kozmetik-alet-edevat-11-20",
+   "url": "/products/k3-583-kozmetik-alet-edevat-11-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J25",
+   "slug": "k3-584-cimbiz-kiskaclar-6-adet-4-6",
+   "url": "/products/k3-584-cimbiz-kiskaclar-6-adet-4-6",
+   "baslik": "Cımbız / Kıskaçlar (6 adet)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 143,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J250",
+   "slug": "k3-585-kozmetik-alet-edevat-12-20",
+   "url": "/products/k3-585-kozmetik-alet-edevat-12-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J251",
+   "slug": "k3-586-kozmetik-alet-edevat-13-20",
+   "url": "/products/k3-586-kozmetik-alet-edevat-13-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J252",
+   "slug": "k3-587-kozmetik-alet-edevat-14-20",
+   "url": "/products/k3-587-kozmetik-alet-edevat-14-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J253",
+   "slug": "k3-588-kozmetik-alet-edevat-15-20",
+   "url": "/products/k3-588-kozmetik-alet-edevat-15-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J254",
+   "slug": "k3-589-kozmetik-alet-edevat-16-20",
+   "url": "/products/k3-589-kozmetik-alet-edevat-16-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J255",
+   "slug": "k3-590-kozmetik-alet-edevat-17-20",
+   "url": "/products/k3-590-kozmetik-alet-edevat-17-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J256",
+   "slug": "k3-591-kozmetik-alet-edevat-18-20",
+   "url": "/products/k3-591-kozmetik-alet-edevat-18-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J257",
+   "slug": "k3-592-kozmetik-alet-edevat-19-20",
+   "url": "/products/k3-592-kozmetik-alet-edevat-19-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J258",
+   "slug": "k3-593-kozmetik-alet-edevat-20-20",
+   "url": "/products/k3-593-kozmetik-alet-edevat-20-20",
+   "baslik": "Kozmetik Alet-Edevat",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 141,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J26",
+   "slug": "k3-594-cimbiz-kiskaclar-6-adet-5-6",
+   "url": "/products/k3-594-cimbiz-kiskaclar-6-adet-5-6",
+   "baslik": "Cımbız / Kıskaçlar (6 adet)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 143,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J27",
+   "slug": "k3-595-cimbiz-kiskaclar-6-adet-6-6",
+   "url": "/products/k3-595-cimbiz-kiskaclar-6-adet-6-6",
+   "baslik": "Cımbız / Kıskaçlar (6 adet)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 143,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J354-2",
+   "slug": "k3-596-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazo-2-3-2-3",
+   "url": "/products/k3-596-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazo-2-3-2-3",
+   "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazo (2/3)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 195,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J354-3",
+   "slug": "k3-597-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazo-3-3-3-3",
+   "url": "/products/k3-597-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazo-3-3-3-3",
+   "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazo (3/3)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 195,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "J39-4",
+   "slug": "k3-598-tibbi-aletler-seti-emevi-erken-abbasi-2-3-8-9-yuzyil-sekiz",
+   "url": "/products/k3-598-tibbi-aletler-seti-emevi-erken-abbasi-2-3-8-9-yuzyil-sekiz",
+   "baslik": "Tıbbi Aletler Seti Emevi/Erken Abbasi (2.-3./8.'9. yüzyıl) Sekiz pirinç obje:",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 142,
+   "tur": "yeni"
+  },
+  {
+   "id": "J84-1",
+   "slug": "k3-599-olta-ignesi-1-3-1-3",
+   "url": "/products/k3-599-olta-ignesi-1-3-1-3",
+   "baslik": "Olta İğnesi (1/3)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 153,
+   "tur": "yeni"
+  },
+  {
+   "id": "J84-2",
+   "slug": "k3-600-olta-ignesi-2-3-2-3",
+   "url": "/products/k3-600-olta-ignesi-2-3-2-3",
+   "baslik": "Olta İğnesi (2/3)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 153,
+   "tur": "yeni"
+  },
+  {
+   "id": "J84-3",
+   "slug": "k3-601-olta-ignesi-3-3-3-3",
+   "url": "/products/k3-601-olta-ignesi-3-3-3-3",
+   "baslik": "Olta İğnesi (3/3)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 153,
+   "tur": "yeni"
+  },
+  {
+   "id": "J90-2",
+   "slug": "k3-602-hacamat-cekmeni-2-2-2-2",
+   "url": "/products/k3-602-hacamat-cekmeni-2-2-2-2",
+   "baslik": "Hacamat Çekmeni (2/2)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 152,
+   "tur": "set_üyesi"
+  },
+  {
+   "id": "K01.02",
+   "slug": "k3-603-el-mizze-distilasyon-aleti-gul-suyu-2-2",
+   "url": "/products/k3-603-el-mizze-distilasyon-aleti-gul-suyu-2-2",
+   "baslik": "el-Mizze Distilasyon Aleti (Gül Suyu)",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 113,
+   "tur": "set_üyesi"
   }
  ]
 }

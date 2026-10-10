@@ -18,8 +18,7 @@ KURALLAR en özgünden en genele sıralanmalıdır: 'hazini' (Abdurrahman el-Hâ
 """
 import re, os, json, unicodedata, collections
 
-import yollar
-HERE = yollar.ENV
+HERE = os.path.dirname(os.path.abspath(__file__))
 
 # ------------------------------------------------------------------ katlama
 # NFKD + Türkçe harf düzleştirme -> sadece [a-z0-9 ] kalır.

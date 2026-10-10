@@ -292,6 +292,42 @@
       "bilgin": "J. & L. Lobmeyr, Viyana",
       "donem": "19. yüzyıl sonu",
       "not": "Sitedeki k3-455 sayfası J357-1'i gösteriyor; bu nesne çiftin ikinci parçası."
+    },
+    "J90-1": {
+      "baslik": "Hacamat Çekmeni (1/2)",
+      "donem": "Mağrib, erken dönem",
+      "not": "Kitapta 'J 90-1 ve 2' tek künyede: Hacamat Çekmenleri, Mağrib."
+    },
+    "J90-2": {
+      "baslik": "Hacamat Çekmeni (2/2)",
+      "donem": "Mağrib, erken dönem",
+      "not": "J 90-1'in çifti."
+    },
+    "J84-1": {
+      "baslik": "Olta İğnesi (1/3)",
+      "not": "Kitapta 'J 84-1, 2 ve 3'; iddiaya göre erken İslam, Güney İran."
+    },
+    "J84-2": {
+      "baslik": "Olta İğnesi (2/3)",
+      "not": "J 84-1'in set kardeşi."
+    },
+    "J84-3": {
+      "baslik": "Olta İğnesi (3/3)",
+      "not": "J 84-1'in set kardeşi."
+    },
+    "J354-2": {
+      "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazo (2/3)",
+      "bilgin": "J. & L. Lobmeyr, Viyana"
+    },
+    "J354-3": {
+      "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazo (3/3)",
+      "bilgin": "J. & L. Lobmeyr, Viyana"
+    },
+    "J2": {
+      "baslik": "Hacamat Çekmeni (Nîsâbûr?)",
+      "donem": "3./9. - 4./10. yüzyıl",
+      "mense": "Nîsâbûr",
+      "not": "Kitapta 'Hacamat Çekmeni?' ve '(Envanter No: J 02)'; köken belirsizliği kitapta da soru işaretli."
     }
   },
   "dusurulen_basliklar": {

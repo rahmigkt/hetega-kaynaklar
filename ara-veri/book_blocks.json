@@ -25659,11 +25659,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-4"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-4",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "Tıbbi Aletler Seti Emevi/Erken Abbasi (2.-3./8.'9. yüzyıl) Sekiz pirinç obje:",
   "baslik_kalite": "iyi",
@@ -25700,11 +25702,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-5"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-5",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -25734,11 +25738,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-6"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-6",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -25768,11 +25774,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-7"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-7",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -25802,11 +25810,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-8"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-8",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -25836,11 +25846,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-1"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-1",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -25870,11 +25882,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-2"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-2",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -25904,11 +25918,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-3"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-3",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -26758,11 +26774,14 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
-   "J2"
+   "J90-1",
+   "J90-2"
   ],
-  "ust_nolar": [],
+  "ust_nolar": [
+   "J90"
+  ],
   "ham_envanter": "J 90-1 ve 2",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "Hacamat Çekmenleri Mağrib, daha eski.",
   "baslik_kalite": "iyi",
@@ -26955,12 +26974,15 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "3",
   "envanter_nolar": [
-   "J2",
-   "J3"
+   "J84-1",
+   "J84-2",
+   "J84-3"
   ],
-  "ust_nolar": [],
+  "ust_nolar": [
+   "J84"
+  ],
   "ham_envanter": "J 84-1, 2 ve 3",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "Olta İğnesi İddia edildiğine göre erken İslam Güney İran",
   "baslik_kalite": "iyi",

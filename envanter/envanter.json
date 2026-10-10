@@ -15,7 +15,7 @@
      "V"
     ],
     "blok": 589,
-    "benzersiz_envanter_no": 672
+    "benzersiz_envanter_no": 684
    },
    "site": {
     "kayit": 456,
@@ -25,24 +25,24 @@
    }
   },
   "sayilar": {
-   "toplam_nesne": 747,
+   "toplam_nesne": 758,
    "yayin_durumu": {
-    "yayında": 376,
-    "yayında_doğrulanmadı": 34,
-    "set_üyesi_bölünecek": 62,
-    "eksik_baslik_bekliyor": 142,
-    "eklenmeye_hazır": 92,
+    "yayında": 378,
+    "yayında_doğrulanmadı": 33,
+    "set_üyesi_bölünecek": 64,
+    "eksik_baslik_bekliyor": 146,
+    "eklenmeye_hazır": 96,
     "yayında_numarasız": 41
    },
    "baslik_kalitesi": {
-    "yayın": 513,
-    "üstbaşlık": 140,
-    "iyi": 92,
+    "yayın": 516,
+    "üstbaşlık": 144,
+    "iyi": 96,
     "tahmin": 2
    },
    "koleksiyonlar": {
+    "Antik Objeler": 157,
     "Kimya": 156,
-    "Antik Objeler": 146,
     "Tıp": 126,
     "Astronomi": 123,
     "Coğrafya ve Seyrüsefer": 39,
@@ -54,21 +54,21 @@
     "Usturlaplar": 7
    },
    "bayraklar": {
-    "sitede_yok": 234,
-    "başlık_kitaptan_farklı": 186,
-    "kategori_uyuşmuyor": 130,
-    "set_üyesi_bölünecek": 62,
+    "sitede_yok": 242,
+    "başlık_kitaptan_farklı": 188,
+    "kategori_uyuşmuyor": 133,
+    "set_üyesi_bölünecek": 64,
     "envanter_no_yok": 41,
-    "kitapta_doğrulanamadı": 34,
-    "sayfa_uyuşmuyor": 24,
-    "kitapta_mükerrer_blok": 15,
-    "numara_şüpheli": 10,
+    "kitapta_doğrulanamadı": 33,
+    "sayfa_uyuşmuyor": 23,
+    "kitapta_mükerrer_blok": 12,
+    "numara_şüpheli": 7,
     "numara_otomatik_atandı": 5,
-    "sitede_mükerrer_numara": 4,
+    "sitede_mükerrer_numara": 3,
     "cilt_uyuşmuyor": 1,
     "başlık_yok": 1
    },
-   "incelemeye_muhtac": 217
+   "incelemeye_muhtac": 220
   },
   "kararlar": [
    "Kitapta doğrulanamayan numaralar silinmez, \"yayında_doğrulanmadı\" olarak işaretlenir.",
@@ -167,7 +167,7 @@
     "Fizik ve Teknik",
     "Mineraller ve Fosil Oluşumlar"
    ],
-   "nesne_sayisi": 146
+   "nesne_sayisi": 157
   },
   {
    "id": "kimya",
@@ -8647,10 +8647,9 @@
     "set_sayfasi": "/products/k3-130-sebastian-munster-in-ekvatoryumu"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "sebastian-munster-in-ekvatoryumu-a-6-08",
-    "bolunecegi_set": "/products/k3-130-sebastian-munster-in-ekvatoryumu"
+    "durum": "uretildi",
+    "url": "/products/k3-536-sebastian-munster-in-ekvatoryumu-2-4",
+    "slug": "k3-536-sebastian-munster-in-ekvatoryumu-2-4"
    },
    "dogrulama": {
     "kitapta": true,
@@ -8749,10 +8748,9 @@
     "set_sayfasi": "/products/k3-130-sebastian-munster-in-ekvatoryumu"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "sebastian-munster-in-ekvatoryumu-a-6-09",
-    "bolunecegi_set": "/products/k3-130-sebastian-munster-in-ekvatoryumu"
+    "durum": "uretildi",
+    "url": "/products/k3-537-sebastian-munster-in-ekvatoryumu-3-4",
+    "slug": "k3-537-sebastian-munster-in-ekvatoryumu-3-4"
    },
    "dogrulama": {
     "kitapta": true,
@@ -8851,10 +8849,9 @@
     "set_sayfasi": "/products/k3-130-sebastian-munster-in-ekvatoryumu"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "sebastian-munster-in-ekvatoryumu-a-6-10",
-    "bolunecegi_set": "/products/k3-130-sebastian-munster-in-ekvatoryumu"
+    "durum": "uretildi",
+    "url": "/products/k3-538-sebastian-munster-in-ekvatoryumu-4-4",
+    "slug": "k3-538-sebastian-munster-in-ekvatoryumu-4-4"
    },
    "dogrulama": {
     "kitapta": true,
@@ -13520,7 +13517,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok"
     ],
@@ -15176,7 +15173,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -24017,7 +24014,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -24171,7 +24168,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -24891,7 +24888,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok"
     ],
@@ -25048,7 +25045,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok"
     ],
@@ -25202,7 +25199,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok"
     ],
@@ -25597,7 +25594,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok"
     ],
@@ -25756,7 +25753,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok"
     ],
@@ -25828,7 +25825,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -26054,7 +26051,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -26818,7 +26815,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -27453,7 +27450,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "başlık_kitaptan_farklı",
      "set_üyesi_bölünecek",
@@ -27854,7 +27851,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -28021,7 +28018,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -28182,7 +28179,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok"
     ],
@@ -28574,7 +28571,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -29794,10 +29791,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-02",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-539-el-fustat-buluntusu-aletler-2-26",
+    "slug": "k3-539-el-fustat-buluntusu-aletler-2-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -29917,10 +29913,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-03",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-540-el-fustat-buluntusu-aletler-3-26",
+    "slug": "k3-540-el-fustat-buluntusu-aletler-3-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -30040,10 +30035,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-04",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-541-el-fustat-buluntusu-aletler-4-26",
+    "slug": "k3-541-el-fustat-buluntusu-aletler-4-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -30163,10 +30157,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-05",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-542-el-fustat-buluntusu-aletler-5-26",
+    "slug": "k3-542-el-fustat-buluntusu-aletler-5-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -30286,10 +30279,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-06",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-543-el-fustat-buluntusu-aletler-6-26",
+    "slug": "k3-543-el-fustat-buluntusu-aletler-6-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -30409,10 +30401,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-07",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-544-el-fustat-buluntusu-aletler-7-26",
+    "slug": "k3-544-el-fustat-buluntusu-aletler-7-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -30532,10 +30523,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-08",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-545-el-fustat-buluntusu-aletler-8-26",
+    "slug": "k3-545-el-fustat-buluntusu-aletler-8-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -30655,10 +30645,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-09",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-546-el-fustat-buluntusu-aletler-9-26",
+    "slug": "k3-546-el-fustat-buluntusu-aletler-9-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -30778,10 +30767,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-10",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-547-el-fustat-buluntusu-aletler-10-26",
+    "slug": "k3-547-el-fustat-buluntusu-aletler-10-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -30901,10 +30889,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-11",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-548-el-fustat-buluntusu-aletler-11-26",
+    "slug": "k3-548-el-fustat-buluntusu-aletler-11-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -31024,10 +31011,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-12",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-549-el-fustat-buluntusu-aletler-12-26",
+    "slug": "k3-549-el-fustat-buluntusu-aletler-12-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -31147,10 +31133,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-13",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-550-el-fustat-buluntusu-aletler-13-26",
+    "slug": "k3-550-el-fustat-buluntusu-aletler-13-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -31270,10 +31255,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-14",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-551-el-fustat-buluntusu-aletler-14-26",
+    "slug": "k3-551-el-fustat-buluntusu-aletler-14-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -31393,10 +31377,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-15",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-552-el-fustat-buluntusu-aletler-15-26",
+    "slug": "k3-552-el-fustat-buluntusu-aletler-15-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -31516,10 +31499,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-16",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-553-el-fustat-buluntusu-aletler-16-26",
+    "slug": "k3-553-el-fustat-buluntusu-aletler-16-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -31639,10 +31621,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-17",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-554-el-fustat-buluntusu-aletler-17-26",
+    "slug": "k3-554-el-fustat-buluntusu-aletler-17-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -31762,10 +31743,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-18",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-555-el-fustat-buluntusu-aletler-18-26",
+    "slug": "k3-555-el-fustat-buluntusu-aletler-18-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -31885,10 +31865,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-19",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-556-el-fustat-buluntusu-aletler-19-26",
+    "slug": "k3-556-el-fustat-buluntusu-aletler-19-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -32008,10 +31987,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-20",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-557-el-fustat-buluntusu-aletler-20-26",
+    "slug": "k3-557-el-fustat-buluntusu-aletler-20-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -32131,10 +32109,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-21",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-558-el-fustat-buluntusu-aletler-21-26",
+    "slug": "k3-558-el-fustat-buluntusu-aletler-21-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -32254,10 +32231,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-22",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-559-el-fustat-buluntusu-aletler-22-26",
+    "slug": "k3-559-el-fustat-buluntusu-aletler-22-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -32377,10 +32353,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-23",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-560-el-fustat-buluntusu-aletler-23-26",
+    "slug": "k3-560-el-fustat-buluntusu-aletler-23-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -32500,10 +32475,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-24",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-561-el-fustat-buluntusu-aletler-24-26",
+    "slug": "k3-561-el-fustat-buluntusu-aletler-24-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -32623,10 +32597,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-25",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-562-el-fustat-buluntusu-aletler-25-26",
+    "slug": "k3-562-el-fustat-buluntusu-aletler-25-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -32746,10 +32719,9 @@
     "set_sayfasi": "/products/k3-276-el-fustat-buluntusu-aletler"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-fustat-buluntusu-aletler-h-8-26",
-    "bolunecegi_set": "/products/k3-276-el-fustat-buluntusu-aletler"
+    "durum": "uretildi",
+    "url": "/products/k3-563-el-fustat-buluntusu-aletler-26-26",
+    "slug": "k3-563-el-fustat-buluntusu-aletler-26-26"
    },
    "dogrulama": {
     "kitapta": true,
@@ -32957,7 +32929,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -33051,7 +33023,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -33145,7 +33117,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -33239,7 +33211,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -33333,7 +33305,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -33427,7 +33399,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -33521,7 +33493,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -33615,7 +33587,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -33709,7 +33681,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -33803,7 +33775,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -33897,7 +33869,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -33991,7 +33963,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -34085,7 +34057,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -34240,7 +34212,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -34890,10 +34862,9 @@
     "set_sayfasi": "/products/k3-364-hacim-olcu-kaplari"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "hacim-olcu-kaplari-j-2-28",
-    "bolunecegi_set": "/products/k3-364-hacim-olcu-kaplari"
+    "durum": "uretildi",
+    "url": "/products/k3-564-hacim-olcu-kaplari-2-6",
+    "slug": "k3-564-hacim-olcu-kaplari-2-6"
    },
    "dogrulama": {
     "kitapta": true,
@@ -34994,10 +34965,9 @@
     "set_sayfasi": "/products/k3-364-hacim-olcu-kaplari"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "hacim-olcu-kaplari-j-2-29",
-    "bolunecegi_set": "/products/k3-364-hacim-olcu-kaplari"
+    "durum": "uretildi",
+    "url": "/products/k3-565-hacim-olcu-kaplari-3-6",
+    "slug": "k3-565-hacim-olcu-kaplari-3-6"
    },
    "dogrulama": {
     "kitapta": true,
@@ -35098,10 +35068,9 @@
     "set_sayfasi": "/products/k3-364-hacim-olcu-kaplari"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "hacim-olcu-kaplari-j-2-30",
-    "bolunecegi_set": "/products/k3-364-hacim-olcu-kaplari"
+    "durum": "uretildi",
+    "url": "/products/k3-566-hacim-olcu-kaplari-4-6",
+    "slug": "k3-566-hacim-olcu-kaplari-4-6"
    },
    "dogrulama": {
     "kitapta": true,
@@ -35202,10 +35171,9 @@
     "set_sayfasi": "/products/k3-364-hacim-olcu-kaplari"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "hacim-olcu-kaplari-j-2-31",
-    "bolunecegi_set": "/products/k3-364-hacim-olcu-kaplari"
+    "durum": "uretildi",
+    "url": "/products/k3-567-hacim-olcu-kaplari-5-6",
+    "slug": "k3-567-hacim-olcu-kaplari-5-6"
    },
    "dogrulama": {
     "kitapta": true,
@@ -35306,10 +35274,9 @@
     "set_sayfasi": "/products/k3-364-hacim-olcu-kaplari"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "hacim-olcu-kaplari-j-2-32",
-    "bolunecegi_set": "/products/k3-364-hacim-olcu-kaplari"
+    "durum": "uretildi",
+    "url": "/products/k3-568-hacim-olcu-kaplari-6-6",
+    "slug": "k3-568-hacim-olcu-kaplari-6-6"
    },
    "dogrulama": {
     "kitapta": true,
@@ -35728,7 +35695,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -36134,63 +36101,53 @@
     "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
     "alt_baslik": ""
    },
-   "baslik": "Hacamat Çekmenleri (Maġrib)",
-   "baslik_kaynagi": "site",
-   "baslik_kalite": "yayın",
+   "baslik": "Hacamat Çekmeni (Nîsâbûr?)",
+   "baslik_kaynagi": "insan",
+   "baslik_kalite": "insan",
    "kisa_aciklama": "",
    "aciklama": "",
-   "islev": "Hacamat",
-   "ozellikler": "Yükseklik 9,6 cm.",
+   "islev": "",
+   "ozellikler": "",
    "bilgin": "",
    "bilgin_kaynagi": "",
    "eser": "",
-   "donem": "",
-   "mense": "",
-   "orijinal": "Maġrib",
+   "donem": "3./9. - 4./10. yüzyıl",
+   "mense": "Nîsâbûr",
+   "orijinal": "",
    "teknik": {
     "malzeme": [
-     "pirinç"
+     "cam"
     ],
     "boyutlar": [
-     "Yükseklik: 9,6 cm"
+     "Uzunluk: 9 cm"
     ]
    },
    "kitap": {
     "cilt": "V",
-    "sayfa": 152,
-    "ham_envanter": "J 90-1 ve 2",
+    "sayfa": 161,
+    "ham_envanter": "J 02",
     "ust_baslik": "ANTİK OBJELER",
     "fig_no": "",
-    "satir": 7874,
+    "satir": 8153,
     "onek_cikarim": false,
     "model_metni": ""
    },
-   "gorseller": [
-    {
-     "url": "/kutuphane/katalog3/k431-509.jpg",
-     "kaynak": "katalog3",
-     "etiket": ""
-    }
-   ],
+   "gorseller": [],
    "set": null,
    "yayin": {
-    "durum": "yayında",
-    "url": "/products/k3-431-hacamat-cekmenleri-ma-rib",
-    "slug": "k3-431-hacamat-cekmenleri-ma-rib"
+    "durum": "uretildi",
+    "url": "/products/k3-569-hacamat-cekmeni-nisabur",
+    "slug": "k3-569-hacamat-cekmeni-nisabur"
    },
    "dogrulama": {
     "kitapta": true,
     "sitede": true,
     "bayraklar": [
-     "numara_şüpheli",
-     "kitapta_mükerrer_blok",
-     "sitede_mükerrer_numara",
-     "kategori_uyuşmuyor"
+     "sitede_yok",
+     "başlık_insan_düzeltmesi"
     ],
     "notlar": [
-     "Numara kitapta 3 ayrı yerde geçiyor (satır 7874, 7939, 8153).",
-     "Aynı numara sitede 2 farklı sayfada: Hacamat Çekmenleri (Maġrib), İki Bardaklı Sürahi ve Altın Ağ Dekorlu ",
-     "Site kategorisi \"Fizik ve Teknik\", kitap önekine göre olması gereken \"Antik Objeler\"."
+     "İNSAN DÜZELTMESİ: Kitapta 'Hacamat Çekmeni?' ve '(Envanter No: J 02)'; köken belirsizliği kitapta da soru işaretli."
     ]
    },
    "sergi_etiketleri": [
@@ -36198,11 +36155,6 @@
     "bolum:antik-objeler",
     "koleksiyon:antik-objeler"
    ],
-   "site_kategori": {
-    "kategori": "Fizik ve Teknik",
-    "alt_kategori": "Antik Objeler (Metal, Cam, Seramik, Ahşap, Taş)"
-   },
-   "kitap_kaynak_site": "Cilt V, s. 152",
    "bilgin_tur": "bos",
    "bilgin_id": null,
    "bilgin_kanonik": "",
@@ -36346,7 +36298,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -36689,10 +36641,9 @@
     "set_sayfasi": "/products/k3-424-cimbiz-kiskaclar-6-adet"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "cimbiz-kiskaclar-6-adet-j23",
-    "bolunecegi_set": "/products/k3-424-cimbiz-kiskaclar-6-adet"
+    "durum": "uretildi",
+    "url": "/products/k3-570-cimbiz-kiskaclar-6-adet-2-6",
+    "slug": "k3-570-cimbiz-kiskaclar-6-adet-2-6"
    },
    "dogrulama": {
     "kitapta": true,
@@ -36954,10 +36905,9 @@
     "set_sayfasi": "/products/k3-429-uc-kase-osmanli"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "uc-kase-osmanli-j235",
-    "bolunecegi_set": "/products/k3-429-uc-kase-osmanli"
+    "durum": "uretildi",
+    "url": "/products/k3-571-uc-kase-osmanli-2-3",
+    "slug": "k3-571-uc-kase-osmanli-2-3"
    },
    "dogrulama": {
     "kitapta": true,
@@ -37056,10 +37006,9 @@
     "set_sayfasi": "/products/k3-429-uc-kase-osmanli"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "uc-kase-osmanli-j236",
-    "bolunecegi_set": "/products/k3-429-uc-kase-osmanli"
+    "durum": "uretildi",
+    "url": "/products/k3-572-uc-kase-osmanli-3-3",
+    "slug": "k3-572-uc-kase-osmanli-3-3"
    },
    "dogrulama": {
     "kitapta": true,
@@ -37350,10 +37299,9 @@
     "set_sayfasi": "/products/k3-424-cimbiz-kiskaclar-6-adet"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "cimbiz-kiskaclar-6-adet-j24",
-    "bolunecegi_set": "/products/k3-424-cimbiz-kiskaclar-6-adet"
+    "durum": "uretildi",
+    "url": "/products/k3-573-cimbiz-kiskaclar-6-adet-3-6",
+    "slug": "k3-573-cimbiz-kiskaclar-6-adet-3-6"
    },
    "dogrulama": {
     "kitapta": true,
@@ -37470,10 +37418,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j240",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-574-kozmetik-alet-edevat-2-20",
+    "slug": "k3-574-kozmetik-alet-edevat-2-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -37590,10 +37537,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j241",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-575-kozmetik-alet-edevat-3-20",
+    "slug": "k3-575-kozmetik-alet-edevat-3-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -37710,10 +37656,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j242",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-576-kozmetik-alet-edevat-4-20",
+    "slug": "k3-576-kozmetik-alet-edevat-4-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -37830,10 +37775,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j243",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-577-kozmetik-alet-edevat-5-20",
+    "slug": "k3-577-kozmetik-alet-edevat-5-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -37950,10 +37894,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j244",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-578-kozmetik-alet-edevat-6-20",
+    "slug": "k3-578-kozmetik-alet-edevat-6-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -38070,10 +38013,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j245",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-579-kozmetik-alet-edevat-7-20",
+    "slug": "k3-579-kozmetik-alet-edevat-7-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -38190,10 +38132,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j246",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-580-kozmetik-alet-edevat-8-20",
+    "slug": "k3-580-kozmetik-alet-edevat-8-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -38310,10 +38251,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j247",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-581-kozmetik-alet-edevat-9-20",
+    "slug": "k3-581-kozmetik-alet-edevat-9-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -38430,10 +38370,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j248",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-582-kozmetik-alet-edevat-10-20",
+    "slug": "k3-582-kozmetik-alet-edevat-10-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -38550,10 +38489,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j249",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-583-kozmetik-alet-edevat-11-20",
+    "slug": "k3-583-kozmetik-alet-edevat-11-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -38652,10 +38590,9 @@
     "set_sayfasi": "/products/k3-424-cimbiz-kiskaclar-6-adet"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "cimbiz-kiskaclar-6-adet-j25",
-    "bolunecegi_set": "/products/k3-424-cimbiz-kiskaclar-6-adet"
+    "durum": "uretildi",
+    "url": "/products/k3-584-cimbiz-kiskaclar-6-adet-4-6",
+    "slug": "k3-584-cimbiz-kiskaclar-6-adet-4-6"
    },
    "dogrulama": {
     "kitapta": true,
@@ -38772,10 +38709,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j250",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-585-kozmetik-alet-edevat-12-20",
+    "slug": "k3-585-kozmetik-alet-edevat-12-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -38892,10 +38828,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j251",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-586-kozmetik-alet-edevat-13-20",
+    "slug": "k3-586-kozmetik-alet-edevat-13-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -39012,10 +38947,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j252",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-587-kozmetik-alet-edevat-14-20",
+    "slug": "k3-587-kozmetik-alet-edevat-14-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -39132,10 +39066,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j253",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-588-kozmetik-alet-edevat-15-20",
+    "slug": "k3-588-kozmetik-alet-edevat-15-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -39252,10 +39185,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j254",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-589-kozmetik-alet-edevat-16-20",
+    "slug": "k3-589-kozmetik-alet-edevat-16-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -39372,10 +39304,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j255",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-590-kozmetik-alet-edevat-17-20",
+    "slug": "k3-590-kozmetik-alet-edevat-17-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -39492,10 +39423,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j256",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-591-kozmetik-alet-edevat-18-20",
+    "slug": "k3-591-kozmetik-alet-edevat-18-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -39612,10 +39542,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j257",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-592-kozmetik-alet-edevat-19-20",
+    "slug": "k3-592-kozmetik-alet-edevat-19-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -39732,10 +39661,9 @@
     "set_sayfasi": "/products/k3-422-kozmetik-alet-edevat"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "kozmetik-alet-edevat-j258",
-    "bolunecegi_set": "/products/k3-422-kozmetik-alet-edevat"
+    "durum": "uretildi",
+    "url": "/products/k3-593-kozmetik-alet-edevat-20-20",
+    "slug": "k3-593-kozmetik-alet-edevat-20-20"
    },
    "dogrulama": {
     "kitapta": true,
@@ -39834,10 +39762,9 @@
     "set_sayfasi": "/products/k3-424-cimbiz-kiskaclar-6-adet"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "cimbiz-kiskaclar-6-adet-j26",
-    "bolunecegi_set": "/products/k3-424-cimbiz-kiskaclar-6-adet"
+    "durum": "uretildi",
+    "url": "/products/k3-594-cimbiz-kiskaclar-6-adet-5-6",
+    "slug": "k3-594-cimbiz-kiskaclar-6-adet-5-6"
    },
    "dogrulama": {
     "kitapta": true,
@@ -39938,10 +39865,9 @@
     "set_sayfasi": "/products/k3-424-cimbiz-kiskaclar-6-adet"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "cimbiz-kiskaclar-6-adet-j27",
-    "bolunecegi_set": "/products/k3-424-cimbiz-kiskaclar-6-adet"
+    "durum": "uretildi",
+    "url": "/products/k3-595-cimbiz-kiskaclar-6-adet-6-6",
+    "slug": "k3-595-cimbiz-kiskaclar-6-adet-6-6"
    },
    "dogrulama": {
     "kitapta": true,
@@ -40024,7 +39950,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "kitapta_mükerrer_blok",
      "sitede_yok",
@@ -40140,98 +40066,71 @@
     "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
     "alt_baslik": ""
    },
-   "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazolar",
-   "baslik_kaynagi": "site",
-   "baslik_kalite": "yayın",
+   "baslik": "ANTİK OBJELER",
+   "baslik_kaynagi": "kitap",
+   "baslik_kalite": "üstbaşlık",
    "kisa_aciklama": "",
    "aciklama": "",
-   "islev": "Sofra camı",
-   "ozellikler": "İçine üfleme altın ağ; gökkuşağı parıltısı.",
-   "bilgin": "J. & L. Lobmeyr",
-   "bilgin_kaynagi": "site",
+   "islev": "",
+   "ozellikler": "",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
    "eser": "",
    "donem": "",
    "mense": "",
-   "orijinal": "Viyana",
+   "orijinal": "",
    "teknik": {
     "malzeme": [
-     "bronz"
+     "cam"
     ],
-    "boyutlar": [
-     "Uzunluk: 33-43 mm"
-    ]
+    "boyutlar": []
    },
    "kitap": {
     "cilt": "V",
-    "sayfa": 153,
-    "ham_envanter": "J 84-1, 2 ve 3",
+    "sayfa": 159,
+    "ham_envanter": "J 03 ve 05",
     "ust_baslik": "ANTİK OBJELER",
-    "fig_no": "3",
-    "satir": 7939,
+    "fig_no": "",
+    "satir": 8079,
     "onek_cikarim": false,
     "model_metni": ""
    },
-   "gorseller": [
-    {
-     "url": "/kutuphane/katalog3/k454-532.jpg",
-     "kaynak": "katalog3",
-     "etiket": ""
-    }
-   ],
+   "gorseller": [],
    "set": {
-    "ham": "J354-1/2/3",
-    "kaynak": "site",
+    "ham": "J 03 ve 05",
+    "kaynak": "kitap",
     "uye_sayisi": 2,
     "uyeler": [
-     "J2",
-     "J3"
+     "J3",
+     "J5"
     ],
-    "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazolar",
-    "url": "/products/k3-454-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar",
-    "uye_sira": 2,
-    "set_sayfasi": "/products/k3-454-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar"
+    "baslik": "ANTİK OBJELER",
+    "uye_sira": 1,
+    "set_sayfasi": ""
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
+    "durum": "eksik_baslik_bekliyor",
     "url": "",
-    "slug": "iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar-j3",
-    "bolunecegi_set": "/products/k3-454-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar"
+    "slug": "antik-objeler"
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": true,
+    "sitede": false,
     "bayraklar": [
-     "numara_şüpheli",
-     "kitapta_mükerrer_blok",
-     "kategori_uyuşmuyor",
-     "sayfa_uyuşmuyor",
-     "başlık_kitaptan_farklı",
-     "set_üyesi_bölünecek"
+     "sitede_yok"
     ],
-    "notlar": [
-     "Numara kitapta 2 ayrı yerde geçiyor (satır 7939, 8079).",
-     "Site kategorisi \"Fizik ve Teknik\", kitap önekine göre olması gereken \"Antik Objeler\".",
-     "Site \"Cilt V, s. 195-196\" diyor; nesne kitapta s.153.",
-     "Bu nesne \"İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazolar\" sayfasında 2 nesnelik bir setin 2. üyesi olarak geçiyor; ayrı sayfaya bölünecek."
-    ]
+    "notlar": []
    },
    "sergi_etiketleri": [
     "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
-    "bilgin:j-l-lobmeyr",
     "bolum:antik-objeler",
     "koleksiyon:antik-objeler",
-    "set:j354-1-2-3"
+    "set:j03ve05"
    ],
-   "site_kategori": {
-    "kategori": "Fizik ve Teknik",
-    "alt_kategori": "Endüstri: İslam Sanatının Avrupa Uyarlamaları (Cam &amp; Seramik)"
-   },
-   "kitap_kaynak_site": "Cilt V, s. 195-196",
-   "baslik_kitap": "Olta İğnesi İddia edildiğine göre erken İslam Güney İran",
-   "bilgin_tur": "avrupa_uretici",
-   "bilgin_id": "lobmeyr",
-   "bilgin_kanonik": "J. & L. Lobmeyr",
-   "bilgin_ham": "J. & L. Lobmeyr",
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
    "eser_kalite": ""
   },
   {
@@ -40952,7 +40851,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -41024,7 +40923,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -41184,7 +41083,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -41258,7 +41157,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -41331,7 +41230,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -41490,7 +41389,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -41650,7 +41549,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -41680,19 +41579,19 @@
     "alt_bolum": "Orientleştirici Stilde Avrupa Camı ve Seramiği",
     "alt_baslik": ""
    },
-   "baslik": "CAM & SERAMİK",
-   "baslik_kaynagi": "kitap",
-   "baslik_kalite": "üstbaşlık",
+   "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazolar",
+   "baslik_kaynagi": "site",
+   "baslik_kalite": "yayın",
    "kisa_aciklama": "",
    "aciklama": "",
-   "islev": "",
-   "ozellikler": "",
-   "bilgin": "se",
-   "bilgin_kaynagi": "kitap",
+   "islev": "Sofra camı",
+   "ozellikler": "İçine üfleme altın ağ; gökkuşağı parıltısı.",
+   "bilgin": "J. & L. Lobmeyr",
+   "bilgin_kaynagi": "site",
    "eser": "hemen alt",
    "donem": "",
    "mense": "",
-   "orijinal": "",
+   "orijinal": "Viyana",
    "teknik": {
     "malzeme": [
      "altın",
@@ -41712,46 +41611,62 @@
     "onek_cikarim": false,
     "model_metni": ""
    },
-   "gorseller": [],
+   "gorseller": [
+    {
+     "url": "/kutuphane/katalog3/k454-532.jpg",
+     "kaynak": "katalog3",
+     "etiket": ""
+    }
+   ],
    "set": {
-    "ham": "J 354-1, 354-2, 354-3",
-    "kaynak": "kitap",
+    "ham": "J354-1/2/3",
+    "kaynak": "site",
     "uye_sayisi": 3,
     "uyeler": [
      "J354-1",
      "J354-2",
      "J354-3"
     ],
-    "baslik": "CAM & SERAMİK",
+    "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazolar",
+    "url": "/products/k3-454-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar",
     "uye_sira": 1,
-    "set_sayfasi": ""
+    "set_sayfasi": "/products/k3-454-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar"
    },
    "yayin": {
-    "durum": "eksik_baslik_bekliyor",
-    "url": "",
-    "slug": "cam-seramik"
+    "durum": "yayında",
+    "url": "/products/k3-454-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar",
+    "slug": "k3-454-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar"
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
-     "sitede_yok"
+     "kategori_uyuşmuyor",
+     "başlık_kitaptan_farklı"
     ],
-    "notlar": []
+    "notlar": [
+     "Site kategorisi \"Fizik ve Teknik\", kitap önekine göre olması gereken \"Antik Objeler\"."
+    ]
    },
    "sergi_etiketleri": [
     "altbolum:orientlestirici-stilde-avrupa-cami-ve-seramigi",
-    "bilgin:se",
+    "bilgin:j-l-lobmeyr",
     "bolum:antik-objeler",
     "eser:hemen-alt",
     "koleksiyon:antik-objeler",
-    "set:j354-1-354-2-354-3"
+    "set:j354-1-2-3"
    ],
    "eser_kalite": "şüpheli",
-   "bilgin_tur": "ocr_copu",
-   "bilgin_id": null,
-   "bilgin_kanonik": "",
-   "bilgin_ham": "se"
+   "site_kategori": {
+    "kategori": "Fizik ve Teknik",
+    "alt_kategori": "Endüstri: İslam Sanatının Avrupa Uyarlamaları (Cam &amp; Seramik)"
+   },
+   "kitap_kaynak_site": "Cilt V, s. 195-196",
+   "baslik_kitap": "CAM & SERAMİK",
+   "bilgin_tur": "avrupa_uretici",
+   "bilgin_id": "lobmeyr",
+   "bilgin_kanonik": "J. & L. Lobmeyr",
+   "bilgin_ham": "J. & L. Lobmeyr"
   },
   {
    "id": "J354-2",
@@ -41765,19 +41680,19 @@
     "alt_bolum": "Orientleştirici Stilde Avrupa Camı ve Seramiği",
     "alt_baslik": ""
    },
-   "baslik": "CAM & SERAMİK",
-   "baslik_kaynagi": "kitap",
-   "baslik_kalite": "üstbaşlık",
+   "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazo (2/3)",
+   "baslik_kaynagi": "insan",
+   "baslik_kalite": "insan",
    "kisa_aciklama": "",
    "aciklama": "",
-   "islev": "",
-   "ozellikler": "",
-   "bilgin": "se",
-   "bilgin_kaynagi": "kitap",
+   "islev": "Sofra camı",
+   "ozellikler": "İçine üfleme altın ağ; gökkuşağı parıltısı.",
+   "bilgin": "J. & L. Lobmeyr, Viyana",
+   "bilgin_kaynagi": "site",
    "eser": "hemen alt",
    "donem": "",
    "mense": "",
-   "orijinal": "",
+   "orijinal": "Viyana",
    "teknik": {
     "malzeme": [
      "altın",
@@ -41797,46 +41712,65 @@
     "onek_cikarim": false,
     "model_metni": ""
    },
-   "gorseller": [],
+   "gorseller": [
+    {
+     "url": "/kutuphane/katalog3/k454-532.jpg",
+     "kaynak": "katalog3",
+     "etiket": ""
+    }
+   ],
    "set": {
-    "ham": "J 354-1, 354-2, 354-3",
-    "kaynak": "kitap",
+    "ham": "J354-1/2/3",
+    "kaynak": "site",
     "uye_sayisi": 3,
     "uyeler": [
      "J354-1",
      "J354-2",
      "J354-3"
     ],
-    "baslik": "CAM & SERAMİK",
+    "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazolar",
+    "url": "/products/k3-454-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar",
     "uye_sira": 2,
-    "set_sayfasi": ""
+    "set_sayfasi": "/products/k3-454-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar"
    },
    "yayin": {
-    "durum": "eksik_baslik_bekliyor",
-    "url": "",
-    "slug": "cam-seramik"
+    "durum": "uretildi",
+    "url": "/products/k3-596-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazo-2-3-2-3",
+    "slug": "k3-596-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazo-2-3-2-3"
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
-     "sitede_yok"
+     "kategori_uyuşmuyor",
+     "başlık_kitaptan_farklı",
+     "set_üyesi_bölünecek",
+     "başlık_insan_düzeltmesi"
     ],
-    "notlar": []
+    "notlar": [
+     "Site kategorisi \"Fizik ve Teknik\", kitap önekine göre olması gereken \"Antik Objeler\".",
+     "Bu nesne \"İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazolar\" sayfasında 3 nesnelik bir setin 2. üyesi olarak geçiyor; ayrı sayfaya bölünecek."
+    ]
    },
    "sergi_etiketleri": [
     "altbolum:orientlestirici-stilde-avrupa-cami-ve-seramigi",
-    "bilgin:se",
+    "bilgin:j-l-lobmeyr",
     "bolum:antik-objeler",
     "eser:hemen-alt",
     "koleksiyon:antik-objeler",
-    "set:j354-1-354-2-354-3"
+    "set:j354-1-2-3"
    ],
    "eser_kalite": "şüpheli",
-   "bilgin_tur": "ocr_copu",
-   "bilgin_id": null,
-   "bilgin_kanonik": "",
-   "bilgin_ham": "se"
+   "site_kategori": {
+    "kategori": "Fizik ve Teknik",
+    "alt_kategori": "Endüstri: İslam Sanatının Avrupa Uyarlamaları (Cam &amp; Seramik)"
+   },
+   "kitap_kaynak_site": "Cilt V, s. 195-196",
+   "baslik_kitap": "CAM & SERAMİK",
+   "bilgin_tur": "avrupa_uretici",
+   "bilgin_id": "lobmeyr",
+   "bilgin_kanonik": "J. & L. Lobmeyr",
+   "bilgin_ham": "J. & L. Lobmeyr, Viyana"
   },
   {
    "id": "J354-3",
@@ -41850,19 +41784,19 @@
     "alt_bolum": "Orientleştirici Stilde Avrupa Camı ve Seramiği",
     "alt_baslik": ""
    },
-   "baslik": "CAM & SERAMİK",
-   "baslik_kaynagi": "kitap",
-   "baslik_kalite": "üstbaşlık",
+   "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazo (3/3)",
+   "baslik_kaynagi": "insan",
+   "baslik_kalite": "insan",
    "kisa_aciklama": "",
    "aciklama": "",
-   "islev": "",
-   "ozellikler": "",
-   "bilgin": "se",
-   "bilgin_kaynagi": "kitap",
+   "islev": "Sofra camı",
+   "ozellikler": "İçine üfleme altın ağ; gökkuşağı parıltısı.",
+   "bilgin": "J. & L. Lobmeyr, Viyana",
+   "bilgin_kaynagi": "site",
    "eser": "hemen alt",
    "donem": "",
    "mense": "",
-   "orijinal": "",
+   "orijinal": "Viyana",
    "teknik": {
     "malzeme": [
      "altın",
@@ -41882,46 +41816,65 @@
     "onek_cikarim": false,
     "model_metni": ""
    },
-   "gorseller": [],
+   "gorseller": [
+    {
+     "url": "/kutuphane/katalog3/k454-532.jpg",
+     "kaynak": "katalog3",
+     "etiket": ""
+    }
+   ],
    "set": {
-    "ham": "J 354-1, 354-2, 354-3",
-    "kaynak": "kitap",
+    "ham": "J354-1/2/3",
+    "kaynak": "site",
     "uye_sayisi": 3,
     "uyeler": [
      "J354-1",
      "J354-2",
      "J354-3"
     ],
-    "baslik": "CAM & SERAMİK",
+    "baslik": "İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazolar",
+    "url": "/products/k3-454-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar",
     "uye_sira": 3,
-    "set_sayfasi": ""
+    "set_sayfasi": "/products/k3-454-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazolar"
    },
    "yayin": {
-    "durum": "eksik_baslik_bekliyor",
-    "url": "",
-    "slug": "cam-seramik"
+    "durum": "uretildi",
+    "url": "/products/k3-597-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazo-3-3-3-3",
+    "slug": "k3-597-iki-bardakli-surahi-ve-altin-ag-dekorlu-vazo-3-3-3-3"
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
-     "sitede_yok"
+     "kategori_uyuşmuyor",
+     "başlık_kitaptan_farklı",
+     "set_üyesi_bölünecek",
+     "başlık_insan_düzeltmesi"
     ],
-    "notlar": []
+    "notlar": [
+     "Site kategorisi \"Fizik ve Teknik\", kitap önekine göre olması gereken \"Antik Objeler\".",
+     "Bu nesne \"İki Bardaklı Sürahi ve Altın Ağ Dekorlu Vazolar\" sayfasında 3 nesnelik bir setin 3. üyesi olarak geçiyor; ayrı sayfaya bölünecek."
+    ]
    },
    "sergi_etiketleri": [
     "altbolum:orientlestirici-stilde-avrupa-cami-ve-seramigi",
-    "bilgin:se",
+    "bilgin:j-l-lobmeyr",
     "bolum:antik-objeler",
     "eser:hemen-alt",
     "koleksiyon:antik-objeler",
-    "set:j354-1-354-2-354-3"
+    "set:j354-1-2-3"
    ],
    "eser_kalite": "şüpheli",
-   "bilgin_tur": "ocr_copu",
-   "bilgin_id": null,
-   "bilgin_kanonik": "",
-   "bilgin_ham": "se"
+   "site_kategori": {
+    "kategori": "Fizik ve Teknik",
+    "alt_kategori": "Endüstri: İslam Sanatının Avrupa Uyarlamaları (Cam &amp; Seramik)"
+   },
+   "kitap_kaynak_site": "Cilt V, s. 195-196",
+   "baslik_kitap": "CAM & SERAMİK",
+   "bilgin_tur": "avrupa_uretici",
+   "bilgin_id": "lobmeyr",
+   "bilgin_kanonik": "J. & L. Lobmeyr",
+   "bilgin_ham": "J. & L. Lobmeyr, Viyana"
   },
   {
    "id": "J355",
@@ -41976,7 +41929,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -42062,15 +42015,15 @@
    "eser_kalite": ""
   },
   {
-   "id": "J357",
-   "envanter_no": "J357",
-   "envanter_gosterim": "J357",
+   "id": "J357-1",
+   "envanter_no": "J357-1",
+   "envanter_gosterim": "J357-1",
    "prefiks": "J",
    "koleksiyon": "Antik Objeler",
    "hiyerarsi": {
-    "cilt": "",
-    "bolum": "",
-    "alt_bolum": "",
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Orientleştirici Stilde Avrupa Camı ve Seramiği",
     "alt_baslik": ""
    },
    "baslik": "Benzer Vazolar Çifti",
@@ -42086,76 +42039,6 @@
    "donem": "",
    "mense": "",
    "orijinal": "Viyana",
-   "teknik": {
-    "malzeme": [],
-    "boyutlar": []
-   },
-   "kitap": null,
-   "gorseller": [
-    {
-     "url": "/kutuphane/katalog3/k455-533.jpg",
-     "kaynak": "katalog3",
-     "etiket": ""
-    }
-   ],
-   "set": null,
-   "yayin": {
-    "durum": "yayında_doğrulanmadı",
-    "url": "/products/k3-455-benzer-vazolar-cifti",
-    "slug": "k3-455-benzer-vazolar-cifti"
-   },
-   "dogrulama": {
-    "kitapta": false,
-    "sitede": true,
-    "bayraklar": [
-     "kategori_uyuşmuyor",
-     "kitapta_doğrulanamadı"
-    ],
-    "notlar": [
-     "Site kategorisi \"Fizik ve Teknik\", kitap önekine göre olması gereken \"Antik Objeler\".",
-     "Bu envanter numarası 5 cildin OCR metninde bulunamadı. Site kaynağı: Cilt V, s. 197. Müzede kitapta yer almayan bir nesne olabilir ya da numara hatalı atanmış olabilir."
-    ]
-   },
-   "sergi_etiketleri": [
-    "bilgin:j-l-lobmeyr",
-    "koleksiyon:antik-objeler"
-   ],
-   "site_kategori": {
-    "kategori": "Fizik ve Teknik",
-    "alt_kategori": "Endüstri: İslam Sanatının Avrupa Uyarlamaları (Cam &amp; Seramik)"
-   },
-   "kitap_kaynak_site": "Cilt V, s. 197",
-   "bilgin_tur": "avrupa_uretici",
-   "bilgin_id": "lobmeyr",
-   "bilgin_kanonik": "J. & L. Lobmeyr",
-   "bilgin_ham": "J. & L. Lobmeyr",
-   "eser_kalite": ""
-  },
-  {
-   "id": "J357-1",
-   "envanter_no": "J357-1",
-   "envanter_gosterim": "J357-1",
-   "prefiks": "J",
-   "koleksiyon": "Antik Objeler",
-   "hiyerarsi": {
-    "cilt": "Cilt V",
-    "bolum": "Antik Objeler",
-    "alt_bolum": "Orientleştirici Stilde Avrupa Camı ve Seramiği",
-    "alt_baslik": ""
-   },
-   "baslik": "Benzer Vazolar Çifti J. & L. Lobmeyr, Viyana, 19. yüzyılın sonu.",
-   "baslik_kaynagi": "kitap",
-   "baslik_kalite": "iyi",
-   "kisa_aciklama": "",
-   "aciklama": "",
-   "islev": "",
-   "ozellikler": "",
-   "bilgin": "",
-   "bilgin_kaynagi": "",
-   "eser": "",
-   "donem": "",
-   "mense": "",
-   "orijinal": "",
    "teknik": {
     "malzeme": [
      "altın",
@@ -42175,7 +42058,13 @@
     "onek_cikarim": false,
     "model_metni": ""
    },
-   "gorseller": [],
+   "gorseller": [
+    {
+     "url": "/kutuphane/katalog3/k455-533.jpg",
+     "kaynak": "katalog3",
+     "etiket": ""
+    }
+   ],
    "set": {
     "ham": "J 357-1, 357-2",
     "kaynak": "kitap",
@@ -42186,7 +42075,7 @@
     ],
     "baslik": "Benzer Vazolar Çifti J. & L. Lobmeyr, Viyana, 19. yüzyılın sonu.",
     "uye_sira": 1,
-    "set_sayfasi": ""
+    "set_sayfasi": "/products/k3-455-benzer-vazolar-cifti"
    },
    "yayin": {
     "durum": "uretildi",
@@ -42195,22 +42084,30 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
-     "sitede_yok"
+     "kategori_uyuşmuyor"
     ],
-    "notlar": []
+    "notlar": [
+     "Site kategorisi \"Fizik ve Teknik\", kitap önekine göre olması gereken \"Antik Objeler\"."
+    ]
    },
    "sergi_etiketleri": [
     "altbolum:orientlestirici-stilde-avrupa-cami-ve-seramigi",
+    "bilgin:j-l-lobmeyr",
     "bolum:antik-objeler",
     "koleksiyon:antik-objeler",
     "set:j357-1-357-2"
    ],
-   "bilgin_tur": "bos",
-   "bilgin_id": null,
-   "bilgin_kanonik": "",
-   "bilgin_ham": "",
+   "site_kategori": {
+    "kategori": "Fizik ve Teknik",
+    "alt_kategori": "Endüstri: İslam Sanatının Avrupa Uyarlamaları (Cam &amp; Seramik)"
+   },
+   "kitap_kaynak_site": "Cilt V, s. 197",
+   "bilgin_tur": "avrupa_uretici",
+   "bilgin_id": "lobmeyr",
+   "bilgin_kanonik": "J. & L. Lobmeyr",
+   "bilgin_ham": "J. & L. Lobmeyr",
    "eser_kalite": ""
   },
   {
@@ -42277,7 +42174,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -42439,7 +42336,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -42505,7 +42402,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -42715,7 +42612,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -42786,7 +42683,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -43021,9 +42918,9 @@
    "eser_kalite": ""
   },
   {
-   "id": "J39",
-   "envanter_no": "J39",
-   "envanter_gosterim": "J39",
+   "id": "J39-1",
+   "envanter_no": "J39-1",
+   "envanter_gosterim": "J39-1",
    "prefiks": "J",
    "koleksiyon": "Antik Objeler",
    "hiyerarsi": {
@@ -43046,20 +42943,18 @@
    "mense": "",
    "orijinal": "—",
    "teknik": {
-    "malzeme": [
-     "pirinç"
-    ],
+    "malzeme": [],
     "boyutlar": [
-     "Uzunluk: 7,4 cm"
+     "Uzunluk: 12,4 cm"
     ]
    },
    "kitap": {
     "cilt": "V",
     "sayfa": 142,
-    "ham_envanter": "J 39-4",
+    "ham_envanter": "J 39-1",
     "ust_baslik": "ANTİK OBJELER",
     "fig_no": "",
-    "satir": 7465,
+    "satir": 7486,
     "onek_cikarim": false,
     "model_metni": ""
    },
@@ -43080,12 +42975,9 @@
     "kitapta": true,
     "sitede": true,
     "bayraklar": [
-     "numara_şüpheli",
-     "kitapta_mükerrer_blok",
      "kategori_uyuşmuyor"
     ],
     "notlar": [
-     "Numara kitapta 8 ayrı yerde geçiyor (satır 7465, 7470, 7474, 7478, 7482, 7486, 7490, 7495).",
      "Site kategorisi \"Fizik ve Teknik\", kitap önekine göre olması gereken \"Antik Objeler\"."
     ]
    },
@@ -43099,6 +42991,477 @@
     "alt_kategori": "Antik Objeler (Metal, Cam, Seramik, Ahşap, Taş)"
    },
    "kitap_kaynak_site": "Cilt V, s. 142",
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J39-2",
+   "envanter_no": "J39-2",
+   "envanter_gosterim": "J39-2",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "ANTİK OBJELER",
+   "baslik_kaynagi": "kitap",
+   "baslik_kalite": "üstbaşlık",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "",
+   "ozellikler": "",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "",
+   "mense": "",
+   "orijinal": "",
+   "teknik": {
+    "malzeme": [],
+    "boyutlar": [
+     "Uzunluk: 10,6 cm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 142,
+    "ham_envanter": "J 39-2",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "",
+    "satir": 7490,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [],
+   "set": null,
+   "yayin": {
+    "durum": "eksik_baslik_bekliyor",
+    "url": "",
+    "slug": "antik-objeler"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": false,
+    "bayraklar": [
+     "sitede_yok"
+    ],
+    "notlar": []
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler"
+   ],
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J39-3",
+   "envanter_no": "J39-3",
+   "envanter_gosterim": "J39-3",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "ANTİK OBJELER",
+   "baslik_kaynagi": "kitap",
+   "baslik_kalite": "üstbaşlık",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "",
+   "ozellikler": "",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "",
+   "mense": "",
+   "orijinal": "",
+   "teknik": {
+    "malzeme": [],
+    "boyutlar": [
+     "Uzunluk: 10 cm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 142,
+    "ham_envanter": "J 39-3",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "",
+    "satir": 7495,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [],
+   "set": null,
+   "yayin": {
+    "durum": "eksik_baslik_bekliyor",
+    "url": "",
+    "slug": "antik-objeler"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": false,
+    "bayraklar": [
+     "sitede_yok"
+    ],
+    "notlar": []
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler"
+   ],
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J39-4",
+   "envanter_no": "J39-4",
+   "envanter_gosterim": "J39-4",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "Tıbbi Aletler Seti Emevi/Erken Abbasi (2.-3./8.'9. yüzyıl) Sekiz pirinç obje:",
+   "baslik_kaynagi": "kitap",
+   "baslik_kalite": "iyi",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "",
+   "ozellikler": "",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "",
+   "mense": "",
+   "orijinal": "",
+   "teknik": {
+    "malzeme": [
+     "pirinç"
+    ],
+    "boyutlar": [
+     "Uzunluk: 7,4 cm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 142,
+    "ham_envanter": "J 39-4",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "",
+    "satir": 7465,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [],
+   "set": null,
+   "yayin": {
+    "durum": "uretildi",
+    "url": "/products/k3-598-tibbi-aletler-seti-emevi-erken-abbasi-2-3-8-9-yuzyil-sekiz",
+    "slug": "k3-598-tibbi-aletler-seti-emevi-erken-abbasi-2-3-8-9-yuzyil-sekiz"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": true,
+    "bayraklar": [
+     "sitede_yok"
+    ],
+    "notlar": []
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler"
+   ],
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J39-5",
+   "envanter_no": "J39-5",
+   "envanter_gosterim": "J39-5",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "ANTİK OBJELER",
+   "baslik_kaynagi": "kitap",
+   "baslik_kalite": "üstbaşlık",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "",
+   "ozellikler": "",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "",
+   "mense": "",
+   "orijinal": "",
+   "teknik": {
+    "malzeme": [],
+    "boyutlar": [
+     "Uzunluk: 8 cm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 142,
+    "ham_envanter": "J 39-5",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "",
+    "satir": 7470,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [],
+   "set": null,
+   "yayin": {
+    "durum": "eksik_baslik_bekliyor",
+    "url": "",
+    "slug": "antik-objeler"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": false,
+    "bayraklar": [
+     "sitede_yok"
+    ],
+    "notlar": []
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler"
+   ],
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J39-6",
+   "envanter_no": "J39-6",
+   "envanter_gosterim": "J39-6",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "ANTİK OBJELER",
+   "baslik_kaynagi": "kitap",
+   "baslik_kalite": "üstbaşlık",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "",
+   "ozellikler": "",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "",
+   "mense": "",
+   "orijinal": "",
+   "teknik": {
+    "malzeme": [],
+    "boyutlar": [
+     "Uzunluk: 7,7 cm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 142,
+    "ham_envanter": "J 39-6",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "",
+    "satir": 7474,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [],
+   "set": null,
+   "yayin": {
+    "durum": "eksik_baslik_bekliyor",
+    "url": "",
+    "slug": "antik-objeler"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": false,
+    "bayraklar": [
+     "sitede_yok"
+    ],
+    "notlar": []
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler"
+   ],
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J39-7",
+   "envanter_no": "J39-7",
+   "envanter_gosterim": "J39-7",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "ANTİK OBJELER",
+   "baslik_kaynagi": "kitap",
+   "baslik_kalite": "üstbaşlık",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "",
+   "ozellikler": "",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "",
+   "mense": "",
+   "orijinal": "",
+   "teknik": {
+    "malzeme": [],
+    "boyutlar": [
+     "Uzunluk: 8 cm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 142,
+    "ham_envanter": "J 39-7",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "",
+    "satir": 7478,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [],
+   "set": null,
+   "yayin": {
+    "durum": "eksik_baslik_bekliyor",
+    "url": "",
+    "slug": "antik-objeler"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": false,
+    "bayraklar": [
+     "sitede_yok"
+    ],
+    "notlar": []
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler"
+   ],
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J39-8",
+   "envanter_no": "J39-8",
+   "envanter_gosterim": "J39-8",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "ANTİK OBJELER",
+   "baslik_kaynagi": "kitap",
+   "baslik_kalite": "üstbaşlık",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "",
+   "ozellikler": "",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "",
+   "mense": "",
+   "orijinal": "",
+   "teknik": {
+    "malzeme": [],
+    "boyutlar": [
+     "Uzunluk: 6 cm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 142,
+    "ham_envanter": "J 39-8",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "",
+    "satir": 7482,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [],
+   "set": null,
+   "yayin": {
+    "durum": "eksik_baslik_bekliyor",
+    "url": "",
+    "slug": "antik-objeler"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": false,
+    "bayraklar": [
+     "sitede_yok"
+    ],
+    "notlar": []
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler"
+   ],
    "bilgin_tur": "bos",
    "bilgin_id": null,
    "bilgin_kanonik": "",
@@ -43157,7 +43520,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok"
     ],
@@ -43657,7 +44020,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -44245,7 +44608,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -44543,7 +44906,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -44626,7 +44989,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -44709,7 +45072,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -44922,7 +45285,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -44993,7 +45356,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -45063,7 +45426,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -45200,7 +45563,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -45645,7 +46008,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "kitapta_mükerrer_blok",
      "sitede_yok"
@@ -45729,7 +46092,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "kitapta_mükerrer_blok",
      "sitede_yok"
@@ -45897,7 +46260,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -45966,7 +46329,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -46051,7 +46414,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -46137,7 +46500,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -46223,7 +46586,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -46294,7 +46657,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -46573,6 +46936,261 @@
     "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
     "bolum:antik-objeler",
     "koleksiyon:antik-objeler"
+   ],
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J84-1",
+   "envanter_no": "J84-1",
+   "envanter_gosterim": "J84-1",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "Olta İğnesi (1/3)",
+   "baslik_kaynagi": "insan",
+   "baslik_kalite": "insan",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "",
+   "ozellikler": "",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "",
+   "mense": "",
+   "orijinal": "",
+   "teknik": {
+    "malzeme": [
+     "bronz"
+    ],
+    "boyutlar": [
+     "Uzunluk: 33-43 mm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 153,
+    "ham_envanter": "J 84-1, 2 ve 3",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "3",
+    "satir": 7939,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [],
+   "set": {
+    "ham": "J 84-1, 2 ve 3",
+    "kaynak": "kitap",
+    "uye_sayisi": 3,
+    "uyeler": [
+     "J84-1",
+     "J84-2",
+     "J84-3"
+    ],
+    "baslik": "Olta İğnesi İddia edildiğine göre erken İslam Güney İran",
+    "uye_sira": 1,
+    "set_sayfasi": ""
+   },
+   "yayin": {
+    "durum": "uretildi",
+    "url": "/products/k3-599-olta-ignesi-1-3-1-3",
+    "slug": "k3-599-olta-ignesi-1-3-1-3"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": true,
+    "bayraklar": [
+     "sitede_yok",
+     "başlık_insan_düzeltmesi"
+    ],
+    "notlar": [
+     "İNSAN DÜZELTMESİ: Kitapta 'J 84-1, 2 ve 3'; iddiaya göre erken İslam, Güney İran."
+    ]
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler",
+    "set:j84-1-2ve3"
+   ],
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J84-2",
+   "envanter_no": "J84-2",
+   "envanter_gosterim": "J84-2",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "Olta İğnesi (2/3)",
+   "baslik_kaynagi": "insan",
+   "baslik_kalite": "insan",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "",
+   "ozellikler": "",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "",
+   "mense": "",
+   "orijinal": "",
+   "teknik": {
+    "malzeme": [
+     "bronz"
+    ],
+    "boyutlar": [
+     "Uzunluk: 33-43 mm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 153,
+    "ham_envanter": "J 84-1, 2 ve 3",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "3",
+    "satir": 7939,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [],
+   "set": {
+    "ham": "J 84-1, 2 ve 3",
+    "kaynak": "kitap",
+    "uye_sayisi": 3,
+    "uyeler": [
+     "J84-1",
+     "J84-2",
+     "J84-3"
+    ],
+    "baslik": "Olta İğnesi İddia edildiğine göre erken İslam Güney İran",
+    "uye_sira": 2,
+    "set_sayfasi": ""
+   },
+   "yayin": {
+    "durum": "uretildi",
+    "url": "/products/k3-600-olta-ignesi-2-3-2-3",
+    "slug": "k3-600-olta-ignesi-2-3-2-3"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": true,
+    "bayraklar": [
+     "sitede_yok",
+     "başlık_insan_düzeltmesi"
+    ],
+    "notlar": [
+     "İNSAN DÜZELTMESİ: J 84-1'in set kardeşi."
+    ]
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler",
+    "set:j84-1-2ve3"
+   ],
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J84-3",
+   "envanter_no": "J84-3",
+   "envanter_gosterim": "J84-3",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "Olta İğnesi (3/3)",
+   "baslik_kaynagi": "insan",
+   "baslik_kalite": "insan",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "",
+   "ozellikler": "",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "",
+   "mense": "",
+   "orijinal": "",
+   "teknik": {
+    "malzeme": [
+     "bronz"
+    ],
+    "boyutlar": [
+     "Uzunluk: 33-43 mm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 153,
+    "ham_envanter": "J 84-1, 2 ve 3",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "3",
+    "satir": 7939,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [],
+   "set": {
+    "ham": "J 84-1, 2 ve 3",
+    "kaynak": "kitap",
+    "uye_sayisi": 3,
+    "uyeler": [
+     "J84-1",
+     "J84-2",
+     "J84-3"
+    ],
+    "baslik": "Olta İğnesi İddia edildiğine göre erken İslam Güney İran",
+    "uye_sira": 3,
+    "set_sayfasi": ""
+   },
+   "yayin": {
+    "durum": "uretildi",
+    "url": "/products/k3-601-olta-ignesi-3-3-3-3",
+    "slug": "k3-601-olta-ignesi-3-3-3-3"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": true,
+    "bayraklar": [
+     "sitede_yok",
+     "başlık_insan_düzeltmesi"
+    ],
+    "notlar": [
+     "İNSAN DÜZELTMESİ: J 84-1'in set kardeşi."
+    ]
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler",
+    "set:j84-1-2ve3"
    ],
    "bilgin_tur": "bos",
    "bilgin_id": null,
@@ -46896,6 +47514,202 @@
     "koleksiyon:antik-objeler",
     "set:j09-10-11-12"
    ],
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J90-1",
+   "envanter_no": "J90-1",
+   "envanter_gosterim": "J90-1",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "Hacamat Çekmeni (1/2)",
+   "baslik_kaynagi": "insan",
+   "baslik_kalite": "insan",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "Hacamat",
+   "ozellikler": "Yükseklik 9,6 cm.",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "Mağrib, erken dönem",
+   "mense": "",
+   "orijinal": "Maġrib",
+   "teknik": {
+    "malzeme": [
+     "pirinç"
+    ],
+    "boyutlar": [
+     "Yükseklik: 9,6 cm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 152,
+    "ham_envanter": "J 90-1 ve 2",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "",
+    "satir": 7874,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [
+    {
+     "url": "/kutuphane/katalog3/k431-509.jpg",
+     "kaynak": "katalog3",
+     "etiket": ""
+    }
+   ],
+   "set": {
+    "ham": "J90-1/2",
+    "kaynak": "site",
+    "uye_sayisi": 2,
+    "uyeler": [
+     "J90-1",
+     "J90-2"
+    ],
+    "baslik": "Hacamat Çekmenleri (Maġrib)",
+    "url": "/products/k3-431-hacamat-cekmenleri-ma-rib",
+    "uye_sira": 1,
+    "set_sayfasi": "/products/k3-431-hacamat-cekmenleri-ma-rib"
+   },
+   "yayin": {
+    "durum": "yayında",
+    "url": "/products/k3-431-hacamat-cekmenleri-ma-rib",
+    "slug": "k3-431-hacamat-cekmenleri-ma-rib"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": true,
+    "bayraklar": [
+     "kategori_uyuşmuyor",
+     "başlık_insan_düzeltmesi"
+    ],
+    "notlar": [
+     "Site kategorisi \"Fizik ve Teknik\", kitap önekine göre olması gereken \"Antik Objeler\".",
+     "İNSAN DÜZELTMESİ: Kitapta 'J 90-1 ve 2' tek künyede: Hacamat Çekmenleri, Mağrib."
+    ]
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler",
+    "set:j90-1-2"
+   ],
+   "site_kategori": {
+    "kategori": "Fizik ve Teknik",
+    "alt_kategori": "Antik Objeler (Metal, Cam, Seramik, Ahşap, Taş)"
+   },
+   "kitap_kaynak_site": "Cilt V, s. 152",
+   "bilgin_tur": "bos",
+   "bilgin_id": null,
+   "bilgin_kanonik": "",
+   "bilgin_ham": "",
+   "eser_kalite": ""
+  },
+  {
+   "id": "J90-2",
+   "envanter_no": "J90-2",
+   "envanter_gosterim": "J90-2",
+   "prefiks": "J",
+   "koleksiyon": "Antik Objeler",
+   "hiyerarsi": {
+    "cilt": "Cilt V",
+    "bolum": "Antik Objeler",
+    "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+    "alt_baslik": ""
+   },
+   "baslik": "Hacamat Çekmeni (2/2)",
+   "baslik_kaynagi": "insan",
+   "baslik_kalite": "insan",
+   "kisa_aciklama": "",
+   "aciklama": "",
+   "islev": "Hacamat",
+   "ozellikler": "Yükseklik 9,6 cm.",
+   "bilgin": "",
+   "bilgin_kaynagi": "",
+   "eser": "",
+   "donem": "Mağrib, erken dönem",
+   "mense": "",
+   "orijinal": "Maġrib",
+   "teknik": {
+    "malzeme": [
+     "pirinç"
+    ],
+    "boyutlar": [
+     "Yükseklik: 9,6 cm"
+    ]
+   },
+   "kitap": {
+    "cilt": "V",
+    "sayfa": 152,
+    "ham_envanter": "J 90-1 ve 2",
+    "ust_baslik": "ANTİK OBJELER",
+    "fig_no": "",
+    "satir": 7874,
+    "onek_cikarim": false,
+    "model_metni": ""
+   },
+   "gorseller": [
+    {
+     "url": "/kutuphane/katalog3/k431-509.jpg",
+     "kaynak": "katalog3",
+     "etiket": ""
+    }
+   ],
+   "set": {
+    "ham": "J90-1/2",
+    "kaynak": "site",
+    "uye_sayisi": 2,
+    "uyeler": [
+     "J90-1",
+     "J90-2"
+    ],
+    "baslik": "Hacamat Çekmenleri (Maġrib)",
+    "url": "/products/k3-431-hacamat-cekmenleri-ma-rib",
+    "uye_sira": 2,
+    "set_sayfasi": "/products/k3-431-hacamat-cekmenleri-ma-rib"
+   },
+   "yayin": {
+    "durum": "uretildi",
+    "url": "/products/k3-602-hacamat-cekmeni-2-2-2-2",
+    "slug": "k3-602-hacamat-cekmeni-2-2-2-2"
+   },
+   "dogrulama": {
+    "kitapta": true,
+    "sitede": true,
+    "bayraklar": [
+     "kategori_uyuşmuyor",
+     "set_üyesi_bölünecek",
+     "başlık_insan_düzeltmesi"
+    ],
+    "notlar": [
+     "Site kategorisi \"Fizik ve Teknik\", kitap önekine göre olması gereken \"Antik Objeler\".",
+     "Bu nesne \"Hacamat Çekmenleri (Maġrib)\" sayfasında 2 nesnelik bir setin 2. üyesi olarak geçiyor; ayrı sayfaya bölünecek.",
+     "İNSAN DÜZELTMESİ: J 90-1'in çifti."
+    ]
+   },
+   "sergi_etiketleri": [
+    "altbolum:metal-cam-seramik-ahsap-ve-tas-objeler",
+    "bolum:antik-objeler",
+    "koleksiyon:antik-objeler",
+    "set:j90-1-2"
+   ],
+   "site_kategori": {
+    "kategori": "Fizik ve Teknik",
+    "alt_kategori": "Antik Objeler (Metal, Cam, Seramik, Ahşap, Taş)"
+   },
+   "kitap_kaynak_site": "Cilt V, s. 152",
    "bilgin_tur": "bos",
    "bilgin_id": null,
    "bilgin_kanonik": "",
@@ -47388,10 +48202,9 @@
     "set_sayfasi": "/products/k3-277-el-mizze-distilasyon-aleti-gul-suyu"
    },
    "yayin": {
-    "durum": "set_üyesi_bölünecek",
-    "url": "",
-    "slug": "el-mizze-distilasyon-aleti-gul-suyu-k-1-02",
-    "bolunecegi_set": "/products/k3-277-el-mizze-distilasyon-aleti-gul-suyu"
+    "durum": "uretildi",
+    "url": "/products/k3-603-el-mizze-distilasyon-aleti-gul-suyu-2-2",
+    "slug": "k3-603-el-mizze-distilasyon-aleti-gul-suyu-2-2"
    },
    "dogrulama": {
     "kitapta": true,
@@ -48021,7 +48834,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -48464,7 +49277,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok"
     ],
@@ -51310,7 +52123,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -52322,7 +53135,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -52751,7 +53564,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -53553,7 +54366,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -54126,7 +54939,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -54977,7 +55790,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -55732,7 +56545,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -56155,7 +56968,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -56429,7 +57242,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -57838,7 +58651,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -57906,7 +58719,7 @@
    },
    "dogrulama": {
     "kitapta": true,
-    "sitede": false,
+    "sitede": true,
     "bayraklar": [
      "sitede_yok",
      "başlık_insan_düzeltmesi"
@@ -62263,7 +63076,6 @@
     "lobmeyr"
    ],
    "nesneler": [
-    "J3",
     "J343",
     "J344",
     "J345",
@@ -62274,7 +63086,10 @@
     "J350",
     "J351",
     "J353",
-    "J357",
+    "J354-1",
+    "J354-2",
+    "J354-3",
+    "J357-1",
     "J357-2"
    ]
   },

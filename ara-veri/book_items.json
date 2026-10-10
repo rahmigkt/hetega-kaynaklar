@@ -32679,11 +32679,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-4"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-4",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "Tıbbi Aletler Seti Emevi/Erken Abbasi (2.-3./8.'9. yüzyıl) Sekiz pirinç obje:",
   "baslik_kalite": "iyi",
@@ -32709,7 +32711,7 @@
   "malzeme": [
    "pirinç"
   ],
-  "envanter_no": "J39",
+  "envanter_no": "J39-4",
   "coklu": false
  },
  {
@@ -32722,11 +32724,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-5"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-5",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -32745,7 +32749,7 @@
    "Uzunluk: 8 cm"
   ],
   "malzeme": [],
-  "envanter_no": "J39",
+  "envanter_no": "J39-5",
   "coklu": false
  },
  {
@@ -32758,11 +32762,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-6"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-6",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -32781,7 +32787,7 @@
    "Uzunluk: 7,7 cm"
   ],
   "malzeme": [],
-  "envanter_no": "J39",
+  "envanter_no": "J39-6",
   "coklu": false
  },
  {
@@ -32794,11 +32800,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-7"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-7",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -32817,7 +32825,7 @@
    "Uzunluk: 8 cm"
   ],
   "malzeme": [],
-  "envanter_no": "J39",
+  "envanter_no": "J39-7",
   "coklu": false
  },
  {
@@ -32830,11 +32838,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-8"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-8",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -32853,7 +32863,7 @@
    "Uzunluk: 6 cm"
   ],
   "malzeme": [],
-  "envanter_no": "J39",
+  "envanter_no": "J39-8",
   "coklu": false
  },
  {
@@ -32866,11 +32876,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-1"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-1",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -32889,7 +32901,7 @@
    "Uzunluk: 12,4 cm"
   ],
   "malzeme": [],
-  "envanter_no": "J39",
+  "envanter_no": "J39-1",
   "coklu": false
  },
  {
@@ -32902,11 +32914,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-2"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-2",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -32925,7 +32939,7 @@
    "Uzunluk: 10,6 cm"
   ],
   "malzeme": [],
-  "envanter_no": "J39",
+  "envanter_no": "J39-2",
   "coklu": false
  },
  {
@@ -32938,11 +32952,13 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
+   "J39-3"
+  ],
+  "ust_nolar": [
    "J39"
   ],
-  "ust_nolar": [],
   "ham_envanter": "J 39-3",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "ANTİK OBJELER",
   "baslik_kalite": "üstbaşlık",
@@ -32961,7 +32977,7 @@
    "Uzunluk: 10 cm"
   ],
   "malzeme": [],
-  "envanter_no": "J39",
+  "envanter_no": "J39-3",
   "coklu": false
  },
  {
@@ -34242,11 +34258,14 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "",
   "envanter_nolar": [
-   "J2"
+   "J90-1",
+   "J90-2"
   ],
-  "ust_nolar": [],
+  "ust_nolar": [
+   "J90"
+  ],
   "ham_envanter": "J 90-1 ve 2",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "Hacamat Çekmenleri Mağrib, daha eski.",
   "baslik_kalite": "iyi",
@@ -34273,8 +34292,55 @@
   "malzeme": [
    "pirinç"
   ],
-  "envanter_no": "J2",
-  "coklu": false
+  "envanter_no": "J90-1",
+  "coklu": true
+ },
+ {
+  "cilt": "V",
+  "kitap_sayfa": 152,
+  "satir": 7874,
+  "bolum": "Antik Objeler",
+  "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+  "alt_baslik": "",
+  "kitap_ust_baslik": "ANTİK OBJELER",
+  "kitap_fig_no": "",
+  "envanter_nolar": [
+   "J90-1",
+   "J90-2"
+  ],
+  "ust_nolar": [
+   "J90"
+  ],
+  "ham_envanter": "J 90-1 ve 2",
+  "numara_supheli": false,
+  "onek_cikarim": false,
+  "baslik": "Hacamat Çekmenleri Mağrib, daha eski.",
+  "baslik_kalite": "iyi",
+  "mense": "",
+  "donem_kitap": "",
+  "baglam": [
+   "krş. James W. Allan, Nishapur , a.y., s. 72 (Metropolitan",
+   "Mus. 39.40.135)",
+   "152",
+   "ANTİK OBJELER",
+   "Hacamat Çekmenleri",
+   "Mağrib, daha eski.",
+   "Pirinç, lehimlenmiş,",
+   "Yükseklik: 9,6 cm,",
+   "(Envanter No: J 90-1 ve 2)"
+  ],
+  "bilgin": "",
+  "donem": "",
+  "eser": "",
+  "kaynak_ham": "",
+  "boyutlar": [
+   "Yükseklik: 9,6 cm"
+  ],
+  "malzeme": [
+   "pirinç"
+  ],
+  "envanter_no": "J90-2",
+  "coklu": true
  },
  {
   "cilt": "V",
@@ -34490,12 +34556,15 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "3",
   "envanter_nolar": [
-   "J2",
-   "J3"
+   "J84-1",
+   "J84-2",
+   "J84-3"
   ],
-  "ust_nolar": [],
+  "ust_nolar": [
+   "J84"
+  ],
   "ham_envanter": "J 84-1, 2 ve 3",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "Olta İğnesi İddia edildiğine göre erken İslam Güney İran",
   "baslik_kalite": "iyi",
@@ -34519,7 +34588,7 @@
   "malzeme": [
    "bronz"
   ],
-  "envanter_no": "J2",
+  "envanter_no": "J84-1",
   "coklu": true
  },
  {
@@ -34532,12 +34601,15 @@
   "kitap_ust_baslik": "ANTİK OBJELER",
   "kitap_fig_no": "3",
   "envanter_nolar": [
-   "J2",
-   "J3"
+   "J84-1",
+   "J84-2",
+   "J84-3"
   ],
-  "ust_nolar": [],
+  "ust_nolar": [
+   "J84"
+  ],
   "ham_envanter": "J 84-1, 2 ve 3",
-  "numara_supheli": true,
+  "numara_supheli": false,
   "onek_cikarim": false,
   "baslik": "Olta İğnesi İddia edildiğine göre erken İslam Güney İran",
   "baslik_kalite": "iyi",
@@ -34561,7 +34633,52 @@
   "malzeme": [
    "bronz"
   ],
-  "envanter_no": "J3",
+  "envanter_no": "J84-2",
+  "coklu": true
+ },
+ {
+  "cilt": "V",
+  "kitap_sayfa": 153,
+  "satir": 7939,
+  "bolum": "Antik Objeler",
+  "alt_bolum": "Metal, Cam, Seramik, Ahşap ve Taş Objeler",
+  "alt_baslik": "",
+  "kitap_ust_baslik": "ANTİK OBJELER",
+  "kitap_fig_no": "3",
+  "envanter_nolar": [
+   "J84-1",
+   "J84-2",
+   "J84-3"
+  ],
+  "ust_nolar": [
+   "J84"
+  ],
+  "ham_envanter": "J 84-1, 2 ve 3",
+  "numara_supheli": false,
+  "onek_cikarim": false,
+  "baslik": "Olta İğnesi İddia edildiğine göre erken İslam Güney İran",
+  "baslik_kalite": "iyi",
+  "mense": "",
+  "donem_kitap": "",
+  "baglam": [
+   "3 Olta İğnesi",
+   "İddia edildiğine göre erken İslam",
+   "Güney İran",
+   "Bronz?",
+   "Uzunluk: 33-43 mm",
+   "(Envanter No: J 84-1, 2 ve 3)"
+  ],
+  "bilgin": "",
+  "donem": "",
+  "eser": "",
+  "kaynak_ham": "",
+  "boyutlar": [
+   "Uzunluk: 33-43 mm"
+  ],
+  "malzeme": [
+   "bronz"
+  ],
+  "envanter_no": "J84-3",
   "coklu": true
  },
  {

@@ -4,7 +4,9 @@
   "alt_baslik": "Rasathaneler, âlimler ve eserleri — bilginin bir şehirden diğerine, bir kuşaktan ötekine nasıl aktığı",
   "aciklama": "İslam astronomisi tek bir merkezin değil, bir ağın ürünüdür. Bu sergi o ağı üç adımda izler: önce gözlem evleri, sonra o evlerde çalışan bilginler, en son da onların kaleme aldığı eserler ve ürettiği aletler.",
   "kapak_gorsel": "/kapaklar/astronomi-2614.jpg",
-  "koleksiyonlar": ["Astronomi"],
+  "koleksiyonlar": [
+    "Astronomi"
+  ],
   "sure_dk": 25,
   "bolumler": [
     {
@@ -13,16 +15,34 @@
       "giris": "Gözlem evleri, bilginin üretildiği yerler. Her biri bir hükümdarın himayesinde, bir âlimin yönetiminde kuruldu.",
       "sorgu": {
         "ve": [
-          { "etiket": "altbolum:rasathaneler" }
+          {
+            "etiket": "altbolum:rasathaneler"
+          }
         ]
       },
       "grupla": "hiyerarsi.alt_baslik",
-      "grup_sirasi": ["Rey Rasathanesi", "Hemedân Rasathanesi", "Merâğa Rasathanesi",
-                      "İstanbul Rasathanesi", "Hven Rasathanesi", "Semerkant Rasathanesi",
-                      "Jaipur Rasathanesi", "Delhi Rasathanesi"],
-      "sirala": ["kitap.sayfa"],
+      "grup_sirasi": [
+        "Rey Rasathanesi",
+        "Hemedân Rasathanesi",
+        "Merâğa Rasathanesi",
+        "İstanbul Rasathanesi",
+        "Hven Rasathanesi",
+        "Semerkant Rasathanesi",
+        "Jaipur Rasathanesi",
+        "Delhi Rasathanesi"
+      ],
+      "sirala": [
+        "kitap.sayfa"
+      ],
       "gorunum": "gruplu-kart",
-      "secilen_alanlar": ["baslik", "envanter_gosterim", "bilgin", "donem", "gorseller", "kitap.sayfa"]
+      "secilen_alanlar": [
+        "baslik",
+        "envanter_gosterim",
+        "bilgin",
+        "donem",
+        "gorseller",
+        "kitap.sayfa"
+      ]
     },
     {
       "sira": 2,
@@ -30,31 +50,55 @@
       "giris": "Bir rasathane, binasından çok içinde çalışanların adıyla anılır. Merâğa el-ʿUrḍî ve Ṭūsî ile, İstanbul Taḳıyyeddîn ile, Semerkant Uluğ Bey ile, Hven ise Tycho Brahe ile hatırlanır.",
       "sorgu": {
         "ve": [
-          { "etiket": "altbolum:rasathaneler" },
-          { "alan": "bilgin_tur", "esittir": "kişi" }
+          {
+            "etiket": "altbolum:rasathaneler"
+          },
+          {
+            "alan": "bilgin_tur",
+            "esittir": "kişi"
+          }
         ]
       },
       "grupla": "bilgin_id",
       "grup_baslik_alani": "bilgin_kanonik",
       "grup_alt_baslik_alani": "bilgin_donem",
-      "sirala": ["bilgin_kanonik"],
+      "sirala": [
+        "bilgin_kanonik"
+      ],
       "gorunum": "kisi-listesi",
       "not": "Bu bölüm bir önceki bölümün kümesinden türetilir; ayrı veri gerektirmez."
     },
     {
       "sira": 3,
       "baslik": "Eserleri ve Aletleri",
-      "giris": "Bilgi, kitaba ve alete dönüşerek dolaşır. el-ʿUrḍî'nin 'Aletler Kitabı' Merâğa'dan İstanbul'a, oradan Avrupa'ya uzanır; Ptoleme'nin mirası ise hem Merâğa'da hem Hven'de yeniden üretilir.",
+      "giris": "Bilgi, kitaba ve alete dönüşerek dolaşır. Bir önceki bölümde adı geçen her âlimin bu katalogdaki bütün nesneleri — kendi tasarımı, onun eserine dayanan rekonstrüksiyon ya da geleneğini sürdüren aletler.",
       "sorgu": {
-        "veya": [
-          { "ve": [ { "alan": "bilgin_id", "liste": ["$bolum2.bilgin_id"] } ] },
-          { "etikel": "eser:aletler-kitab" }
+        "ve": [
+          {
+            "alan": "bilgin_id",
+            "liste": [
+              "$bolum2.bilgin_id"
+            ]
+          }
         ]
       },
-      "grupla": "eser",
-      "sirala": ["hiyerarsi.alt_baslik", "kitap.sayfa"],
+      "grupla": "bilgin_id",
+      "sirala": [
+        "hiyerarsi.alt_baslik",
+        "kitap.sayfa"
+      ],
       "gorunum": "kaynak-eser-gruplu",
-      "secilen_alanlar": ["baslik", "envanter_gosterim", "eser", "bilgin_kanonik", "kitap.sayfa", "gorseller"]
+      "secilen_alanlar": [
+        "baslik",
+        "envanter_gosterim",
+        "eser",
+        "bilgin_kanonik",
+        "kitap.sayfa",
+        "gorseller"
+      ],
+      "grup_baslik_alani": "bilgin_kanonik",
+      "grup_alt_baslik_alani": "donem",
+      "not": "eser alanı OCR'dan güvenilir çıkarılamadığı için gruplama bilgin kimliği üzerinden yapılır; alan olgunlaştığında 'eser' eksenine geçilecek."
     },
     {
       "sira": 4,
@@ -62,14 +106,30 @@
       "giris": "Dolaşım tek yönlü değildir. Hven Rasathanesi'nin aletleri ile Merâğa'nınkiler neredeyse özdeştir; İstanbul Rasathanesi'nin alet programı Merâğa'nın geliştirilmiş bir devamıdır.",
       "sorgu": {
         "ve": [
-          { "alan": "bilgin_id", "liste": ["tycho", "munster", "schoner", "campano", "chaucer", "coronelli"] }
+          {
+            "alan": "bilgin_id",
+            "liste": [
+              "tycho",
+              "munster",
+              "schoner",
+              "campano",
+              "chaucer",
+              "coronelli"
+            ]
+          }
         ]
       },
-      "sirala": ["donem", "kitap.sayfa"],
+      "sirala": [
+        "donem",
+        "kitap.sayfa"
+      ],
       "gorunum": "zaman-seridi"
     }
   ],
-  "ilgili_sergiler": ["zamanin-olcumu", "cerrahinin-aletleri"],
+  "ilgili_sergiler": [
+    "zamanin-olcumu",
+    "cerrahinin-aletleri"
+  ],
   "durum": "taslak",
   "olusturma": "2026-10-10",
   "not": "Bu bir TANIM dosyasıdır; içerik kopyası değil. Envanter güncellendiğinde sergi otomatik güncellenir. Çözümleme için: uretim/sergi_motoru.py"
