@@ -257,7 +257,7 @@ let curG = 'g1', curF = 'hepsi', curQ = '';
 const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c =>
   ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const dkey = (g, id) => g + ':' + id;
-function saveLS(){ localStorage.setItem(LS, JSON.stringify(decisions)); }
+function saveLS(){ try{ localStorage.setItem(LS, JSON.stringify(decisions)); }catch(e){ /* sandbox/özel mod: bellek içi çalışmaya devam */ } }
 
 /* ---------- kayıt şablonları ---------- */
 function ctxHtml(b){
