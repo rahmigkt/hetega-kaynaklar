@@ -1,0 +1,311 @@
+{
+  "_aciklama": "İnsan kararları yama katmanı. build_envanter.py bunu envanter.json'a uygular. Amaç: yeniden üretimde düzeltmelerin kaybolmaması. 'baslik' alanına yazılan değer baslik_kaynagi='insan' olarak işaretlenir.",
+  "_tarih": "2026-10-10",
+  "_kararlar": [
+    "B03.07 = sitedeki numarasız 'el-İsfahânî'nin Mekanik-Astronomik Takvimi' sayfası (Cilt II s.168-169, B 3. 07 kitapta 'Birinci Model' olarak geçiyor).",
+    "H04.08 = sitedeki 'H4.01/H' numaralı «Nokta» Adlı Koter (kitapta gerçek numara H 4.08).",
+    "K01.25 = sitedeki 'K01.21' İmbikli Fırın (aynı başlık, aynı sayfa 151; site numarası hatalı).",
+    "J357 = sitedeki 'Benzer Vazolar Çifti' → kitapta J 357-1 ve J 357-2 alt ögeleri.",
+    "Başlığı kitaptan okunamayanlar 'eksik_baslik_bekliyor' durumuna düşürüldü (uydurma başlık yok)."
+  ],
+  "numara_atamalari": [
+    {
+      "site_url": "/products/k3-118-el-i-fehani-nin-mekanik-astronomik-takvimi",
+      "envanter_no": "B03.07",
+      "gerekce": "Cilt II s.168-169: kitapta '(Envanter No: B 3. 07)' — Birinci Model, Eduard Farre (Barselona) yapımı, çap 18,5 cm pirinç. Sitedeki numarasız 'el-İsfahânî'nin Mekanik-Astronomik Takvimi' sayfası bu kayıttır."
+    },
+    {
+      "eski_numara": "H4.01/H",
+      "envanter_no": "H04.08",
+      "gerekce": "Kitap Cilt IV s.54: «Nokta» Adlı Koter (el-mikvât elletî tüsemmâ en-Nukta) → (Envanter No: H 4.08). Sitedeki 'H4.01/H' yazımı hatalı; kitapta H 4.01 ve H 4.07 ayrı bir alet çifti (kulak ağrısı tedavisi, s.54)."
+    },
+    {
+      "eski_numara": "K1.21",
+      "envanter_no": "K01.25",
+      "gerekce": "Kitap Cilt IV s.151 'îmbikli Fırın' → (Envanter No: K 1.25). K 1.21 kitapta geçmiyor; site numarası hatalı."
+    }
+  ],
+  "baslik_duzeltmeleri": {
+    "H01.07": {
+      "baslik": "Kafa Koterizasyonu Aleti (fî keyy er-re's)",
+      "islev": "Bir defalık kafa koterizasyonu için"
+    },
+    "H01.09": {
+      "baslik": "Yüz Felci Koteri",
+      "islev": "Yüz felcinde kullanmak için"
+    },
+    "H02.21": {
+      "baslik": "Kazıyıcı (micrad)"
+    },
+    "H02.24": {
+      "baslik": "Koter (mikvât)"
+    },
+    "H03.10": {
+      "baslik": "Kanca (şinnâre)"
+    },
+    "H04.05": {
+      "baslik": "Makas Benzeri Alet (âletu tuşbihu el-mikaşş)",
+      "islev": "Bademcikleri ve diğer yutak tümörlerini çıkarmak için"
+    },
+    "H04.07": {
+      "baslik": "Kulak Ağrısı Tedavi Aleti (2/2)",
+      "islev": "Kulak ağrılarının tedavisi için",
+      "not": "H 4.01 ile çift; ez-Zehrâvî Marsh (Oxford) ve Paris yazmaları çizimlerine dayanır."
+    },
+    "H05.02B": {
+      "baslik": "Balon Şırınga (Model b)",
+      "not": "Sitedeki H5.02A 'Balon Şırınga'nın b modeli; Kitâb et-Taşrîf cilt 2, s.506 çizimi."
+    },
+    "H09.02": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.03": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.04": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.05": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.06": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.07": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.08": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.09": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.10": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.11": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.12": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.13": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.14": {
+      "baslik": "Raspator",
+      "islev": "Diş taşını gidermek için"
+    },
+    "H09.16": {
+      "baslik": "Kırık Diş Çıkarma Aleti",
+      "islev": "Penseyle çekilemeyecek kırık dişleri çıkarmak için"
+    },
+    "D01.05": {
+      "baslik": "Tesviye Aleti (kûniyâ) — 2. örnek",
+      "not": "Kitapta '(Envanter No: D 1.04 ve D 1.05)'; eş-Şîrâzî et-Tuhfe Paris yazması çizimine göre pirinç model."
+    },
+    "J8": {
+      "baslik": "Hurma Şişe",
+      "donem": "2./8. yüzyıl (?)",
+      "mense": "Horâsân?",
+      "not": "Kitapta 'Şişe'; sarımsı optik üfleme cam, kırışık dikey oluklu («hurma şişe»), y. 22,5 cm."
+    },
+    "J13": {
+      "baslik": "Küçük Şişe",
+      "donem": "Emevî (?)"
+    },
+    "J21": {
+      "baslik": "Ayaklı Kadeh",
+      "donem": "3./9. - 5./11. yüzyıl",
+      "mense": "Nîşâpur"
+    },
+    "J28": {
+      "baslik": "Fitil",
+      "donem": "Safevî"
+    },
+    "J57": {
+      "baslik": "Ateşleme Çeliği",
+      "islev": "Kıvılcım çıkartmak için",
+      "donem": "Safevî (11./17. yüzyıl)"
+    },
+    "J58": {
+      "baslik": "Ateşleme Çeliği",
+      "islev": "Kıvılcım çıkartmak için",
+      "donem": "Safevî (11./17. yüzyıl)"
+    },
+    "J59": {
+      "baslik": "Ateşleme Çeliği",
+      "islev": "Kıvılcım çıkartmak için",
+      "donem": "Safevî (11./17. yüzyıl)"
+    },
+    "J61": {
+      "baslik": "Çatal",
+      "donem": "Sâsânî veya Emevî (1.-2./7.-8. yüzyıl)",
+      "mense": "Kuzey İran"
+    },
+    "J62": {
+      "baslik": "Yassı Kaşık",
+      "donem": "Sâsânî veya Emevî (1.-2./7.-8. yüzyıl)"
+    },
+    "J63": {
+      "baslik": "Kepçe ve Çengel",
+      "donem": "Abbâsî (2.-3./8.-9. yüzyıl)"
+    },
+    "J65": {
+      "baslik": "Makaralı Şakül",
+      "donem": "Selçuklu (6./12. yüzyıl)",
+      "mense": "Doğu Anadolu"
+    },
+    "J75": {
+      "baslik": "Yüzük Taşı"
+    },
+    "J76": {
+      "baslik": "Yüzük Taşı (nefrit)",
+      "donem": "Zend/Kâcâr (12./18.-13./19. yüzyıl)",
+      "mense": "İran"
+    },
+    "J77": {
+      "baslik": "Yüzük Taşı"
+    },
+    "J78": {
+      "baslik": "Yüzük Taşı"
+    },
+    "J79": {
+      "baslik": "Yüzük Taşı"
+    },
+    "J344": {
+      "baslik": "Disk, 'Arap Stili'nde (Nr. 5524)",
+      "bilgin": "J. & L. Lobmeyr, Viyana"
+    },
+    "J345": {
+      "baslik": "Tabak",
+      "bilgin": "J. & L. Lobmeyr, Viyana"
+    },
+    "J347": {
+      "baslik": "Çift Kulplu Vazo",
+      "bilgin": "J. & L. Lobmeyr, Viyana"
+    },
+    "J348": {
+      "baslik": "Vazo",
+      "bilgin": "J. & L. Lobmeyr, Viyana"
+    },
+    "J349": {
+      "baslik": "Çift Kulplu Vazo (2)",
+      "bilgin": "J. & L. Lobmeyr, Viyana"
+    },
+    "J351": {
+      "baslik": "Kulplu Silindir Kupa",
+      "bilgin": "J. & L. Lobmeyr, Viyana"
+    },
+    "J353": {
+      "baslik": "İçme Kâsesi (~1880)",
+      "bilgin": "Muhtemelen J. & L. Lobmeyr, Viyana; imzasız"
+    },
+    "J355": {
+      "baslik": "Vazo ve Kulplu Sürahi (altın ağ dekorlu)"
+    },
+    "J359": {
+      "baslik": "Kare Şeklinde Yayvan Kâse",
+      "bilgin": "Th. Deck (Fr. Levillain tasarımı)"
+    },
+    "J360": {
+      "baslik": "Fayans Pano"
+    },
+    "J363": {
+      "baslik": "Vazo"
+    },
+    "J364": {
+      "baslik": "Vazo (su çanağı formunda)"
+    },
+    "J46": {
+      "baslik": "Döküm Kalıbı",
+      "donem": "3./9. - 6./12. yüzyıl",
+      "mense": "Nîşâpur"
+    },
+    "J53": {
+      "baslik": "Dövme Parçası"
+    },
+    "K01.13": {
+      "baslik": "İmbikli Fırın (fırın no. 44 + imbik no. 37 kombinasyonu)",
+      "not": "Liber florum Geberti'de tasvir edilen iki aracın birleşimi."
+    },
+    "K01.68B": {
+      "baslik": "İmbik (soğutma kuyruklu, b tipi)",
+      "not": "Gaga bir soğutma kuyruğuna doğru uzatılmış ikinci tip."
+    },
+    "K03.07": {
+      "baslik": "Örpiment (Sarı Zırnık)",
+      "ozgun_ad": "zernîh aşfar"
+    },
+    "K03.10B": {
+      "baslik": "Beril veya Krizolit",
+      "ozgun_ad": "zeberced"
+    },
+    "K03.18A": {
+      "baslik": "Alabaster (Su Mermeri)"
+    },
+    "K03.23B": {
+      "baslik": "Akik (Karneol) — kırmızı",
+      "ozgun_ad": "cakık"
+    },
+    "K03.31B": {
+      "baslik": "Malahit",
+      "ozgun_ad": "dehneç"
+    },
+    "K03.39": {
+      "baslik": "İnci",
+      "ozgun_ad": "dürr, lü'lü'"
+    },
+    "K03.44": {
+      "baslik": "Realgar (Kırmızı Zırnık)",
+      "ozgun_ad": "zernîh ahmer"
+    },
+    "K03.46B": {
+      "baslik": "İyolit (Lületaşı)",
+      "ozgun_ad": "zebed el-bahr ve surâc"
+    },
+    "K03.61": {
+      "baslik": "Gummi arabicum (Arap Zamkı)"
+    },
+    "K03.62": {
+      "baslik": "Helile (Terminalia chebula)"
+    },
+    "H04.01": {
+      "baslik": "Kulak Ağrısı Tedavi Aleti (1/2)",
+      "islev": "Kulak ağrılarının tedavisi için",
+      "not": "Kitapta H 4.07 ile birlikte tek künyede: 'Bu aletin biri sivri diğeri küt iki türü tasvir edilmiştir.' Hangisinin sivri/küt olduğu metinden kesinleştirilemedi."
+    },
+    "J357-2": {
+      "baslik": "Benzer Vazolar Çifti (2/2)",
+      "bilgin": "J. & L. Lobmeyr, Viyana",
+      "donem": "19. yüzyıl sonu",
+      "not": "Sitedeki k3-455 sayfası J357-1'i gösteriyor; bu nesne çiftin ikinci parçası."
+    }
+  },
+  "dusurulen_basliklar": {
+    "_not": "Başlığı kitaptan güvenilir okunamayanlar; uydurma başlıkla yayına girmesin diye 'eksik_baslik_bekliyor' durumuna düşürülür.",
+    "H02.05": "OCR çöpü ('LİjSu\" ! e-- | i'); Halîfe el-Kâfi fi'l-Kuhl çizimi olduğu biliniyor ama alet adı okunamıyor.",
+    "H02.15": "OCR çöpü ('A ir- = 1 w t*').",
+    "H06.06": "Sadece 'Model (b)' tanımı var; alet adı resim altında kalmış.",
+    "J14": "Numara kümesi karışık: blok '(Envanter No: J 238 1-6' ile bitiyor; 'J14' ataması güvenilmez.",
+    "J69": "Kitap başlığının kendisi belirsiz: 'Form/Model ?'.",
+    "J85": "Başlık yok; sadece malzeme tanımı ('Saf kuvars, hâkkedilmiş'). Blok J 85 1-4 aralığı.",
+    "K01.16": "Sadece çizim künyesi ('Çizim, Ganzenmüller'den... No. 4x').",
+    "K01.71": "Sadece çizim künyesi ('Çizim, Ganzenmüller'den... No. 1x').",
+    "K03.08A": "Başlık parçası okunamıyor ('tar.').",
+    "K03.08B": "Başlık parçası okunamıyor ('2) Bulanık,').",
+    "K03.54B": "Başlık parçası okunamıyor ('3) Mavi.')."
+  }
+}

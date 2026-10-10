@@ -13,7 +13,7 @@ import re, glob, os, json, collections
 import numnorm
 
 import yollar
-ARA_DIR = yollar.ARA
+HERE = yollar.ARA
 UP_DIR = yollar.OCR
 
 # ============================================================ İÇİNDEKİLER
@@ -336,11 +336,11 @@ if __name__ == '__main__':
     ws = sum(1 for b in blocks if b['bilgin'] or b['eser'])
     print('bilgin/eser bulunan : %d/%d (%.0f%%)' % (ws, len(blocks), 100.0 * ws / len(blocks)))
 
-    json.dump(blocks, open(os.path.join(ARA_DIR, 'book_blocks.json'), 'w'),
+    json.dump(blocks, open(os.path.join(HERE, 'book_blocks.json'), 'w'),
               ensure_ascii=False, indent=1)
-    json.dump(flat, open(os.path.join(ARA_DIR, 'book_items.json'), 'w'),
+    json.dump(flat, open(os.path.join(HERE, 'book_items.json'), 'w'),
               ensure_ascii=False, indent=1)
-    json.dump(uniq, open(os.path.join(ARA_DIR, 'book_numbers.json'), 'w'),
+    json.dump(uniq, open(os.path.join(HERE, 'book_numbers.json'), 'w'),
               ensure_ascii=False, indent=1)
 
     print('\n--- önek dağılımı (benzersiz) ---')

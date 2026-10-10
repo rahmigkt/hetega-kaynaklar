@@ -11,25 +11,28 @@ fi
 
 adim() { printf '\n\033[1m== %s ==\033[0m\n' "$1"; }
 
-adim "1/7 parse_books.py  — kitaptan envanter blokları"
+adim "1/8 parse_books.py  — kitaptan envanter blokları"
 python3 uretim/parse_books.py
 
-adim "2/7 reconcile.py    — kitap × site mutabakatı"
+adim "2/8 reconcile.py    — kitap × site mutabakatı"
 python3 uretim/reconcile.py
 
-adim "3/7 build_envanter.py — kanonik envanter.json"
+adim "3/8 build_envanter.py — kanonik envanter.json"
 python3 uretim/build_envanter.py
 
-adim "4/7 alimler.py      — âlim/kurum otorite listesi"
+adim "4/8 uygula_duzeltmeler.py — insan kararları (duzeltmeler.json)"
+python3 uretim/uygula_duzeltmeler.py
+
+adim "5/8 alimler.py      — âlim/kurum otorite listesi"
 python3 uretim/alimler.py
 
-adim "5/7 assign_images.py — boşta görsel havuzu (öneri üretir)"
+adim "6/8 assign_images.py — boşta görsel havuzu (öneri üretir)"
 python3 uretim/assign_images.py
 
-adim "6/7 export.py       — CSV + koleksiyon ağacı"
+adim "7/8 export.py       — CSV + koleksiyon ağacı"
 python3 uretim/export.py
 
-adim "7/7 sergi_motoru.py — sergi tanımlarını doğrula"
+adim "8/8 sergi_motoru.py — sergi tanımlarını doğrula"
 for f in sergiler/*.json; do
   slug=$(basename "$f" .json)
   echo "  · $slug"
@@ -37,3 +40,5 @@ for f in sergiler/*.json; do
 done
 
 printf '\n\033[1mBitti.\033[0m envanter/envanter.json güncellendi.\n'
+echo "Site sayfalarını üretmek için (website checkout'u gerekir):"
+echo "  HETEGA_WEBSITE=/yol/hetega-website python3 uretim/site_uret.py"

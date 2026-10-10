@@ -8,7 +8,7 @@ yapılmış halde burada tutulur. `hetega-website` reposu bu veriden **üretilen
 içerik burada düzenlenir, site orada yayınlanır.
 
 ```
-envanter/envanter.json   ←  TEK DOĞRU KAYNAK (747 nesne)
+envanter/envanter.json   ←  TEK DOĞRU KAYNAK (745 nesne)
         │
         ├── hetega-website   /products/* sayfaları, koleksiyonlar, arama
         └── sergiler/*       tema bazlı dinamik sergiler
@@ -20,7 +20,7 @@ envanter/envanter.json   ←  TEK DOĞRU KAYNAK (747 nesne)
 
 | Dizin | İçerik |
 |---|---|
-| `envanter/` | **Nihai veri.** `envanter.json` (747 nesne), `alimler.json` (96 âlim + 23 kurum + 11 yazma), `envanter.csv` (Excel görünümü), `koleksiyon_agaci.json`, `sema/nesne.schema.json` |
+| `envanter/` | **Nihai veri.** `envanter.json` (745 nesne), `alimler.json` (96 âlim + 23 kurum + 11 yazma), `envanter.csv` (Excel görünümü), `koleksiyon_agaci.json`, `sema/nesne.schema.json` |
 | `uretim/` | Üretim hattı betikleri. `calistir.sh` ile sırayla çalışır |
 | `ara-veri/` | Ara çıktılar: kitaptan çıkarılan ham bloklar, site kazıntısı, mutabakat raporu |
 | `sergiler/` | Sergi **tanımları** (JSON). İçerik kopyası değil, sorgu |
@@ -47,9 +47,11 @@ Hat şu adımlardan oluşur:
 | 2 | `parse_books.py` | OCR metinleri | `ara-veri/book_blocks.json` — 589 blok, 672 benzersiz numara |
 | 3 | `reconcile.py` | kitap + site | `ara-veri/envanter_kanonik.json` — mutabakat ve bayraklar |
 | 4 | `build_envanter.py` | yukarıdakiler | **`envanter/envanter.json`** — 747 kanonik nesne |
+| 4b | `uygula_duzeltmeler.py` | envanter + `duzeltmeler.json` | insan kararları uygulanmış envanter (745 nesne) |
 | 5 | `alimler.py` | envanter | `envanter/alimler.json` + nesnelere `bilgin_id` |
 | 6 | `assign_images.py` | envanter + görsel havuzu | `envanter/gorsel_atama_onerileri.json` *(öneri; envanteri değiştirmez)* |
 | 7 | `export.py` | envanter | `envanter/envanter.csv`, `koleksiyon_agaci.json` |
+| 7b | `site_uret.py` | envanter + website checkout | yeni ürün sayfaları, index/koleksiyon/sitemap güncellemesi |
 | 8 | `sergi_motoru.py` | envanter + sergi tanımı | çözümlenmiş sergi |
 
 Site kazıntısını tazelemek için (`ara-veri/site_products.json`) `hetega-website`
@@ -111,13 +113,13 @@ Aynı mekanizmayla kurulabilecek diğer sergiler: **Zamanın Ölçümü** (B+D s
 ## Veri kalitesi durumu (10 Eki 2026)
 
 ```
-747 kanonik nesne
-  376  yayında                     kitap + site birbirini doğruluyor
-  142  eksik_baslik_bekliyor       kitapta var, başlığı OCR'dan okunamadı
-   92  eklenmeye_hazır             kitapta var, başlığı net → hemen eklenebilir
-   62  set_üyesi_bölünecek         tek sayfada toplanmış, ayrı sayfaya bölünecek
-   41  yayında_numarasız           sayfada envanter no yazmıyor
-   34  yayında_doğrulanmadı        kitapta karşılığı bulunamadı (bayraklı, yayında)
+745 kanonik nesne
+  379  yayında                     kitap + site birbirini doğruluyor
+   79  üretildi (bekliyor)          yeni sayfa üretildi, push edilmeyi bekliyor
+  153  eksik_baslik_bekliyor       kitapta var, başlığı OCR'dan okunamadı → hakemleme
+   61  set_üyesi_bölünecek         tek sayfada toplanmış, ayrı sayfaya bölünecek
+   40  yayında_numarasız           sayfada envanter no yazmıyor
+   33  yayında_doğrulanmadı        kitapta karşılığı bulunamadı (bayraklı, yayında)
 ```
 
 Ayrıntı: [`raporlar/ENVANTER-DENETIM-RAPORU.md`](raporlar/ENVANTER-DENETIM-RAPORU.md)
@@ -148,8 +150,9 @@ Ayrıntı: [`raporlar/ENVANTER-DENETIM-RAPORU.md`](raporlar/ENVANTER-DENETIM-RAP
    kayıtlara bölünür**; set bağlığı `set` alanında korunur.
 3. Koleksiyon ataması **envanter önekinden** yapılır. Sitenin eski kategori şeması
    (`Usturlaplar`'ı ayrı kategori sayması gibi) `site_kategori` alanında not olarak saklanır.
-4. `envanter.json` elle düzenlenmez. Düzeltmeler `uretim/` betiklerine ya da
-   ayrı bir `duzeltmeler.json` yama dosyasına yazılır ki yeniden üretimde kaybolmasın.
+4. `envanter.json` elle düzenlenmez. İnsan kararları `envanter/duzeltmeler.json`
+   yama dosyasına yazılır; `uygula_duzeltmeler.py` bunları her yeniden üretimde
+   otomatik uygular (başlık düzeltmesi, numara atama/birleştirme, başlık düşürme).
 
 ---
 

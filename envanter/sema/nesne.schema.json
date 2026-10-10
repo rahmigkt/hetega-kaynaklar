@@ -105,7 +105,7 @@
         "durum": {
           "type": "string",
           "enum": ["yayında", "yayında_doğrulanmadı", "yayında_numarasız",
-                   "eklenmeye_hazır", "eksik_baslik_bekliyor", "set_üyesi_bölünecek", "yayından_kaldırıldı"]
+                   "eklenmeye_hazır", "eksik_baslik_bekliyor", "set_üyesi_bölünecek", "uretildi", "yayından_kaldırıldı"]
         },
         "url":                { "type": "string" },
         "slug":               { "type": "string" },
@@ -127,7 +127,7 @@
                      "başlık_yok", "kategori_uyuşmuyor", "sayfa_uyuşmuyor", "cilt_uyuşmuyor",
                      "numara_şüpheli", "numara_otomatik_atandı", "envanter_no_yok",
                      "kitapta_mükerrer_blok", "sitede_mükerrer_numara",
-                     "set_üyesi_bölünecek", "görsel_sayfa_eşleşmesiyle_atandı"]
+                     "set_üyesi_bölünecek", "görsel_sayfa_eşleşmesiyle_atandı", "numara_insan_kararıyla_atandı", "başlık_insan_düzeltmesi", "başlık_düşürüldü"]
           }
         },
         "notlar": { "type": "array", "items": { "type": "string" } }

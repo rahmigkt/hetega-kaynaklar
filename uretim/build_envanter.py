@@ -78,6 +78,20 @@ def temiz(v):
 ESER_OK = re.compile(r'(Kitâb|Kitab|Risâle|Risale|Makale|el-|et-|fî|fi |Zîc|Zic|'
                      r'Kanun|Şifâ|Tuhfe|Câmi|Kitab al|De |Liber|Almagest)', re.I)
 
+def model_metni(baglam):
+    """Kitap bloğunun bağlamından 'Modelimiz: ... (Envanter No' metnini ayıklar."""
+    out = []; on = False
+    for x in baglam or []:
+        if re.match(r'^(\d\)|[ab]\))?\s*(Model(imiz|lerimiz)|Replikat(larımız|larımız))', x):
+            on = True
+        if on:
+            if 'Envanter' in x:
+                parca = x.split('(Envanter')[0].split('Envanter No')[0]
+                if parca.strip(): out.append(parca)
+                break
+            out.append(x)
+    return re.sub(r'\s+', ' ', ' '.join(out)).strip()
+
 def gosterim(n):
     """A04.16 -> 'A 4.16' ; J224 -> 'J 224' ; H01.06-1 -> 'H 1.06-1'"""
     m = re.match(r'\A([A-Z])(\d{2})\.(\d{2})(.*)\Z', n)
@@ -147,7 +161,8 @@ for num in sorted(set(book_by_num) | set(site_by_num)):
                       'ust_baslik': b['kitap_ust_baslik'],
                       'fig_no': b['kitap_fig_no'],
                       'satir': b['satir'],
-                      'onek_cikarim': b.get('onek_cikarim', False)}
+                      'onek_cikarim': b.get('onek_cikarim', False),
+                      'model_metni': model_metni(b['baglam'])}
         o['teknik'] = {'malzeme': b['malzeme'], 'boyutlar': b['boyutlar']}
         if b['bilgin'] or b['eser']:
             o['bilgin'], o['bilgin_kaynagi'] = temiz(b['bilgin']), 'kitap'

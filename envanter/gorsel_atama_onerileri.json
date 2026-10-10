@@ -1,29 +1,5 @@
 [
  {
-  "envanter_no": "B03.07",
-  "baslik": "Birinci Model Eduard Farre (Barselona) tarafından imal edilm",
-  "cilt": "II",
-  "sayfa": 169,
-  "M": 158,
-  "onenen_gorsel": "/kutuphane/katalog3/k117-158.jpg",
-  "katalog2_muadili": "/kutuphane/katalog2/k117-158.jpg",
-  "guven": "sayfa_aralik_tek",
-  "ayni_sayfadaki_rakip": 0,
-  "not": "envanter.json'a YAZILMADI — insan onayı bekliyor. Figür 158, II s.169 civarı. Görsel içerik olarak doğrulanmalı."
- },
- {
-  "envanter_no": "B03.07",
-  "baslik": "Birinci Model Eduard Farre (Barselona) tarafından imal edilm",
-  "cilt": "II",
-  "sayfa": 169,
-  "M": 190,
-  "onenen_gorsel": "/kutuphane/katalog3/k133-190.jpg",
-  "katalog2_muadili": "/kutuphane/katalog2/k133-190.jpg",
-  "guven": "sayfa_aralik_tek",
-  "ayni_sayfadaki_rakip": 0,
-  "not": "envanter.json'a YAZILMADI — insan onayı bekliyor. Figür 190, II s.169 civarı. Görsel içerik olarak doğrulanmalı."
- },
- {
   "envanter_no": "C01.12",
   "baslik": "PUSULA",
   "cilt": "III",
@@ -61,7 +37,7 @@
  },
  {
   "envanter_no": "D01.05",
-  "baslik": "Tesviye Aletleri",
+  "baslik": "Tesviye Aleti (kûniyâ) — 2. örnek",
   "cilt": "III",
   "sayfa": 140,
   "M": 268,

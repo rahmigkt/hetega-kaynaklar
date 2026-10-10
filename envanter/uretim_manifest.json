@@ -1,0 +1,718 @@
+{
+ "uretim_tarihi": "2026-10-10",
+ "sayfa_sayisi": 79,
+ "hedef": "/tmp/arena/tenants/954cd0e9-a1f8-402b-aaa8-874cf22f8200/sessions/e5da6964-619a-4005-9113-f63316289877/workspace/hetega-website",
+ "sayfalar": [
+  {
+   "id": "C01.18C",
+   "slug": "k3-457-namaz-pusulasi",
+   "url": "/products/k3-457-namaz-pusulasi",
+   "baslik": "Namaz Pusulası",
+   "koleksiyon": "Coğrafya ve Seyrüsefer",
+   "cilt": "Cilt III",
+   "sayfa": 77
+  },
+  {
+   "id": "D01.05",
+   "slug": "k3-458-tesviye-aleti-kuniya-2-ornek",
+   "url": "/products/k3-458-tesviye-aleti-kuniya-2-ornek",
+   "baslik": "Tesviye Aleti (kûniyâ) — 2. örnek",
+   "koleksiyon": "Tesviye ve Geometri",
+   "cilt": "Cilt III",
+   "sayfa": 140
+  },
+  {
+   "id": "H01.07",
+   "slug": "k3-459-kafa-koterizasyonu-aleti-fi-keyy-er-re-s",
+   "url": "/products/k3-459-kafa-koterizasyonu-aleti-fi-keyy-er-re-s",
+   "baslik": "Kafa Koterizasyonu Aleti (fî keyy er-re's)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 39
+  },
+  {
+   "id": "H01.09",
+   "slug": "k3-460-yuz-felci-koteri",
+   "url": "/products/k3-460-yuz-felci-koteri",
+   "baslik": "Yüz Felci Koteri",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 40
+  },
+  {
+   "id": "H02.08",
+   "slug": "k3-461-hilal-formlu-koter-mikvat-hilaliyye",
+   "url": "/products/k3-461-hilal-formlu-koter-mikvat-hilaliyye",
+   "baslik": "Hilal formlu Koter ( mikvât hilaliyye)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 46
+  },
+  {
+   "id": "H02.10",
+   "slug": "k3-462-mersin-yapragi-ase",
+   "url": "/products/k3-462-mersin-yapragi-ase",
+   "baslik": "Mersin Yaprağı (âse)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 47
+  },
+  {
+   "id": "H02.13",
+   "slug": "k3-463-katarakt-ignesi-mikdah",
+   "url": "/products/k3-463-katarakt-ignesi-mikdah",
+   "baslik": "Katarakt İğnesi (mikdah)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 44
+  },
+  {
+   "id": "H02.18",
+   "slug": "k3-464-gul-yapragi-verde",
+   "url": "/products/k3-464-gul-yapragi-verde",
+   "baslik": "Gül Yaprağı (Verde)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 45
+  },
+  {
+   "id": "H02.20",
+   "slug": "k3-465-basak-kilcigi-pensesi-kelbetan-nusuliyye",
+   "url": "/products/k3-465-basak-kilcigi-pensesi-kelbetan-nusuliyye",
+   "baslik": "Başak Kılçığı Pensesi {kelbetân nuşüliyye )",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 53
+  },
+  {
+   "id": "H02.21",
+   "slug": "k3-466-kaziyici-micrad",
+   "url": "/products/k3-466-kaziyici-micrad",
+   "baslik": "Kazıyıcı (micrad)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 48
+  },
+  {
+   "id": "H02.24",
+   "slug": "k3-467-koter-mikvat",
+   "url": "/products/k3-467-koter-mikvat",
+   "baslik": "Koter (mikvât)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 51
+  },
+  {
+   "id": "H03.10",
+   "slug": "k3-468-kanca-sinnare",
+   "url": "/products/k3-468-kanca-sinnare",
+   "baslik": "Kanca (şinnâre)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 84
+  },
+  {
+   "id": "H04.01",
+   "slug": "k3-469-kulak-agrisi-tedavi-aleti-1-2",
+   "url": "/products/k3-469-kulak-agrisi-tedavi-aleti-1-2",
+   "baslik": "Kulak Ağrısı Tedavi Aleti (1/2)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 54
+  },
+  {
+   "id": "H04.05",
+   "slug": "k3-470-makas-benzeri-alet-aletu-tusbihu-el-mikass",
+   "url": "/products/k3-470-makas-benzeri-alet-aletu-tusbihu-el-mikass",
+   "baslik": "Makas Benzeri Alet (âletu tuşbihu el-mikaşş)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 57
+  },
+  {
+   "id": "H04.07",
+   "slug": "k3-471-kulak-agrisi-tedavi-aleti-2-2",
+   "url": "/products/k3-471-kulak-agrisi-tedavi-aleti-2-2",
+   "baslik": "Kulak Ağrısı Tedavi Aleti (2/2)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 54
+  },
+  {
+   "id": "H04.09",
+   "slug": "k3-472-ince-bir-nester-mibdac-rakik",
+   "url": "/products/k3-472-ince-bir-nester-mibdac-rakik",
+   "baslik": "İnce bir Neşter (mibdac rakık)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 55
+  },
+  {
+   "id": "H05.02B",
+   "slug": "k3-473-balon-siringa-model-b",
+   "url": "/products/k3-473-balon-siringa-model-b",
+   "baslik": "Balon Şırınga (Model b)",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 71
+  },
+  {
+   "id": "H09.02",
+   "slug": "k3-474-raspator",
+   "url": "/products/k3-474-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.03",
+   "slug": "k3-475-raspator",
+   "url": "/products/k3-475-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.04",
+   "slug": "k3-476-raspator",
+   "url": "/products/k3-476-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.05",
+   "slug": "k3-477-raspator",
+   "url": "/products/k3-477-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.06",
+   "slug": "k3-478-raspator",
+   "url": "/products/k3-478-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.07",
+   "slug": "k3-479-raspator",
+   "url": "/products/k3-479-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.08",
+   "slug": "k3-480-raspator",
+   "url": "/products/k3-480-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.09",
+   "slug": "k3-481-raspator",
+   "url": "/products/k3-481-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.10",
+   "slug": "k3-482-raspator",
+   "url": "/products/k3-482-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.11",
+   "slug": "k3-483-raspator",
+   "url": "/products/k3-483-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.12",
+   "slug": "k3-484-raspator",
+   "url": "/products/k3-484-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.13",
+   "slug": "k3-485-raspator",
+   "url": "/products/k3-485-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.14",
+   "slug": "k3-486-raspator",
+   "url": "/products/k3-486-raspator",
+   "baslik": "Raspator",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 61
+  },
+  {
+   "id": "H09.16",
+   "slug": "k3-487-kirik-dis-cikarma-aleti",
+   "url": "/products/k3-487-kirik-dis-cikarma-aleti",
+   "baslik": "Kırık Diş Çıkarma Aleti",
+   "koleksiyon": "Tıp",
+   "cilt": "Cilt IV",
+   "sayfa": 63
+  },
+  {
+   "id": "J13",
+   "slug": "k3-488-kucuk-sise",
+   "url": "/products/k3-488-kucuk-sise",
+   "baslik": "Küçük Şişe",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 166
+  },
+  {
+   "id": "J21",
+   "slug": "k3-489-ayakli-kadeh",
+   "url": "/products/k3-489-ayakli-kadeh",
+   "baslik": "Ayaklı Kadeh",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 158
+  },
+  {
+   "id": "J28",
+   "slug": "k3-490-fitil",
+   "url": "/products/k3-490-fitil",
+   "baslik": "Fitil",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 153
+  },
+  {
+   "id": "J344",
+   "slug": "k3-491-disk-arap-stili-nde-nr-5524",
+   "url": "/products/k3-491-disk-arap-stili-nde-nr-5524",
+   "baslik": "Disk, 'Arap Stili'nde (Nr. 5524)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 185
+  },
+  {
+   "id": "J345",
+   "slug": "k3-492-tabak",
+   "url": "/products/k3-492-tabak",
+   "baslik": "Tabak",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 186
+  },
+  {
+   "id": "J347",
+   "slug": "k3-493-cift-kulplu-vazo",
+   "url": "/products/k3-493-cift-kulplu-vazo",
+   "baslik": "Çift Kulplu Vazo",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 188
+  },
+  {
+   "id": "J348",
+   "slug": "k3-494-vazo",
+   "url": "/products/k3-494-vazo",
+   "baslik": "Vazo",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 189
+  },
+  {
+   "id": "J349",
+   "slug": "k3-495-cift-kulplu-vazo-2",
+   "url": "/products/k3-495-cift-kulplu-vazo-2",
+   "baslik": "Çift Kulplu Vazo (2)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 190
+  },
+  {
+   "id": "J351",
+   "slug": "k3-496-kulplu-silindir-kupa",
+   "url": "/products/k3-496-kulplu-silindir-kupa",
+   "baslik": "Kulplu Silindir Kupa",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 192
+  },
+  {
+   "id": "J353",
+   "slug": "k3-497-icme-kasesi-1880",
+   "url": "/products/k3-497-icme-kasesi-1880",
+   "baslik": "İçme Kâsesi (~1880)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 194
+  },
+  {
+   "id": "J355",
+   "slug": "k3-498-vazo-ve-kulplu-surahi-altin-ag-dekorlu",
+   "url": "/products/k3-498-vazo-ve-kulplu-surahi-altin-ag-dekorlu",
+   "baslik": "Vazo ve Kulplu Sürahi (altın ağ dekorlu)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 196
+  },
+  {
+   "id": "J357-1",
+   "slug": "k3-499-benzer-vazolar-cifti-j-l-lobmeyr-viyana-19-yuzyilin-sonu",
+   "url": "/products/k3-499-benzer-vazolar-cifti-j-l-lobmeyr-viyana-19-yuzyilin-sonu",
+   "baslik": "Benzer Vazolar Çifti J. & L. Lobmeyr, Viyana, 19. yüzyılın sonu.",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 197
+  },
+  {
+   "id": "J357-2",
+   "slug": "k3-500-benzer-vazolar-cifti-2-2",
+   "url": "/products/k3-500-benzer-vazolar-cifti-2-2",
+   "baslik": "Benzer Vazolar Çifti (2/2)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 197
+  },
+  {
+   "id": "J359",
+   "slug": "k3-501-kare-seklinde-yayvan-kase",
+   "url": "/products/k3-501-kare-seklinde-yayvan-kase",
+   "baslik": "Kare Şeklinde Yayvan Kâse",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 199
+  },
+  {
+   "id": "J360",
+   "slug": "k3-502-fayans-pano",
+   "url": "/products/k3-502-fayans-pano",
+   "baslik": "Fayans Pano",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 200
+  },
+  {
+   "id": "J363",
+   "slug": "k3-503-vazo",
+   "url": "/products/k3-503-vazo",
+   "baslik": "Vazo",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 202
+  },
+  {
+   "id": "J364",
+   "slug": "k3-504-vazo-su-canagi-formunda",
+   "url": "/products/k3-504-vazo-su-canagi-formunda",
+   "baslik": "Vazo (su çanağı formunda)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 203
+  },
+  {
+   "id": "J4",
+   "slug": "k3-505-huni-3-9-4-10-yuzyil-nisabur-yesilimsi-cam-cok-hafif-zarar",
+   "url": "/products/k3-505-huni-3-9-4-10-yuzyil-nisabur-yesilimsi-cam-cok-hafif-zarar",
+   "baslik": "Huni 3./9.-4./10. yüzyıl Nîsâbür Yeşilimsi cam, çok hafif zarar görmüş emzik,",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 160
+  },
+  {
+   "id": "J46",
+   "slug": "k3-506-dokum-kalibi",
+   "url": "/products/k3-506-dokum-kalibi",
+   "baslik": "Döküm Kalıbı",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 173
+  },
+  {
+   "id": "J53",
+   "slug": "k3-507-dovme-parcasi",
+   "url": "/products/k3-507-dovme-parcasi",
+   "baslik": "Dövme Parçası",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 174
+  },
+  {
+   "id": "J57",
+   "slug": "k3-508-atesleme-celigi",
+   "url": "/products/k3-508-atesleme-celigi",
+   "baslik": "Ateşleme Çeliği",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 151
+  },
+  {
+   "id": "J58",
+   "slug": "k3-509-atesleme-celigi",
+   "url": "/products/k3-509-atesleme-celigi",
+   "baslik": "Ateşleme Çeliği",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 151
+  },
+  {
+   "id": "J59",
+   "slug": "k3-510-atesleme-celigi",
+   "url": "/products/k3-510-atesleme-celigi",
+   "baslik": "Ateşleme Çeliği",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 151
+  },
+  {
+   "id": "J61",
+   "slug": "k3-511-catal",
+   "url": "/products/k3-511-catal",
+   "baslik": "Çatal",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 143
+  },
+  {
+   "id": "J62",
+   "slug": "k3-512-yassi-kasik",
+   "url": "/products/k3-512-yassi-kasik",
+   "baslik": "Yassı Kaşık",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 146
+  },
+  {
+   "id": "J63",
+   "slug": "k3-513-kepce-ve-cengel",
+   "url": "/products/k3-513-kepce-ve-cengel",
+   "baslik": "Kepçe ve Çengel",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 143
+  },
+  {
+   "id": "J65",
+   "slug": "k3-514-makarali-sakul",
+   "url": "/products/k3-514-makarali-sakul",
+   "baslik": "Makaralı Şakül",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 152
+  },
+  {
+   "id": "J72",
+   "slug": "k3-515-a-2-muhur-tasi-akikten-bkz-v-cilt-s-168",
+   "url": "/products/k3-515-a-2-muhur-tasi-akikten-bkz-v-cilt-s-168",
+   "baslik": "A 2 mühür taşı akikten, bkz. V. Cilt s. 168.",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt IV",
+   "sayfa": 177
+  },
+  {
+   "id": "J73",
+   "slug": "k3-516-a-2-muhur-tasi-akikten-bkz-v-cilt-s-168",
+   "url": "/products/k3-516-a-2-muhur-tasi-akikten-bkz-v-cilt-s-168",
+   "baslik": "A 2 mühür taşı akikten, bkz. V. Cilt s. 168.",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt IV",
+   "sayfa": 177
+  },
+  {
+   "id": "J75",
+   "slug": "k3-517-yuzuk-tasi",
+   "url": "/products/k3-517-yuzuk-tasi",
+   "baslik": "Yüzük Taşı",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 168
+  },
+  {
+   "id": "J76",
+   "slug": "k3-518-yuzuk-tasi-nefrit",
+   "url": "/products/k3-518-yuzuk-tasi-nefrit",
+   "baslik": "Yüzük Taşı (nefrit)",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 168
+  },
+  {
+   "id": "J77",
+   "slug": "k3-519-yuzuk-tasi",
+   "url": "/products/k3-519-yuzuk-tasi",
+   "baslik": "Yüzük Taşı",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 168
+  },
+  {
+   "id": "J78",
+   "slug": "k3-520-yuzuk-tasi",
+   "url": "/products/k3-520-yuzuk-tasi",
+   "baslik": "Yüzük Taşı",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 168
+  },
+  {
+   "id": "J79",
+   "slug": "k3-521-yuzuk-tasi",
+   "url": "/products/k3-521-yuzuk-tasi",
+   "baslik": "Yüzük Taşı",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 168
+  },
+  {
+   "id": "J8",
+   "slug": "k3-522-hurma-sise",
+   "url": "/products/k3-522-hurma-sise",
+   "baslik": "Hurma Şişe",
+   "koleksiyon": "Antik Objeler",
+   "cilt": "Cilt V",
+   "sayfa": 165
+  },
+  {
+   "id": "K01.13",
+   "slug": "k3-523-imbikli-firin-firin-no-44-imbik-no-37-kombinasyonu",
+   "url": "/products/k3-523-imbikli-firin-firin-no-44-imbik-no-37-kombinasyonu",
+   "baslik": "İmbikli Fırın (fırın no. 44 + imbik no. 37 kombinasyonu)",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 146
+  },
+  {
+   "id": "K01.20",
+   "slug": "k3-524-migfer-formunda-boynuzlu-imbikli-firin",
+   "url": "/products/k3-524-migfer-formunda-boynuzlu-imbikli-firin",
+   "baslik": "Miğfer formunda boynuzlu imbikli Fırın",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 148
+  },
+  {
+   "id": "K01.68B",
+   "slug": "k3-525-imbik-sogutma-kuyruklu-b-tipi",
+   "url": "/products/k3-525-imbik-sogutma-kuyruklu-b-tipi",
+   "baslik": "İmbik (soğutma kuyruklu, b tipi)",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 128
+  },
+  {
+   "id": "K03.07",
+   "slug": "k3-526-orpiment-sari-zirnik",
+   "url": "/products/k3-526-orpiment-sari-zirnik",
+   "baslik": "Örpiment (Sarı Zırnık)",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 201
+  },
+  {
+   "id": "K03.10B",
+   "slug": "k3-527-beril-veya-krizolit",
+   "url": "/products/k3-527-beril-veya-krizolit",
+   "baslik": "Beril veya Krizolit",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 174
+  },
+  {
+   "id": "K03.18A",
+   "slug": "k3-528-alabaster-su-mermeri",
+   "url": "/products/k3-528-alabaster-su-mermeri",
+   "baslik": "Alabaster (Su Mermeri)",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 199
+  },
+  {
+   "id": "K03.23B",
+   "slug": "k3-529-akik-karneol-kirmizi",
+   "url": "/products/k3-529-akik-karneol-kirmizi",
+   "baslik": "Akik (Karneol) — kırmızı",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 177
+  },
+  {
+   "id": "K03.31B",
+   "slug": "k3-530-malahit",
+   "url": "/products/k3-530-malahit",
+   "baslik": "Malahit",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 184
+  },
+  {
+   "id": "K03.39",
+   "slug": "k3-531-inci",
+   "url": "/products/k3-531-inci",
+   "baslik": "İnci",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 207
+  },
+  {
+   "id": "K03.44",
+   "slug": "k3-532-realgar-kirmizi-zirnik",
+   "url": "/products/k3-532-realgar-kirmizi-zirnik",
+   "baslik": "Realgar (Kırmızı Zırnık)",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 201
+  },
+  {
+   "id": "K03.46B",
+   "slug": "k3-533-iyolit-luletasi",
+   "url": "/products/k3-533-iyolit-luletasi",
+   "baslik": "İyolit (Lületaşı)",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 206
+  },
+  {
+   "id": "K03.61",
+   "slug": "k3-534-gummi-arabicum-arap-zamki",
+   "url": "/products/k3-534-gummi-arabicum-arap-zamki",
+   "baslik": "Gummi arabicum (Arap Zamkı)",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 210
+  },
+  {
+   "id": "K03.62",
+   "slug": "k3-535-helile-terminalia-chebula",
+   "url": "/products/k3-535-helile-terminalia-chebula",
+   "baslik": "Helile (Terminalia chebula)",
+   "koleksiyon": "Kimya",
+   "cilt": "Cilt IV",
+   "sayfa": 210
+  }
+ ]
+}
